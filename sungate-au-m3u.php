@@ -1471,11 +1471,11 @@ http://freeiptvgen.com:25461/129815/freeiptvgen/19955041
 http://freeiptvgen.com:25461/129815/freeiptvgen/19955042
 #EXTINF:-1 tvg-id="" tvg-name="UK : Sky Cinema Premiere" tvg-logo="http://starsat123.com:8080/images/66fbcf91e598ff883878c226bf6e35d5.png" group-title="MIXED (From Pro server)",UK : Sky Cinema Premiere
 http://freeiptvgen.com:25461/129815/freeiptvgen/19955043
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" tvg-logo="" group-title="MIXED (From Pro server)",TR: ATV HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" tvg-logo="" group-title="TR",ATV HD
 http://freeiptvgen.com:25461/129815/freeiptvgen/19955044
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="MIXED (From Pro server)",TR: TRT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="TR",TRT 1 HD
 http://freeiptvgen.com:25461/129815/freeiptvgen/19955045
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2 HD" tvg-logo="" group-title="MIXED (From Pro server)",TR: TRT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2 HD" tvg-logo="" group-title="TR",TRT 2 HD
 http://freeiptvgen.com:25461/129815/freeiptvgen/19955046
 #EXTINF:-1 tvg-id="" tvg-name="USA: E! HD US" tvg-logo="http://starsat123.com:8080/images/38d066c02889f9e0135fd4274d4e1897.jpg" group-title="MIXED (From Pro server)",USA: E! HD US
 http://freeiptvgen.com:25461/129815/freeiptvgen/19955047
@@ -2031,25 +2031,25 @@ http://freeiptvgen.com:25461/129815/freeiptvgen/19954638
 http://freeiptvgen.com:25461/129815/freeiptvgen/19954639
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 4 FHD" tvg-logo="" group-title="Sports",RO: Digi Sport 4 FHD
 http://freeiptvgen.com:25461/129815/freeiptvgen/19954640
-#EXTINF:-1 tvg-id="" tvg-name="TR: Saran Sport 1 HD" tvg-logo="" group-title="Sports",TR: Saran Sport 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: Saran Sport 1 HD" tvg-logo="" group-title="TR",Saran Sport 1 HD
 http://freeiptvgen.com:25461/129815/freeiptvgen/19954643
-#EXTINF:-1 tvg-id="" tvg-name="TR: Saran Sport 2 HD" tvg-logo="" group-title="Sports",TR: Saran Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: Saran Sport 2 HD" tvg-logo="" group-title="TR",Saran Sport 2 HD
 http://freeiptvgen.com:25461/129815/freeiptvgen/19954644
-#EXTINF:-1 tvg-id="" tvg-name="TR: Smart Spor 1 FHD" tvg-logo="" group-title="Sports",TR: Smart Spor 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR: Smart Spor 1 FHD" tvg-logo="" group-title="TR",Smart Spor 1 FHD
 http://freeiptvgen.com:25461/129815/freeiptvgen/19954645
-#EXTINF:-1 tvg-id="" tvg-name="TR: Smart Spor 2 FHD" tvg-logo="" group-title="Sports",TR: Smart Spor 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR: Smart Spor 2 FHD" tvg-logo="" group-title="TR",Smart Spor 2 FHD
 http://freeiptvgen.com:25461/129815/freeiptvgen/19954646
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 1 FHD" tvg-logo="" group-title="Sports",TR: Tivibu Spor 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 1 FHD" tvg-logo="" group-title="TR",Tivibu Spor 1 FHD
 http://freeiptvgen.com:25461/129815/freeiptvgen/19954647
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 2 FHD" tvg-logo="" group-title="Sports",TR: Tivibu Spor 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 2 FHD" tvg-logo="" group-title="TR",Tivibu Spor 2 FHD
 http://freeiptvgen.com:25461/129815/freeiptvgen/19954648
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 3 FHD" tvg-logo="" group-title="Sports",TR: Tivibu Spor 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 3 FHD" tvg-logo="" group-title="TR",Tivibu Spor 3 FHD
 http://freeiptvgen.com:25461/129815/freeiptvgen/19954649
-#EXTINF:-1 tvg-id="" tvg-name="TR: A Spor FHD" tvg-logo="" group-title="Sports",TR: A Spor FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Spor FHD" tvg-logo="" group-title="TR",A Spor FHD
 http://freeiptvgen.com:25461/129815/freeiptvgen/19954650
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor HD" tvg-logo="" group-title="Sports",TR: TRT Spor HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor HD" tvg-logo="" group-title="TR",TRT Spor HD
 http://freeiptvgen.com:25461/129815/freeiptvgen/19954651
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor 2" tvg-logo="" group-title="Sports",TR: TRT Spor 2
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor 2" tvg-logo="" group-title="TR",TRT Spor 2
 http://freeiptvgen.com:25461/129815/freeiptvgen/19954652
 #EXTINF:-1 tvg-id="" tvg-name="BE: VOO SPORT 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/b4f7b3eeda324e3105f8e57c7be3eaac.png" group-title="Sports",BE: VOO SPORT 1 HD
 http://freeiptvgen.com:25461/129815/freeiptvgen/19954653
