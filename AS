@@ -13,11 +13,11 @@ https://turkmedya-live.ercdn.net/tv360/tv360_480p.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name=" TR: 360 TV" tvg - logo = "" group-title = "TR | Turkey",TR: 360 TV 
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8 
-#EXTINF:-1,TRT 4K
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 4K
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/6010
-#EXTINF:-1,TRT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/6011
-#EXTINF:-1,TRT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 2 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/6012
 #EXTINF:-1,SHOW TV HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/6013
