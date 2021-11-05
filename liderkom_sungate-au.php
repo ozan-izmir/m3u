@@ -1,4 +1,212 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| LOCA 1 HD" tvg-logo="" group-title="TURKEY",|.TR.| LOCA 1 HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104366
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| LOCA 2 HD" tvg-logo="" group-title="TURKEY",|.TR.| LOCA 2 HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104367
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| LOCA 3 HD" tvg-logo="" group-title="TURKEY",|.TR.| LOCA 3 HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104368
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| LOCAL 2" tvg-logo="" group-title="TURKEY",|.TR.| LOCAL 2
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104369
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAGIC BOX YERLI HD" tvg-logo="" group-title="TURKEY",|.TR.| MAGIC BOX YERLI HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104370
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAGICBOX AkSIYON HD" tvg-logo="" group-title="TURKEY",|.TR.| MAGICBOX AkSIYON HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104371
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAGICBOX ANIMASYON HD" tvg-logo="" group-title="TURKEY",|.TR.| MAGICBOX ANIMASYON HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104372
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAGICBOX KEMAL SUNAL HD" tvg-logo="" group-title="TURKEY",|.TR.| MAGICBOX KEMAL SUNAL HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104373
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAGICBOX KOMEDI HD" tvg-logo="" group-title="TURKEY",|.TR.| MAGICBOX KOMEDI HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104374
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAGICBOX KORKU HD" tvg-logo="" group-title="TURKEY",|.TR.| MAGICBOX KORKU HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104375
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAGICBOX LOCA 1 HD" tvg-logo="" group-title="TURKEY",|.TR.| MAGICBOX LOCA 1 HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104376
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAGICBOX LOCA 2 HD" tvg-logo="" group-title="TURKEY",|.TR.| MAGICBOX LOCA 2 HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104377
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAGICBOX LOCA 3 HD" tvg-logo="" group-title="TURKEY",|.TR.| MAGICBOX LOCA 3 HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104378
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAKSIM" tvg-logo="" group-title="TURKEY",|.TR.| MAKSIM
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104379
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MALATYA ERTV" tvg-logo="" group-title="TURKEY",|.TR.| MALATYA ERTV
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104380
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MALATYA SPOR HD" tvg-logo="" group-title="TURKEY",|.TR.| MALATYA SPOR HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104381
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MASALLAR HD" tvg-logo="" group-title="TURKEY",|.TR.| MASALLAR HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104382
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAVI KARADENIZ TV" tvg-logo="" group-title="TURKEY",|.TR.| MAVI KARADENIZ TV
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104383
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAX 007 HD" tvg-logo="" group-title="TURKEY",|.TR.| MAX 007 HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104384
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAX AKSIYON 2 HD" tvg-logo="" group-title="TURKEY",|.TR.| MAX AKSIYON 2 HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104385
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAX AKSIYON HD" tvg-logo="" group-title="TURKEY",|.TR.| MAX AKSIYON HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104386
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAX GOLD HD" tvg-logo="" group-title="TURKEY",|.TR.| MAX GOLD HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104387
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAX HINT FILIMLERI" tvg-logo="" group-title="TURKEY",|.TR.| MAX HINT FILIMLERI
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104388
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAX ORIGINALl HD" tvg-logo="" group-title="TURKEY",|.TR.| MAX ORIGINALl HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104389
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAX PLUS HD" tvg-logo="" group-title="TURKEY",|.TR.| MAX PLUS HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104390
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAX PREMIERE HD" tvg-logo="" group-title="TURKEY",|.TR.| MAX PREMIERE HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104391
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAX STAR WARS HD" tvg-logo="" group-title="TURKEY",|.TR.| MAX STAR WARS HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104392
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAX TURK HD" tvg-logo="" group-title="TURKEY",|.TR.| MAX TURK HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104393
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAX VIZION 2 HD" tvg-logo="" group-title="TURKEY",|.TR.| MAX VIZION 2 HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104394
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAX VIZYON 3 HD" tvg-logo="" group-title="TURKEY",|.TR.| MAX VIZYON 3 HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104395
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAX VIZYON 4 HD" tvg-logo="" group-title="TURKEY",|.TR.| MAX VIZYON 4 HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104396
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAX VIZYON HD" tvg-logo="" group-title="TURKEY",|.TR.| MAX VIZYON HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104397
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MAX WESTERN HD" tvg-logo="" group-title="TURKEY",|.TR.| MAX WESTERN HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104398
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| Ma?a ?le Koca Ay? FHD" tvg-logo="" group-title="TURKEY",|.TR.| Ma?a ?le Koca Ay? FHD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104399
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MC EU" tvg-logo="" group-title="TURKEY",|.TR.| MC EU
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104400
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| Med Muz" tvg-logo="" group-title="TURKEY",|.TR.| Med Muz
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104401
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MEDINE CANLI" tvg-logo="" group-title="TURKEY",|.TR.| MEDINE CANLI
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104402
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MEDINE TV" tvg-logo="" group-title="TURKEY",|.TR.| MEDINE TV
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104403
+#EXTINF:-1 tvg-id="MeltemTV.tr" tvg-name="|.TR.| MELTEM TV" tvg-logo="" group-title="TURKEY",|.TR.| MELTEM TV
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104404
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MERKEZ TV" tvg-logo="" group-title="TURKEY",|.TR.| MERKEZ TV
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104405
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| Mersin ?" tvg-logo="" group-title="TURKEY",|.TR.| Mersin ?
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104406
+#EXTINF:-1 tvg-id="MesajTV.tr" tvg-name="|.TR.| MESAJ TV" tvg-logo="http://one-iptv.com/imageslogo/MesajTV.tr.png" group-title="TURKEY",|.TR.| MESAJ TV
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104407
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| Metro T" tvg-logo="" group-title="TURKEY",|.TR.| Metro T
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104408
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MGC TV" tvg-logo="" group-title="TURKEY",|.TR.| MGC TV
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104409
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MILYON TV" tvg-logo="" group-title="TURKEY",|.TR.| MILYON TV
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104410
+#EXTINF:-1 tvg-id="minikaGO.tr" tvg-name="|.TR.| MINIKA GO " tvg-logo="" group-title="TURKEY",|.TR.| MINIKA GO 
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104411
+#EXTINF:-1 tvg-id="minikaGO.tr" tvg-name="|.TR.| MINIKA GO HD" tvg-logo="" group-title="TURKEY",|.TR.| MINIKA GO HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104412
+#EXTINF:-1 tvg-id="minikaCocuk.tr" tvg-name="|.TR.| MINIKA COCUK" tvg-logo="" group-title="TURKEY",|.TR.| MINIKA COCUK
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104413
+#EXTINF:-1 tvg-id="minikaCocuk.tr" tvg-name="|.TR.| MINIKA COCUK HD" tvg-logo="" group-title="TURKEY",|.TR.| MINIKA COCUK HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104414
+#EXTINF:-1 tvg-id="minikaGO.tr" tvg-name="|.TR.| MINIKA GO HD" tvg-logo="" group-title="TURKEY",|.TR.| MINIKA GO HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104415
+#EXTINF:-1 tvg-id="minikaCocuk.tr" tvg-name="|.TR.| MINIKA COCUK" tvg-logo="" group-title="TURKEY",|.TR.| MINIKA COCUK
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104416
+#EXTINF:-1 tvg-id="MovieSmartAction.tr" tvg-name="|.TR.| MOVIE SMART ACTION FHD" tvg-logo="" group-title="TURKEY",|.TR.| MOVIE SMART ACTION FHD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104417
+#EXTINF:-1 tvg-id="MovieSmartClassic.tr" tvg-name="|.TR.| MOVIE SMART CLASSIC HD" tvg-logo="" group-title="TURKEY",|.TR.| MOVIE SMART CLASSIC HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104418
+#EXTINF:-1 tvg-id="MovieSmartFamily.tr" tvg-name="|.TR.| MOVIE SMART FAMILY FHD" tvg-logo="" group-title="TURKEY",|.TR.| MOVIE SMART FAMILY FHD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104419
+#EXTINF:-1 tvg-id="MovieSmartFestival.tr" tvg-name="|.TR.| MOVIE SMART FESTIVAL HD" tvg-logo="" group-title="TURKEY",|.TR.| MOVIE SMART FESTIVAL HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104420
+#EXTINF:-1 tvg-id="MovieSmartGold.tr" tvg-name="|.TR.| MOVIE SMART GOLD FHD" tvg-logo="" group-title="TURKEY",|.TR.| MOVIE SMART GOLD FHD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104421
+#EXTINF:-1 tvg-id="MovieSmartPlatin2.tr" tvg-name="|.TR.| MOVIE SMART PLATIN 2 FHD" tvg-logo="" group-title="TURKEY",|.TR.| MOVIE SMART PLATIN 2 FHD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104422
+#EXTINF:-1 tvg-id="MovieSmartPlatin.tr" tvg-name="|.TR.| MOVIE SMART PLATIN FHD" tvg-logo="" group-title="TURKEY",|.TR.| MOVIE SMART PLATIN FHD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104423
+#EXTINF:-1 tvg-id="MovieSmartPremium.tr" tvg-name="|.TR.| MOVIE SMART PREMIUM 1 HD" tvg-logo="" group-title="TURKEY",|.TR.| MOVIE SMART PREMIUM 1 HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104424
+#EXTINF:-1 tvg-id="MovieSmartPremium2.tr" tvg-name="|.TR.| MOVIE SMART PREMIUM 2 HD" tvg-logo="" group-title="TURKEY",|.TR.| MOVIE SMART PREMIUM 2 HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104425
+#EXTINF:-1 tvg-id="MovieSmartPremium.tr" tvg-name="|.TR.| MOVIE SMART PREMIUM FHD" tvg-logo="" group-title="TURKEY",|.TR.| MOVIE SMART PREMIUM FHD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104426
+#EXTINF:-1 tvg-id="MovieSmartTurk.tr" tvg-name="|.TR.| MOVIE SMART TURK FHD" tvg-logo="" group-title="TURKEY",|.TR.| MOVIE SMART TURK FHD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104427
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MOVIESMART COCUK HD" tvg-logo="" group-title="TURKEY",|.TR.| MOVIESMART COCUK HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104428
+#EXTINF:-1 tvg-id="MovieSmartFamily.tr" tvg-name="|.TR.| MOVIESMART FAMLY HD" tvg-logo="" group-title="TURKEY",|.TR.| MOVIESMART FAMLY HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104429
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 1" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 1
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104430
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 2" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 2
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104431
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 3" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 3
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104432
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 4" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 4
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104433
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 5" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 5
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104434
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 6" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 6
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104435
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 7" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 7
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104436
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 8" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 8
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104437
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 9" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 9
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104438
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 10" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 10
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104439
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 11" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 11
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104440
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 12" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 12
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104441
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 13" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 13
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104442
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 14" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 14
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104443
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 15" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 15
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104444
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 16" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 16
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104445
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 17" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 17
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104446
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 18" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 18
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104447
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 19" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 19
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104448
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| MULTIVIZYON 20" tvg-logo="" group-title="TURKEY",|.TR.| MULTIVIZYON 20
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104449
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NAT GEO FHD" tvg-logo=" http://one-iptv.com/imageslogo/NatGeo.de.png" group-title="TURKEY",|.TR.| NAT GEO FHD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104450
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NAT GEO PEOPLE HD" tvg-logo=" http://one-iptv.com/imageslogo/NatGeoPeople.qa.png" group-title="TURKEY",|.TR.| NAT GEO PEOPLE HD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104451
+#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-name="|.TR.| NAT GEO WILD FHD" tvg-logo=" http://one-iptv.com/imageslogo/NatGeoWild.es.png" group-title="TURKEY",|.TR.| NAT GEO WILD FHD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104452
+#EXTINF:-1 tvg-id="NBATV.tr" tvg-name="|.TR.| NBA TV FHD" tvg-logo=" http://one-iptv.com/imageslogo/pu_nbatv.png" group-title="TURKEY",|.TR.| NBA TV FHD
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104453
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX CINEMA ANIMASYON" tvg-logo="" group-title="TURKEY",|.TR.| NEXTBOX CINEMA ANIMASYON
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104454
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX CINEMA FESTIVAL" tvg-logo="s" group-title="TURKEY",|.TR.| NEXTBOX CINEMA FESTIVAL
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104455
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX CINEMA GERILIM" tvg-logo="" group-title="TURKEY",|.TR.| NEXTBOX CINEMA GERILIM
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104456
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX CINEMA NOSTALJI" tvg-logo="" group-title="TURKEY",|.TR.| NEXTBOX CINEMA NOSTALJI
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104457
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX CINEMA PREMiER" tvg-logo="" group-title="TURKEY",|.TR.| NEXTBOX CINEMA PREMiER
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104458
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX CINEMA STARS" tvg-logo="" group-title="TURKEY",|.TR.| NEXTBOX CINEMA STARS
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104459
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX CINEMA TURK" tvg-logo="" group-title="TURKEY",|.TR.| NEXTBOX CINEMA TURK
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104460
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX CINEMA ViZYON" tvg-logo="" group-title="TURKEY",|.TR.| NEXTBOX CINEMA ViZYON
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104461
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX LOCA 1" tvg-logo="" group-title="TURKEY",|.TR.| NEXTBOX LOCA 1
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104462
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX LOCA 2" tvg-logo="" group-title="TURKEY",|.TR.| NEXTBOX LOCA 2
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104463
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX LOCA 3" tvg-logo="" group-title="TURKEY",|.TR.| NEXTBOX LOCA 3
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104464
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX LOCA 6" tvg-logo="" group-title="TURKEY",|.TR.| NEXTBOX LOCA 6
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104465
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX LOCA 7" tvg-logo="" group-title="TURKEY",|.TR.| NEXTBOX LOCA 7
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104466
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX SCARY" tvg-logo="" group-title="TURKEY",|.TR.| NEXTBOX SCARY
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104467
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX SUBTITLE" tvg-logo="" group-title="TURKEY",|.TR.| NEXTBOX SUBTITLE
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104468
+#EXTINF:-1 tvg-id="" tvg-name="|.TR.| NEXTBOX YESILCAM" tvg-logo="" group-title="TURKEY",|.TR.| NEXTBOX YESILCAM
+http://ukvip.viptvapp.com:25443/V5L8JHOATdPP/Ng6kS334gk/104469
 #EXTINF:-1 tvg-id="tf1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="http://wagmaupload.com/images/live150_158.png" group-title="FRANCE FHD",|FR| TF1 FHD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2538
 #EXTINF:-1 tvg-id="france2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="http://wagmaupload.com/images/live150_159.png" group-title="FRANCE FHD",|FR| FRANCE 2 FHD
