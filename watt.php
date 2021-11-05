@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,TR: TRT 1 HD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/328
+#EXTINF:-1,TR: STAR TV HD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/333
+#EXTINF:-1,TR: KANAL D HD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/331
+#EXTINF:-1,TR: ATV HD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/330
 #EXTINF:-1,|FR|TF1FHD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2538
 #EXTINF:-1,|FR|FRANCE2FHD
