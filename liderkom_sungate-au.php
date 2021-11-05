@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="???-||FR|TNT FHD|FR||-???" tvg-logo="http://wagmaupload.com/images/live150_157.gif" group-title="FRANCE FHD",???-||FR|TNT FHD|FR||-???
-http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2537
 #EXTINF:-1 tvg-id="tf1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="http://wagmaupload.com/images/live150_158.png" group-title="FRANCE FHD",|FR| TF1 FHD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2538
 #EXTINF:-1 tvg-id="france2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="http://wagmaupload.com/images/live150_159.png" group-title="FRANCE FHD",|FR| FRANCE 2 FHD
@@ -89,7 +87,7 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2577
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2578
 #EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL FHD" tvg-logo="http://wagmaupload.com/images/live150_20.png" group-title="FRANCE FHD",|FR| PARAMOUNT CHANNEL FHD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2579
-#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="|FR| PARAMOUNT D…CAL… FHD" tvg-logo="http://wagmaupload.com/images/live150_21.png" group-title="FRANCE FHD",|FR| PARAMOUNT D…CAL… FHD
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="|FR| PARAMOUNT D√âCAL√â FHD" tvg-logo="http://wagmaupload.com/images/live150_21.png" group-title="FRANCE FHD",|FR| PARAMOUNT D√âCAL√â FHD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2580
 #EXTINF:-1 tvg-id="tcm.fr" tvg-name="|FR| TCM CINEMA FHD" tvg-logo="http://wagmaupload.com/images/live150_WARNER_TV_FHD.png" group-title="FRANCE FHD",|FR| TCM CINEMA FHD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2581
@@ -349,7 +347,7 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2706
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2707
 #EXTINF:-1 tvg-id="bfmparis.fr" tvg-name="|FR| BFM PARIS FHD" tvg-logo="http://wagmaupload.com/images/live150_149.png" group-title="FRANCE FHD",|FR| BFM PARIS FHD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2708
-#EXTINF:-1 tvg-id="bfmlyon.fr" tvg-name="|FR| BFM LYON M…TROPOLE FHD" tvg-logo="http://wagmaupload.com/images/live150_149.png" group-title="FRANCE FHD",|FR| BFM LYON M…TROPOLE FHD
+#EXTINF:-1 tvg-id="bfmlyon.fr" tvg-name="|FR| BFM LYON M√âTROPOLE FHD" tvg-logo="http://wagmaupload.com/images/live150_149.png" group-title="FRANCE FHD",|FR| BFM LYON M√âTROPOLE FHD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2709
 #EXTINF:-1 tvg-id="lci.fr" tvg-name="|FR| LCI FHD" tvg-logo="http://wagmaupload.com/images/live150_150.png" group-title="FRANCE FHD",|FR| LCI FHD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2710
@@ -367,191 +365,191 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2715
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2716
 #EXTINF:-1 tvg-id="i24news.fr" tvg-name="|FR| I24 FHD" tvg-logo="http://wagmaupload.com/images/live150_156.png" group-title="FRANCE FHD",|FR| I24 FHD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2717
-#EXTINF:-1 tvg-id="tf1.fr" tvg-name="|FR| TF1 HD" tvg-logo="http://wagmaupload.com/images/live150_158.png" group-title="FRANCE G…N…RAL",|FR| TF1 HD
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="|FR| TF1 HD" tvg-logo="http://wagmaupload.com/images/live150_158.png" group-title="FRANCE G√âN√âRAL",|FR| TF1 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3471
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 SD" tvg-logo="http://wagmaupload.com/images/live150_158.png" group-title="FRANCE G…N…RAL",|FR| TF1 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 SD" tvg-logo="http://wagmaupload.com/images/live150_158.png" group-title="FRANCE G√âN√âRAL",|FR| TF1 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117637
-#EXTINF:-1 tvg-id="tf1.fr" tvg-name="|FR| TF1 +1 HD" tvg-logo="http://wagmaupload.com/images/live150_2021-03-17_23-29-281616020168.6433.jpeg" group-title="FRANCE G…N…RAL",|FR| TF1 +1 HD
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="|FR| TF1 +1 HD" tvg-logo="http://wagmaupload.com/images/live150_2021-03-17_23-29-281616020168.6433.jpeg" group-title="FRANCE G√âN√âRAL",|FR| TF1 +1 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3472
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 +1 SD" tvg-logo="http://wagmaupload.com/images/live150_158.png" group-title="FRANCE G…N…RAL",|FR| TF1 +1 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 +1 SD" tvg-logo="http://wagmaupload.com/images/live150_158.png" group-title="FRANCE G√âN√âRAL",|FR| TF1 +1 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117638
-#EXTINF:-1 tvg-id="france2.fr" tvg-name="|FR| FRANCE 2 HD" tvg-logo="http://wagmaupload.com/images/live150_159.png" group-title="FRANCE G…N…RAL",|FR| FRANCE 2 HD
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="|FR| FRANCE 2 HD" tvg-logo="http://wagmaupload.com/images/live150_159.png" group-title="FRANCE G√âN√âRAL",|FR| FRANCE 2 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3473
-#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 2 SD" tvg-logo="http://wagmaupload.com/images/live150_159.png" group-title="FRANCE G…N…RAL",|FR| FRANCE 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 2 SD" tvg-logo="http://wagmaupload.com/images/live150_159.png" group-title="FRANCE G√âN√âRAL",|FR| FRANCE 2 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117639
-#EXTINF:-1 tvg-id="france3.fr" tvg-name="|FR| FRANCE 3 HD" tvg-logo="http://wagmaupload.com/images/live150_160.png" group-title="FRANCE G…N…RAL",|FR| FRANCE 3 HD
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="|FR| FRANCE 3 HD" tvg-logo="http://wagmaupload.com/images/live150_160.png" group-title="FRANCE G√âN√âRAL",|FR| FRANCE 3 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3474
-#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 SD" tvg-logo="http://wagmaupload.com/images/live150_160.png" group-title="FRANCE G…N…RAL",|FR| FRANCE 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 SD" tvg-logo="http://wagmaupload.com/images/live150_160.png" group-title="FRANCE G√âN√âRAL",|FR| FRANCE 3 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117640
-#EXTINF:-1 tvg-id="france4.fr" tvg-name="|FR| FRANCE 4 HD" tvg-logo="http://wagmaupload.com/images/live150_161.png" group-title="FRANCE G…N…RAL",|FR| FRANCE 4 HD
+#EXTINF:-1 tvg-id="france4.fr" tvg-name="|FR| FRANCE 4 HD" tvg-logo="http://wagmaupload.com/images/live150_161.png" group-title="FRANCE G√âN√âRAL",|FR| FRANCE 4 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3475
-#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 4 SD" tvg-logo="http://wagmaupload.com/images/live150_161.png" group-title="FRANCE G…N…RAL",|FR| FRANCE 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 4 SD" tvg-logo="http://wagmaupload.com/images/live150_161.png" group-title="FRANCE G√âN√âRAL",|FR| FRANCE 4 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117641
-#EXTINF:-1 tvg-id="france5.fr" tvg-name="|FR| FRANCE 5 HD" tvg-logo="http://wagmaupload.com/images/live150_162.png" group-title="FRANCE G…N…RAL",|FR| FRANCE 5 HD
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="|FR| FRANCE 5 HD" tvg-logo="http://wagmaupload.com/images/live150_162.png" group-title="FRANCE G√âN√âRAL",|FR| FRANCE 5 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3476
-#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 5 SD" tvg-logo="http://wagmaupload.com/images/live150_162.png" group-title="FRANCE G…N…RAL",|FR| FRANCE 5 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 5 SD" tvg-logo="http://wagmaupload.com/images/live150_162.png" group-title="FRANCE G√âN√âRAL",|FR| FRANCE 5 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117642
-#EXTINF:-1 tvg-id="arte.fr" tvg-name="|FR| ARTE HD" tvg-logo="http://wagmaupload.com/images/live150_163.png" group-title="FRANCE G…N…RAL",|FR| ARTE HD
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="|FR| ARTE HD" tvg-logo="http://wagmaupload.com/images/live150_163.png" group-title="FRANCE G√âN√âRAL",|FR| ARTE HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3477
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ARTE SD" tvg-logo="http://wagmaupload.com/images/live150_163.png" group-title="FRANCE G…N…RAL",|FR| ARTE SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ARTE SD" tvg-logo="http://wagmaupload.com/images/live150_163.png" group-title="FRANCE G√âN√âRAL",|FR| ARTE SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117644
-#EXTINF:-1 tvg-id="m6.fr" tvg-name="|FR| M6 HD" tvg-logo="http://wagmaupload.com/images/live150_164.png" group-title="FRANCE G…N…RAL",|FR| M6 HD
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="|FR| M6 HD" tvg-logo="http://wagmaupload.com/images/live150_164.png" group-title="FRANCE G√âN√âRAL",|FR| M6 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3478
-#EXTINF:-1 tvg-id="" tvg-name="|FR| M6 SD" tvg-logo="http://wagmaupload.com/images/live150_164.png" group-title="FRANCE G…N…RAL",|FR| M6 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| M6 SD" tvg-logo="http://wagmaupload.com/images/live150_164.png" group-title="FRANCE G√âN√âRAL",|FR| M6 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117643
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR| 6TER HD" tvg-logo="http://wagmaupload.com/images/live150_165.png" group-title="FRANCE G…N…RAL",|FR| 6TER HD
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR| 6TER HD" tvg-logo="http://wagmaupload.com/images/live150_165.png" group-title="FRANCE G√âN√âRAL",|FR| 6TER HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3479
-#EXTINF:-1 tvg-id="" tvg-name="|FR| 6TER SD" tvg-logo="http://wagmaupload.com/images/live150_165.png" group-title="FRANCE G…N…RAL",|FR| 6TER SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| 6TER SD" tvg-logo="http://wagmaupload.com/images/live150_165.png" group-title="FRANCE G√âN√âRAL",|FR| 6TER SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117645
-#EXTINF:-1 tvg-id="w9.fr" tvg-name="|FR| W9 HD" tvg-logo="http://wagmaupload.com/images/live150_166.png" group-title="FRANCE G…N…RAL",|FR| W9 HD
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="|FR| W9 HD" tvg-logo="http://wagmaupload.com/images/live150_166.png" group-title="FRANCE G√âN√âRAL",|FR| W9 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3480
-#EXTINF:-1 tvg-id="" tvg-name="|FR| W9 SD" tvg-logo="http://wagmaupload.com/images/live150_166.png" group-title="FRANCE G…N…RAL",|FR| W9 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| W9 SD" tvg-logo="http://wagmaupload.com/images/live150_166.png" group-title="FRANCE G√âN√âRAL",|FR| W9 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117646
-#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="|FR| NRJ 12" tvg-logo="http://wagmaupload.com/images/live150_167.png" group-title="FRANCE G…N…RAL",|FR| NRJ 12
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="|FR| NRJ 12" tvg-logo="http://wagmaupload.com/images/live150_167.png" group-title="FRANCE G√âN√âRAL",|FR| NRJ 12
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3481
-#EXTINF:-1 tvg-id="" tvg-name="|FR| NRJ 12 SD" tvg-logo="http://wagmaupload.com/images/live150_167.png" group-title="FRANCE G…N…RAL",|FR| NRJ 12 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NRJ 12 SD" tvg-logo="http://wagmaupload.com/images/live150_167.png" group-title="FRANCE G√âN√âRAL",|FR| NRJ 12 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117647
-#EXTINF:-1 tvg-id="tfx.fr" tvg-name="|FR| TFX HD" tvg-logo="http://wagmaupload.com/images/live150_168.png" group-title="FRANCE G…N…RAL",|FR| TFX HD
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="|FR| TFX HD" tvg-logo="http://wagmaupload.com/images/live150_168.png" group-title="FRANCE G√âN√âRAL",|FR| TFX HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3482
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TFX SD" tvg-logo="http://wagmaupload.com/images/live150_168.png" group-title="FRANCE G…N…RAL",|FR| TFX SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TFX SD" tvg-logo="http://wagmaupload.com/images/live150_168.png" group-title="FRANCE G√âN√âRAL",|FR| TFX SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117648
-#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="|FR| TF1 SERIES FILM HD" tvg-logo="http://wagmaupload.com/images/live150_169.png" group-title="FRANCE G…N…RAL",|FR| TF1 SERIES FILM HD
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="|FR| TF1 SERIES FILM HD" tvg-logo="http://wagmaupload.com/images/live150_169.png" group-title="FRANCE G√âN√âRAL",|FR| TF1 SERIES FILM HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3483
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 SERIES FILMS SD" tvg-logo="http://wagmaupload.com/images/live150_169.png" group-title="FRANCE G…N…RAL",|FR| TF1 SERIES FILMS SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 SERIES FILMS SD" tvg-logo="http://wagmaupload.com/images/live150_169.png" group-title="FRANCE G√âN√âRAL",|FR| TF1 SERIES FILMS SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117649
-#EXTINF:-1 tvg-id="c8.fr" tvg-name="|FR| C8 HD" tvg-logo="http://wagmaupload.com/images/live150_170.png" group-title="FRANCE G…N…RAL",|FR| C8 HD
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="|FR| C8 HD" tvg-logo="http://wagmaupload.com/images/live150_170.png" group-title="FRANCE G√âN√âRAL",|FR| C8 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3484
-#EXTINF:-1 tvg-id="" tvg-name="|FR| C8 SD" tvg-logo="http://wagmaupload.com/images/live150_170.png" group-title="FRANCE G…N…RAL",|FR| C8 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| C8 SD" tvg-logo="http://wagmaupload.com/images/live150_170.png" group-title="FRANCE G√âN√âRAL",|FR| C8 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117650
-#EXTINF:-1 tvg-id="cstar.fr" tvg-name="|FR| CSTAR HD" tvg-logo="http://wagmaupload.com/images/live150_171.png" group-title="FRANCE G…N…RAL",|FR| CSTAR HD
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="|FR| CSTAR HD" tvg-logo="http://wagmaupload.com/images/live150_171.png" group-title="FRANCE G√âN√âRAL",|FR| CSTAR HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3485
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CSTAR SD" tvg-logo="http://wagmaupload.com/images/live150_171.png" group-title="FRANCE G…N…RAL",|FR| CSTAR SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CSTAR SD" tvg-logo="http://wagmaupload.com/images/live150_171.png" group-title="FRANCE G√âN√âRAL",|FR| CSTAR SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117651
-#EXTINF:-1 tvg-id="tmc.fr" tvg-name="|FR| TMC HD" tvg-logo="http://wagmaupload.com/images/live150_172.png" group-title="FRANCE G…N…RAL",|FR| TMC HD
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="|FR| TMC HD" tvg-logo="http://wagmaupload.com/images/live150_172.png" group-title="FRANCE G√âN√âRAL",|FR| TMC HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3486
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TMC SD" tvg-logo="http://wagmaupload.com/images/live150_172.png" group-title="FRANCE G…N…RAL",|FR| TMC SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TMC SD" tvg-logo="http://wagmaupload.com/images/live150_172.png" group-title="FRANCE G√âN√âRAL",|FR| TMC SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117652
-#EXTINF:-1 tvg-id="tmc.fr" tvg-name="|FR| TMC +1 HD" tvg-logo="http://wagmaupload.com/images/live150_172.png" group-title="FRANCE G…N…RAL",|FR| TMC +1 HD
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="|FR| TMC +1 HD" tvg-logo="http://wagmaupload.com/images/live150_172.png" group-title="FRANCE G√âN√âRAL",|FR| TMC +1 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3487
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TMC +1 SD" tvg-logo="http://wagmaupload.com/images/live150_172.png" group-title="FRANCE G…N…RAL",|FR| TMC +1 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TMC +1 SD" tvg-logo="http://wagmaupload.com/images/live150_172.png" group-title="FRANCE G√âN√âRAL",|FR| TMC +1 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117653
-#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC STORY HD" tvg-logo="http://wagmaupload.com/images/live150_173.png" group-title="FRANCE G…N…RAL",|FR| RMC STORY HD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC STORY HD" tvg-logo="http://wagmaupload.com/images/live150_173.png" group-title="FRANCE G√âN√âRAL",|FR| RMC STORY HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117685
-#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC STORY SD" tvg-logo="http://wagmaupload.com/images/live150_173.png" group-title="FRANCE G…N…RAL",|FR| RMC STORY SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC STORY SD" tvg-logo="http://wagmaupload.com/images/live150_173.png" group-title="FRANCE G√âN√âRAL",|FR| RMC STORY SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117656
-#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="|FR| Cherie 25 HD" tvg-logo="http://wagmaupload.com/images/live150_174.png" group-title="FRANCE G…N…RAL",|FR| Cherie 25 HD
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="|FR| Cherie 25 HD" tvg-logo="http://wagmaupload.com/images/live150_174.png" group-title="FRANCE G√âN√âRAL",|FR| Cherie 25 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3488
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CHERIE 25 SD" tvg-logo="http://wagmaupload.com/images/live150_174.png" group-title="FRANCE G…N…RAL",|FR| CHERIE 25 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CHERIE 25 SD" tvg-logo="http://wagmaupload.com/images/live150_174.png" group-title="FRANCE G√âN√âRAL",|FR| CHERIE 25 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117654
-#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="|FR| RTL9 HD" tvg-logo="http://wagmaupload.com/images/live150_30.png" group-title="FRANCE G…N…RAL",|FR| RTL9 HD
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="|FR| RTL9 HD" tvg-logo="http://wagmaupload.com/images/live150_30.png" group-title="FRANCE G√âN√âRAL",|FR| RTL9 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3521
-#EXTINF:-1 tvg-id="" tvg-name="|FR| RTL9 SD" tvg-logo="http://wagmaupload.com/images/live150_30.png" group-title="FRANCE G…N…RAL",|FR| RTL9 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RTL9 SD" tvg-logo="http://wagmaupload.com/images/live150_30.png" group-title="FRANCE G√âN√âRAL",|FR| RTL9 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117657
-#EXTINF:-1 tvg-id="alticestudio.fr" tvg-name="|FR| ALTICE STUDIO HD" tvg-logo="http://wagmaupload.com/images/live150_14.png" group-title="FRANCE G…N…RAL",|FR| ALTICE STUDIO HD
+#EXTINF:-1 tvg-id="alticestudio.fr" tvg-name="|FR| ALTICE STUDIO HD" tvg-logo="http://wagmaupload.com/images/live150_14.png" group-title="FRANCE G√âN√âRAL",|FR| ALTICE STUDIO HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3507
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ALTICE STUDIO SD" tvg-logo="http://wagmaupload.com/images/live150_14.png" group-title="FRANCE G…N…RAL",|FR| ALTICE STUDIO SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ALTICE STUDIO SD" tvg-logo="http://wagmaupload.com/images/live150_14.png" group-title="FRANCE G√âN√âRAL",|FR| ALTICE STUDIO SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117668
-#EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="|FR| TV BREIZH HD" tvg-logo="http://wagmaupload.com/images/live150_TV_BREIZH_HD.png" group-title="FRANCE G…N…RAL",|FR| TV BREIZH HD
+#EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="|FR| TV BREIZH HD" tvg-logo="http://wagmaupload.com/images/live150_TV_BREIZH_HD.png" group-title="FRANCE G√âN√âRAL",|FR| TV BREIZH HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3526
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TV BREIZH SD" tvg-logo="http://wagmaupload.com/images/live150_TV_BREIZH_HD.png" group-title="FRANCE G…N…RAL",|FR| TV BREIZH SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV BREIZH SD" tvg-logo="http://wagmaupload.com/images/live150_TV_BREIZH_HD.png" group-title="FRANCE G√âN√âRAL",|FR| TV BREIZH SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117655
-#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="|FR| SERIE CLUB HD" tvg-logo="http://wagmaupload.com/images/live150_33.png" group-title="FRANCE G…N…RAL",|FR| SERIE CLUB HD
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="|FR| SERIE CLUB HD" tvg-logo="http://wagmaupload.com/images/live150_33.png" group-title="FRANCE G√âN√âRAL",|FR| SERIE CLUB HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3524
-#EXTINF:-1 tvg-id="" tvg-name="|FR| SERIE CLUB SD" tvg-logo="http://wagmaupload.com/images/live150_33.png" group-title="FRANCE G…N…RAL",|FR| SERIE CLUB SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SERIE CLUB SD" tvg-logo="http://wagmaupload.com/images/live150_33.png" group-title="FRANCE G√âN√âRAL",|FR| SERIE CLUB SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117658
-#EXTINF:-1 tvg-id="teva.fr" tvg-name="|FR| TEVA HD" tvg-logo="http://wagmaupload.com/images/live150_29.png" group-title="FRANCE G…N…RAL",|FR| TEVA HD
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="|FR| TEVA HD" tvg-logo="http://wagmaupload.com/images/live150_29.png" group-title="FRANCE G√âN√âRAL",|FR| TEVA HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3520
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TEVA SD" tvg-logo="http://wagmaupload.com/images/live150_29.png" group-title="FRANCE G…N…RAL",|FR| TEVA SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TEVA SD" tvg-logo="http://wagmaupload.com/images/live150_29.png" group-title="FRANCE G√âN√âRAL",|FR| TEVA SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117659
-#EXTINF:-1 tvg-id="ab1.fr" tvg-name="|FR| AB1 HD" tvg-logo="http://wagmaupload.com/images/live150_31.png" group-title="FRANCE G…N…RAL",|FR| AB1 HD
+#EXTINF:-1 tvg-id="ab1.fr" tvg-name="|FR| AB1 HD" tvg-logo="http://wagmaupload.com/images/live150_31.png" group-title="FRANCE G√âN√âRAL",|FR| AB1 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3522
-#EXTINF:-1 tvg-id="" tvg-name="|FR| AB1 SD" tvg-logo="http://wagmaupload.com/images/live150_31.png" group-title="FRANCE G…N…RAL",|FR| AB1 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AB1 SD" tvg-logo="http://wagmaupload.com/images/live150_31.png" group-title="FRANCE G√âN√âRAL",|FR| AB1 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117666
-#EXTINF:-1 tvg-id="ab3.fr" tvg-name="|FR| AB3 HD" tvg-logo="http://wagmaupload.com/images/live150_32.png" group-title="FRANCE G…N…RAL",|FR| AB3 HD
+#EXTINF:-1 tvg-id="ab3.fr" tvg-name="|FR| AB3 HD" tvg-logo="http://wagmaupload.com/images/live150_32.png" group-title="FRANCE G√âN√âRAL",|FR| AB3 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3523
-#EXTINF:-1 tvg-id="" tvg-name="|FR| AB3 SD" tvg-logo="http://wagmaupload.com/images/live150_32.png" group-title="FRANCE G…N…RAL",|FR| AB3 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AB3 SD" tvg-logo="http://wagmaupload.com/images/live150_32.png" group-title="FRANCE G√âN√âRAL",|FR| AB3 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117667
-#EXTINF:-1 tvg-id="13emerue.fr" tvg-name="|FR| 13EME RUE HD" tvg-logo="http://wagmaupload.com/images/live150_28.png" group-title="FRANCE G…N…RAL",|FR| 13EME RUE HD
+#EXTINF:-1 tvg-id="13emerue.fr" tvg-name="|FR| 13EME RUE HD" tvg-logo="http://wagmaupload.com/images/live150_28.png" group-title="FRANCE G√âN√âRAL",|FR| 13EME RUE HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3519
-#EXTINF:-1 tvg-id="" tvg-name="|FR| 13EME RUE SD" tvg-logo="http://wagmaupload.com/images/live150_28.png" group-title="FRANCE G…N…RAL",|FR| 13EME RUE SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| 13EME RUE SD" tvg-logo="http://wagmaupload.com/images/live150_28.png" group-title="FRANCE G√âN√âRAL",|FR| 13EME RUE SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117665
-#EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="|FR| PARIS PREMIERE HD" tvg-logo="http://wagmaupload.com/images/live150_34.png" group-title="FRANCE G…N…RAL",|FR| PARIS PREMIERE HD
+#EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="|FR| PARIS PREMIERE HD" tvg-logo="http://wagmaupload.com/images/live150_34.png" group-title="FRANCE G√âN√âRAL",|FR| PARIS PREMIERE HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3525
-#EXTINF:-1 tvg-id="" tvg-name="|FR| PARIS PREMIERE SD" tvg-logo="http://wagmaupload.com/images/live150_34.png" group-title="FRANCE G…N…RAL",|FR| PARIS PREMIERE SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PARIS PREMIERE SD" tvg-logo="http://wagmaupload.com/images/live150_34.png" group-title="FRANCE G√âN√âRAL",|FR| PARIS PREMIERE SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117660
-#EXTINF:-1 tvg-id="" tvg-name="|FR| E! ENTERTAINMENT HD" tvg-logo="http://wagmaupload.com/images/live150_ELOGO22222.png" group-title="FRANCE G…N…RAL",|FR| E! ENTERTAINMENT HD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| E! ENTERTAINMENT HD" tvg-logo="http://wagmaupload.com/images/live150_ELOGO22222.png" group-title="FRANCE G√âN√âRAL",|FR| E! ENTERTAINMENT HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117687
-#EXTINF:-1 tvg-id="" tvg-name="|FR| E! ENTERTAINMENT SD" tvg-logo="http://wagmaupload.com/images/live150_ELOGO22222.png" group-title="FRANCE G…N…RAL",|FR| E! ENTERTAINMENT SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| E! ENTERTAINMENT SD" tvg-logo="http://wagmaupload.com/images/live150_ELOGO22222.png" group-title="FRANCE G√âN√âRAL",|FR| E! ENTERTAINMENT SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117663
-#EXTINF:-1 tvg-id="" tvg-name="|FR| SYFY HD" tvg-logo="http://wagmaupload.com/images/live150_27.png" group-title="FRANCE G…N…RAL",|FR| SYFY HD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SYFY HD" tvg-logo="http://wagmaupload.com/images/live150_27.png" group-title="FRANCE G√âN√âRAL",|FR| SYFY HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117686
-#EXTINF:-1 tvg-id="" tvg-name="|FR| SYFY SD" tvg-logo="http://wagmaupload.com/images/live150_27.png" group-title="FRANCE G…N…RAL",|FR| SYFY SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SYFY SD" tvg-logo="http://wagmaupload.com/images/live150_27.png" group-title="FRANCE G√âN√âRAL",|FR| SYFY SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117662
-#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="|FR| COMEDIE+ HD" tvg-logo="http://wagmaupload.com/images/live150_25.png" group-title="FRANCE G…N…RAL",|FR| COMEDIE+ HD
+#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="|FR| COMEDIE+ HD" tvg-logo="http://wagmaupload.com/images/live150_25.png" group-title="FRANCE G√âN√âRAL",|FR| COMEDIE+ HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3517
-#EXTINF:-1 tvg-id="" tvg-name="|FR| COMEDIE+ SD" tvg-logo="http://wagmaupload.com/images/live150_25.png" group-title="FRANCE G…N…RAL",|FR| COMEDIE+ SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| COMEDIE+ SD" tvg-logo="http://wagmaupload.com/images/live150_25.png" group-title="FRANCE G√âN√âRAL",|FR| COMEDIE+ SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117664
-#EXTINF:-1 tvg-id="" tvg-name="|FR| POLAR+ SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| POLAR+ SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| POLAR+ SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| POLAR+ SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117661
-#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="|FR| WARNER TV HD" tvg-logo="http://wagmaupload.com/images/vod_Warner_Channel_HD.png" group-title="FRANCE G…N…RAL",|FR| WARNER TV HD
+#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="|FR| WARNER TV HD" tvg-logo="http://wagmaupload.com/images/vod_Warner_Channel_HD.png" group-title="FRANCE G√âN√âRAL",|FR| WARNER TV HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3508
-#EXTINF:-1 tvg-id="" tvg-name="|FR| WARNER TV SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| WARNER TV SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| WARNER TV SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| WARNER TV SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117676
-#EXTINF:-1 tvg-id="novelastv.fr" tvg-name="|FR| NOVELAS TV HD" tvg-logo="http://wagmaupload.com/images/live150_18.png" group-title="FRANCE G…N…RAL",|FR| NOVELAS TV HD
+#EXTINF:-1 tvg-id="novelastv.fr" tvg-name="|FR| NOVELAS TV HD" tvg-logo="http://wagmaupload.com/images/live150_18.png" group-title="FRANCE G√âN√âRAL",|FR| NOVELAS TV HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3509
-#EXTINF:-1 tvg-id="" tvg-name="|FR| NOVELAS TV SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| NOVELAS TV SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NOVELAS TV SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| NOVELAS TV SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117675
-#EXTINF:-1 tvg-id="comedycentral.fr" tvg-name="|FR| COMEDY CENTRAL HD" tvg-logo="http://wagmaupload.com/images/live150_26.png" group-title="FRANCE G…N…RAL",|FR| COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="comedycentral.fr" tvg-name="|FR| COMEDY CENTRAL HD" tvg-logo="http://wagmaupload.com/images/live150_26.png" group-title="FRANCE G√âN√âRAL",|FR| COMEDY CENTRAL HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3518
-#EXTINF:-1 tvg-id="" tvg-name="|FR| COMEDY CENTRAL FRANCE SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| COMEDY CENTRAL FRANCE SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| COMEDY CENTRAL FRANCE SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| COMEDY CENTRAL FRANCE SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117671
-#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="|FR| PARAMOUNT D…CAL… HD" tvg-logo="http://wagmaupload.com/images/live150_21.png" group-title="FRANCE G…N…RAL",|FR| PARAMOUNT D…CAL… HD
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="|FR| PARAMOUNT D√âCAL√â HD" tvg-logo="http://wagmaupload.com/images/live150_21.png" group-title="FRANCE G√âN√âRAL",|FR| PARAMOUNT D√âCAL√â HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3513
-#EXTINF:-1 tvg-id="" tvg-name="|FR| PARAMOUNT DECALE SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| PARAMOUNT DECALE SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PARAMOUNT DECALE SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| PARAMOUNT DECALE SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117673
-#EXTINF:-1 tvg-id="mtvhitsfrance.fr" tvg-name="|FR| MTV HITS HD" tvg-logo="http://wagmaupload.com/images/live150_135.png" group-title="FRANCE G…N…RAL",|FR| MTV HITS HD
+#EXTINF:-1 tvg-id="mtvhitsfrance.fr" tvg-name="|FR| MTV HITS HD" tvg-logo="http://wagmaupload.com/images/live150_135.png" group-title="FRANCE G√âN√âRAL",|FR| MTV HITS HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3596
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV HITS SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| MTV HITS SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV HITS SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| MTV HITS SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117683
-#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="|FR| NRJ HITS HD" tvg-logo="http://wagmaupload.com/images/live150_131.png" group-title="FRANCE G…N…RAL",|FR| NRJ HITS HD
+#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="|FR| NRJ HITS HD" tvg-logo="http://wagmaupload.com/images/live150_131.png" group-title="FRANCE G√âN√âRAL",|FR| NRJ HITS HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3594
-#EXTINF:-1 tvg-id="" tvg-name="|FR| NRJ HITS TV SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| NRJ HITS TV SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NRJ HITS TV SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| NRJ HITS TV SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117681
-#EXTINF:-1 tvg-id="m6music.fr" tvg-name="|FR| M6 MUSIC HD" tvg-logo="http://wagmaupload.com/images/live150_132.png" group-title="FRANCE G…N…RAL",|FR| M6 MUSIC HD
+#EXTINF:-1 tvg-id="m6music.fr" tvg-name="|FR| M6 MUSIC HD" tvg-logo="http://wagmaupload.com/images/live150_132.png" group-title="FRANCE G√âN√âRAL",|FR| M6 MUSIC HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3597
-#EXTINF:-1 tvg-id="" tvg-name="|FR| M6 MUSIC SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| M6 MUSIC SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| M6 MUSIC SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| M6 MUSIC SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117680
-#EXTINF:-1 tvg-id="bet.fr" tvg-name="|FR| BET HD" tvg-logo="http://wagmaupload.com/images/live150_BET_HD.png" group-title="FRANCE G…N…RAL",|FR| BET HD
+#EXTINF:-1 tvg-id="bet.fr" tvg-name="|FR| BET HD" tvg-logo="http://wagmaupload.com/images/live150_BET_HD.png" group-title="FRANCE G√âN√âRAL",|FR| BET HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3527
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BET SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| BET SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BET SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| BET SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117670
-#EXTINF:-1 tvg-id="" tvg-name="|FR| LUXE TV HD" tvg-logo="http://wagmaupload.com/images/live150_2021-03-17_17-49-051615999745.6999.jpeg" group-title="FRANCE G…N…RAL",|FR| LUXE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LUXE TV HD" tvg-logo="http://wagmaupload.com/images/live150_2021-03-17_17-49-051615999745.6999.jpeg" group-title="FRANCE G√âN√âRAL",|FR| LUXE TV HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3529
-#EXTINF:-1 tvg-id="" tvg-name="|FR| LUXE TV SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| LUXE TV SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LUXE TV SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| LUXE TV SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117678
-#EXTINF:-1 tvg-id="nonstoppeople.fr" tvg-name="|FR| NON STOP PEOPLE HD" tvg-logo="http://wagmaupload.com/images/live150_38.png" group-title="FRANCE G…N…RAL",|FR| NON STOP PEOPLE HD
+#EXTINF:-1 tvg-id="nonstoppeople.fr" tvg-name="|FR| NON STOP PEOPLE HD" tvg-logo="http://wagmaupload.com/images/live150_38.png" group-title="FRANCE G√âN√âRAL",|FR| NON STOP PEOPLE HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3528
-#EXTINF:-1 tvg-id="" tvg-name="|FR| NON STOP PEOPLE TV SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| NON STOP PEOPLE TV SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NON STOP PEOPLE TV SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| NON STOP PEOPLE TV SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117674
-#EXTINF:-1 tvg-id="mtv.fr" tvg-name="|FR| MTV HD" tvg-logo="http://wagmaupload.com/images/live150_|FR|_MTV_HD.png" group-title="FRANCE G…N…RAL",|FR| MTV HD
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="|FR| MTV HD" tvg-logo="http://wagmaupload.com/images/live150_|FR|_MTV_HD.png" group-title="FRANCE G√âN√âRAL",|FR| MTV HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3595
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV FRANCE SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| MTV FRANCE SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV FRANCE SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| MTV FRANCE SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117682
-#EXTINF:-1 tvg-id="mcm.fr" tvg-name="|FR| MCM HD" tvg-logo="http://wagmaupload.com/images/live150_133.png" group-title="FRANCE G…N…RAL",|FR| MCM HD
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="|FR| MCM HD" tvg-logo="http://wagmaupload.com/images/live150_133.png" group-title="FRANCE G√âN√âRAL",|FR| MCM HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3593
-#EXTINF:-1 tvg-id="mezzo.fr" tvg-name="|FR| MEZZO HD" tvg-logo="http://wagmaupload.com/images/live150_136.png" group-title="FRANCE G…N…RAL",|FR| MEZZO HD
+#EXTINF:-1 tvg-id="mezzo.fr" tvg-name="|FR| MEZZO HD" tvg-logo="http://wagmaupload.com/images/live150_136.png" group-title="FRANCE G√âN√âRAL",|FR| MEZZO HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3598
-#EXTINF:-1 tvg-id="" tvg-name="|FR| PUBLIC S…NAT SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| PUBLIC S…NAT SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PUBLIC S√âNAT SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| PUBLIC S√âNAT SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117679
-#EXTINF:-1 tvg-id="" tvg-name="|FR| FASHION TV SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| FASHION TV SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FASHION TV SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| FASHION TV SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117669
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ELLE GIRLS SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| ELLE GIRLS SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ELLE GIRLS SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| ELLE GIRLS SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117672
-#EXTINF:-1 tvg-id="" tvg-name="|FR| LUCKY JACK SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| LUCKY JACK SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LUCKY JACK SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| LUCKY JACK SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117677
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CSTAR HITS SD" tvg-logo="" group-title="FRANCE G…N…RAL",|FR| CSTAR HITS SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CSTAR HITS SD" tvg-logo="" group-title="FRANCE G√âN√âRAL",|FR| CSTAR HITS SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117684
-#EXTINF:-1 tvg-id="melody.fr" tvg-name="|FR| MELODY HD" tvg-logo="http://wagmaupload.com/images/live150_130.png" group-title="FRANCE G…N…RAL",|FR| MELODY HD
+#EXTINF:-1 tvg-id="melody.fr" tvg-name="|FR| MELODY HD" tvg-logo="http://wagmaupload.com/images/live150_130.png" group-title="FRANCE G√âN√âRAL",|FR| MELODY HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3599
 #EXTINF:-1 tvg-id="tf1.fr" tvg-name="|HEVC| TF1" tvg-logo="http://wagmaupload.com/images/live150_158.png" group-title="FRANCE HEVC",|HEVC| TF1
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3791
@@ -735,7 +733,7 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3884
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3885
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="|HEVC| ANIMAUX" tvg-logo="http://wagmaupload.com/images/live150_99.png" group-title="FRANCE HEVC",|HEVC| ANIMAUX
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3886
-#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="|HEVC| CHASSE & P CHE" tvg-logo="http://wagmaupload.com/images/live150_102.png" group-title="FRANCE HEVC",|HEVC| CHASSE & P CHE
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="|HEVC| CHASSE & P√äCHE" tvg-logo="http://wagmaupload.com/images/live150_102.png" group-title="FRANCE HEVC",|HEVC| CHASSE & P√äCHE
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3887
 #EXTINF:-1 tvg-id="histoire.fr" tvg-name="|HEVC| HISTOIRE" tvg-logo="http://wagmaupload.com/images/live150_93.png" group-title="FRANCE HEVC",|HEVC| HISTOIRE
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3888
@@ -953,77 +951,77 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/112843
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/112844
 #EXTINF:-1 tvg-id="eurosport3608.fr" tvg-name="EUROSPORT 360 8" tvg-logo="http://wagmaupload.com/images/live150_EUROSPORTS-360.png" group-title="FRANCE SPORTS",EUROSPORT 360 8
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/112845
-#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="|FR| CANAL+ HD" tvg-logo="http://wagmaupload.com/images/live150_176.png" group-title="FRANCE CIN…MA",|FR| CANAL+ HD
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="|FR| CANAL+ HD" tvg-logo="http://wagmaupload.com/images/live150_176.png" group-title="FRANCE CIN√âMA",|FR| CANAL+ HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3490
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SD" tvg-logo="http://wagmaupload.com/images/live150_176.png" group-title="FRANCE CIN…MA",|FR| CANAL+ SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SD" tvg-logo="http://wagmaupload.com/images/live150_176.png" group-title="FRANCE CIN√âMA",|FR| CANAL+ SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117537
-#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA HD" tvg-logo="http://wagmaupload.com/images/live150_177.png" group-title="FRANCE CIN…MA",|FR| CANAL+ CINEMA HD
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA HD" tvg-logo="http://wagmaupload.com/images/live150_177.png" group-title="FRANCE CIN√âMA",|FR| CANAL+ CINEMA HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3491
-#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA SD" tvg-logo="http://wagmaupload.com/images/live150_177.png" group-title="FRANCE CIN…MA",|FR| CANAL+ CINEMA SD
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA SD" tvg-logo="http://wagmaupload.com/images/live150_177.png" group-title="FRANCE CIN√âMA",|FR| CANAL+ CINEMA SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117538
-#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="|FR| CANAL+ DECALE HD" tvg-logo="http://wagmaupload.com/images/live150_178.png" group-title="FRANCE CIN…MA",|FR| CANAL+ DECALE HD
+#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="|FR| CANAL+ DECALE HD" tvg-logo="http://wagmaupload.com/images/live150_178.png" group-title="FRANCE CIN√âMA",|FR| CANAL+ DECALE HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3492
-#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="|FR| CANAL+ DECALE SD" tvg-logo="http://wagmaupload.com/images/live150_178.png" group-title="FRANCE CIN…MA",|FR| CANAL+ DECALE SD
+#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="|FR| CANAL+ DECALE SD" tvg-logo="http://wagmaupload.com/images/live150_178.png" group-title="FRANCE CIN√âMA",|FR| CANAL+ DECALE SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117539
-#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="|FR| CANAL+ SERIES HD" tvg-logo="http://wagmaupload.com/images/live150_1.png" group-title="FRANCE CIN…MA",|FR| CANAL+ SERIES HD
+#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="|FR| CANAL+ SERIES HD" tvg-logo="http://wagmaupload.com/images/live150_1.png" group-title="FRANCE CIN√âMA",|FR| CANAL+ SERIES HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3494
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SERIES SD" tvg-logo="http://wagmaupload.com/images/live150_1.png" group-title="FRANCE CIN…MA",|FR| CANAL+ SERIES SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SERIES SD" tvg-logo="http://wagmaupload.com/images/live150_1.png" group-title="FRANCE CIN√âMA",|FR| CANAL+ SERIES SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117541
-#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="|FR| CANAL+ FAMILY HD" tvg-logo="http://wagmaupload.com/images/live150_179.png" group-title="FRANCE CIN…MA",|FR| CANAL+ FAMILY HD
+#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="|FR| CANAL+ FAMILY HD" tvg-logo="http://wagmaupload.com/images/live150_179.png" group-title="FRANCE CIN√âMA",|FR| CANAL+ FAMILY HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3493
-#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="|FR| CANAL+ FAMILY SD" tvg-logo="http://wagmaupload.com/images/live150_179.png" group-title="FRANCE CIN…MA",|FR| CANAL+ FAMILY SD
+#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="|FR| CANAL+ FAMILY SD" tvg-logo="http://wagmaupload.com/images/live150_179.png" group-title="FRANCE CIN√âMA",|FR| CANAL+ FAMILY SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117540
-#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="|FR| CINE+ PREMIER HD" tvg-logo="http://wagmaupload.com/images/live150_4.png" group-title="FRANCE CIN…MA",|FR| CINE+ PREMIER HD
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="|FR| CINE+ PREMIER HD" tvg-logo="http://wagmaupload.com/images/live150_4.png" group-title="FRANCE CIN√âMA",|FR| CINE+ PREMIER HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3497
-#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="|FR| CINE+ PREMIER SD" tvg-logo="http://wagmaupload.com/images/live150_4.png" group-title="FRANCE CIN…MA",|FR| CINE+ PREMIER SD
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="|FR| CINE+ PREMIER SD" tvg-logo="http://wagmaupload.com/images/live150_4.png" group-title="FRANCE CIN√âMA",|FR| CINE+ PREMIER SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117542
-#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="|FR| CINE+ FRISSON HD" tvg-logo="http://wagmaupload.com/images/live150_5.png" group-title="FRANCE CIN…MA",|FR| CINE+ FRISSON HD
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="|FR| CINE+ FRISSON HD" tvg-logo="http://wagmaupload.com/images/live150_5.png" group-title="FRANCE CIN√âMA",|FR| CINE+ FRISSON HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3498
-#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="|FR| CINE+ FRISSON SD" tvg-logo="http://wagmaupload.com/images/live150_5.png" group-title="FRANCE CIN…MA",|FR| CINE+ FRISSON SD
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="|FR| CINE+ FRISSON SD" tvg-logo="http://wagmaupload.com/images/live150_5.png" group-title="FRANCE CIN√âMA",|FR| CINE+ FRISSON SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117543
-#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="|FR| CINE+ EMOTION HD" tvg-logo="http://wagmaupload.com/images/live150_6.png" group-title="FRANCE CIN…MA",|FR| CINE+ EMOTION HD
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="|FR| CINE+ EMOTION HD" tvg-logo="http://wagmaupload.com/images/live150_6.png" group-title="FRANCE CIN√âMA",|FR| CINE+ EMOTION HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3499
-#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="|FR| CINE+ EMOTION SD" tvg-logo="http://wagmaupload.com/images/live150_6.png" group-title="FRANCE CIN…MA",|FR| CINE+ EMOTION SD
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="|FR| CINE+ EMOTION SD" tvg-logo="http://wagmaupload.com/images/live150_6.png" group-title="FRANCE CIN√âMA",|FR| CINE+ EMOTION SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117544
-#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMIZ HD" tvg-logo="http://wagmaupload.com/images/live150_7.png" group-title="FRANCE CIN…MA",|FR| CINE+ FAMIZ HD
+#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMIZ HD" tvg-logo="http://wagmaupload.com/images/live150_7.png" group-title="FRANCE CIN√âMA",|FR| CINE+ FAMIZ HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3500
-#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMIZ SD" tvg-logo="http://wagmaupload.com/images/live150_7.png" group-title="FRANCE CIN…MA",|FR| CINE+ FAMIZ SD
+#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMIZ SD" tvg-logo="http://wagmaupload.com/images/live150_7.png" group-title="FRANCE CIN√âMA",|FR| CINE+ FAMIZ SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117545
-#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB HD" tvg-logo="http://wagmaupload.com/images/live150_9.png" group-title="FRANCE CIN…MA",|FR| CINE+ CLUB HD
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB HD" tvg-logo="http://wagmaupload.com/images/live150_9.png" group-title="FRANCE CIN√âMA",|FR| CINE+ CLUB HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3501
-#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB SD" tvg-logo="http://wagmaupload.com/images/live150_9.png" group-title="FRANCE CIN…MA",|FR| CINE+ CLUB SD
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB SD" tvg-logo="http://wagmaupload.com/images/live150_9.png" group-title="FRANCE CIN√âMA",|FR| CINE+ CLUB SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117546
-#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="|FR| CINE+ CLASSIC HD" tvg-logo="http://wagmaupload.com/images/live150_8.png" group-title="FRANCE CIN…MA",|FR| CINE+ CLASSIC HD
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="|FR| CINE+ CLASSIC HD" tvg-logo="http://wagmaupload.com/images/live150_8.png" group-title="FRANCE CIN√âMA",|FR| CINE+ CLASSIC HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3502
-#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="|FR| CINE+ CLASSIC SD" tvg-logo="http://wagmaupload.com/images/live150_8.png" group-title="FRANCE CIN…MA",|FR| CINE+ CLASSIC SD
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="|FR| CINE+ CLASSIC SD" tvg-logo="http://wagmaupload.com/images/live150_8.png" group-title="FRANCE CIN√âMA",|FR| CINE+ CLASSIC SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117547
-#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="|FR| OCS MAX HD" tvg-logo="http://wagmaupload.com/images/live150_10.png" group-title="FRANCE CIN…MA",|FR| OCS MAX HD
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="|FR| OCS MAX HD" tvg-logo="http://wagmaupload.com/images/live150_10.png" group-title="FRANCE CIN√âMA",|FR| OCS MAX HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3503
-#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="|FR| OCS MAX SD" tvg-logo="http://wagmaupload.com/images/live150_10.png" group-title="FRANCE CIN…MA",|FR| OCS MAX SD
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="|FR| OCS MAX SD" tvg-logo="http://wagmaupload.com/images/live150_10.png" group-title="FRANCE CIN√âMA",|FR| OCS MAX SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117548
-#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="|FR| OCS CITY HD" tvg-logo="http://wagmaupload.com/images/live150_11.png" group-title="FRANCE CIN…MA",|FR| OCS CITY HD
+#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="|FR| OCS CITY HD" tvg-logo="http://wagmaupload.com/images/live150_11.png" group-title="FRANCE CIN√âMA",|FR| OCS CITY HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3504
-#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="|FR| OCS CITY SD" tvg-logo="http://wagmaupload.com/images/live150_11.png" group-title="FRANCE CIN…MA",|FR| OCS CITY SD
+#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="|FR| OCS CITY SD" tvg-logo="http://wagmaupload.com/images/live150_11.png" group-title="FRANCE CIN√âMA",|FR| OCS CITY SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117549
-#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="|FR| OCS CHOC HD" tvg-logo="http://wagmaupload.com/images/live150_12.png" group-title="FRANCE CIN…MA",|FR| OCS CHOC HD
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="|FR| OCS CHOC HD" tvg-logo="http://wagmaupload.com/images/live150_12.png" group-title="FRANCE CIN√âMA",|FR| OCS CHOC HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3505
-#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="|FR| OCS CHOC SD" tvg-logo="http://wagmaupload.com/images/live150_12.png" group-title="FRANCE CIN…MA",|FR| OCS CHOC SD
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="|FR| OCS CHOC SD" tvg-logo="http://wagmaupload.com/images/live150_12.png" group-title="FRANCE CIN√âMA",|FR| OCS CHOC SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117550
-#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="|FR| OCS GEANTS HD" tvg-logo="http://wagmaupload.com/images/live150_13.png" group-title="FRANCE CIN…MA",|FR| OCS GEANTS HD
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="|FR| OCS GEANTS HD" tvg-logo="http://wagmaupload.com/images/live150_13.png" group-title="FRANCE CIN√âMA",|FR| OCS GEANTS HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3506
-#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="|FR| OCS GEANTS SD" tvg-logo="http://wagmaupload.com/images/live150_13.png" group-title="FRANCE CIN…MA",|FR| OCS GEANTS SD
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="|FR| OCS GEANTS SD" tvg-logo="http://wagmaupload.com/images/live150_13.png" group-title="FRANCE CIN√âMA",|FR| OCS GEANTS SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117551
-#EXTINF:-1 tvg-id="action.fr" tvg-name="|FR| ACTION HD" tvg-logo="http://wagmaupload.com/images/live150_16.png" group-title="FRANCE CIN…MA",|FR| ACTION HD
+#EXTINF:-1 tvg-id="action.fr" tvg-name="|FR| ACTION HD" tvg-logo="http://wagmaupload.com/images/live150_16.png" group-title="FRANCE CIN√âMA",|FR| ACTION HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3514
-#EXTINF:-1 tvg-id="action.fr" tvg-name="|FR| ACTION SD" tvg-logo="http://wagmaupload.com/images/live150_16.png" group-title="FRANCE CIN…MA",|FR| ACTION SD
+#EXTINF:-1 tvg-id="action.fr" tvg-name="|FR| ACTION SD" tvg-logo="http://wagmaupload.com/images/live150_16.png" group-title="FRANCE CIN√âMA",|FR| ACTION SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117553
-#EXTINF:-1 tvg-id="polarplus.fr" tvg-name="|FR| POLAR+ HD" tvg-logo="http://wagmaupload.com/images/live150_17.png" group-title="FRANCE CIN…MA",|FR| POLAR+ HD
+#EXTINF:-1 tvg-id="polarplus.fr" tvg-name="|FR| POLAR+ HD" tvg-logo="http://wagmaupload.com/images/live150_17.png" group-title="FRANCE CIN√âMA",|FR| POLAR+ HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3510
-#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL SD" tvg-logo="" group-title="FRANCE CIN…MA",|FR| PARAMOUNT CHANNEL SD
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL SD" tvg-logo="" group-title="FRANCE CIN√âMA",|FR| PARAMOUNT CHANNEL SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117552
-#EXTINF:-1 tvg-id="tcm.fr" tvg-name="|FR| TCM CINEMA HD" tvg-logo="http://wagmaupload.com/images/live150_TCM_CINEMA_HD.png" group-title="FRANCE CIN…MA",|FR| TCM CINEMA HD
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="|FR| TCM CINEMA HD" tvg-logo="http://wagmaupload.com/images/live150_TCM_CINEMA_HD.png" group-title="FRANCE CIN√âMA",|FR| TCM CINEMA HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3515
-#EXTINF:-1 tvg-id="tcm.fr" tvg-name="|FR| TCM CINEMA SD" tvg-logo="http://wagmaupload.com/images/live150_TCM_CINEMA_HD.png" group-title="FRANCE CIN…MA",|FR| TCM CINEMA SD
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="|FR| TCM CINEMA SD" tvg-logo="http://wagmaupload.com/images/live150_TCM_CINEMA_HD.png" group-title="FRANCE CIN√âMA",|FR| TCM CINEMA SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117554
 #EXTINF:-1 tvg-id="" tvg-name="CANAL + KIDS HD" tvg-logo="http://wagmaupload.com/images/live150_PORT00108.png" group-title="FRANCE JUNIOR",CANAL + KIDS HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/116352
@@ -1219,9 +1217,9 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3610
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117624
 #EXTINF:-1 tvg-id="bfmgrandlille.fr" tvg-name="|FR| BFM GRAND LILLE TV SD" tvg-logo="http://wagmaupload.com/images/live150_TV5MONDE202226.jpg" group-title="FRANCE INFORMATION",|FR| BFM GRAND LILLE TV SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117634
-#EXTINF:-1 tvg-id="bfmlyon.fr" tvg-name="|FR| BFM LYON M…TROPOLE HD" tvg-logo="http://wagmaupload.com/images/live150_TV5MONDE202224.png" group-title="FRANCE INFORMATION",|FR| BFM LYON M…TROPOLE HD
+#EXTINF:-1 tvg-id="bfmlyon.fr" tvg-name="|FR| BFM LYON M√âTROPOLE HD" tvg-logo="http://wagmaupload.com/images/live150_TV5MONDE202224.png" group-title="FRANCE INFORMATION",|FR| BFM LYON M√âTROPOLE HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3607
-#EXTINF:-1 tvg-id="bfmlyon.fr" tvg-name="|FR| BFM LYON M…TROPOLE SD" tvg-logo="http://wagmaupload.com/images/live150_TV5MONDE202224.png" group-title="FRANCE INFORMATION",|FR| BFM LYON M…TROPOLE SD
+#EXTINF:-1 tvg-id="bfmlyon.fr" tvg-name="|FR| BFM LYON M√âTROPOLE SD" tvg-logo="http://wagmaupload.com/images/live150_TV5MONDE202224.png" group-title="FRANCE INFORMATION",|FR| BFM LYON M√âTROPOLE SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/117630
 #EXTINF:-1 tvg-id="lachaineparlementaire.fr" tvg-name="|FR| LCP HD" tvg-logo="http://wagmaupload.com/images/live150_151.png" group-title="FRANCE INFORMATION",|FR| LCP HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/3609
@@ -1463,101 +1461,101 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7311
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7312
 #EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="BEINSPORTS PREMIUM 1 HD" tvg-logo="http://wagmaupload.com/images/live150_263.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 1 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7315
-#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="BEINSPORTS PREMIUM 1 HD≤" tvg-logo="http://wagmaupload.com/images/live150_263.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 1 HD≤
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="BEINSPORTS PREMIUM 1 HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_263.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 1 HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7316
 #EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="BEINSPORTS PREMIUM 1 SD" tvg-logo="http://wagmaupload.com/images/live150_263.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 1 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7317
-#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="BEINSPORTS PREMIUM 1 SD≤" tvg-logo="http://wagmaupload.com/images/live150_263.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 1 SD≤
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="BEINSPORTS PREMIUM 1 SD¬≤" tvg-logo="http://wagmaupload.com/images/live150_263.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 1 SD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7318
 #EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="BEINSPORTS PREMIUM 2 HD" tvg-logo="http://wagmaupload.com/images/live150_264.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 2 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7321
-#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="BEINSPORTS PREMIUM 2 HD≤" tvg-logo="http://wagmaupload.com/images/live150_264.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 2 HD≤
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="BEINSPORTS PREMIUM 2 HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_264.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 2 HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7322
 #EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="BEINSPORTS PREMIUM 2 SD" tvg-logo="http://wagmaupload.com/images/live150_264.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 2 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7323
-#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="BEINSPORTS PREMIUM 2 SD≤" tvg-logo="http://wagmaupload.com/images/live150_264.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 2 SD≤
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="BEINSPORTS PREMIUM 2 SD¬≤" tvg-logo="http://wagmaupload.com/images/live150_264.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 2 SD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7324
 #EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="BEINSPORTS PREMIUM 3 HD" tvg-logo="http://wagmaupload.com/images/live150_265.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 3 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7327
-#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="BEINSPORTS PREMIUM 3 HD≤" tvg-logo="http://wagmaupload.com/images/live150_265.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 3 HD≤
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="BEINSPORTS PREMIUM 3 HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_265.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 3 HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7328
 #EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="BEINSPORTS PREMIUM 3 SD" tvg-logo="http://wagmaupload.com/images/live150_265.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 3 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7329
-#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="BEINSPORTS PREMIUM 3 SD≤" tvg-logo="http://wagmaupload.com/images/live150_265.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 3 SD≤
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="BEINSPORTS PREMIUM 3 SD¬≤" tvg-logo="http://wagmaupload.com/images/live150_265.png" group-title="BEIN SPORTS HD SD",BEINSPORTS PREMIUM 3 SD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7330
 #EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="BEINSPORTS XTRA 1 HD" tvg-logo="http://wagmaupload.com/images/live150_273.png" group-title="BEIN SPORTS HD SD",BEINSPORTS XTRA 1 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7375
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="BEINSPORTS XTRA 1 HD≤" tvg-logo="http://wagmaupload.com/images/live150_273.png" group-title="BEIN SPORTS HD SD",BEINSPORTS XTRA 1 HD≤
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="BEINSPORTS XTRA 1 HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_273.png" group-title="BEIN SPORTS HD SD",BEINSPORTS XTRA 1 HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7376
 #EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="BEINSPORTS XTRA 1 SD" tvg-logo="http://wagmaupload.com/images/live150_273.png" group-title="BEIN SPORTS HD SD",BEINSPORTS XTRA 1 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7377
 #EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="BEINSPORTS 1 HD" tvg-logo="http://wagmaupload.com/images/live150_266.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 1 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7333
-#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="BEINSPORTS 1 HD≤" tvg-logo="http://wagmaupload.com/images/live150_266.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 1 HD≤
+#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="BEINSPORTS 1 HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_266.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 1 HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7334
 #EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="BEINSPORTS 1 SD" tvg-logo="http://wagmaupload.com/images/live150_266.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 1 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7335
-#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="BEINSPORTS 1 SD≤" tvg-logo="http://wagmaupload.com/images/live150_266.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 1 SD≤
+#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="BEINSPORTS 1 SD¬≤" tvg-logo="http://wagmaupload.com/images/live150_266.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 1 SD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7336
 #EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="BEINSPORTS 2 HD" tvg-logo="http://wagmaupload.com/images/live150_267.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 2 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7339
-#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="BEINSPORTS 2 HD≤" tvg-logo="http://wagmaupload.com/images/live150_267.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 2 HD≤
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="BEINSPORTS 2 HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_267.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 2 HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7340
 #EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="BEINSPORTS 2 SD" tvg-logo="http://wagmaupload.com/images/live150_267.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 2 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7341
-#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="BEINSPORTS 2 SD≤" tvg-logo="http://wagmaupload.com/images/live150_267.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 2 SD≤
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="BEINSPORTS 2 SD¬≤" tvg-logo="http://wagmaupload.com/images/live150_267.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 2 SD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7342
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEINSPORTS 3 HD" tvg-logo="http://wagmaupload.com/images/live150_268.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 3 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7345
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEINSPORTS 3 HD≤" tvg-logo="http://wagmaupload.com/images/live150_268.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 3 HD≤
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEINSPORTS 3 HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_268.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 3 HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7346
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEINSPORTS 3 SD" tvg-logo="http://wagmaupload.com/images/live150_268.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 3 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7347
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEINSPORTS 3 SD≤" tvg-logo="http://wagmaupload.com/images/live150_268.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 3 SD≤
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEINSPORTS 3 SD¬≤" tvg-logo="http://wagmaupload.com/images/live150_268.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 3 SD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7348
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEINSPORTS 4 HD" tvg-logo="http://wagmaupload.com/images/live150_269.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 4 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7351
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEINSPORTS 4 HD≤" tvg-logo="http://wagmaupload.com/images/live150_269.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 4 HD≤
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEINSPORTS 4 HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_269.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 4 HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7352
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEINSPORTS 4 SD" tvg-logo="http://wagmaupload.com/images/live150_269.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 4 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7353
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEINSPORTS 4 SD≤" tvg-logo="http://wagmaupload.com/images/live150_269.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 4 SD≤
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEINSPORTS 4 SD¬≤" tvg-logo="http://wagmaupload.com/images/live150_269.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 4 SD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7354
 #EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEINSPORTS 5 HD" tvg-logo="http://wagmaupload.com/images/live150_270.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 5 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7357
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEINSPORTS 5 HD≤" tvg-logo="http://wagmaupload.com/images/live150_270.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 5 HD≤
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEINSPORTS 5 HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_270.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 5 HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7358
 #EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEINSPORTS 5 SD" tvg-logo="http://wagmaupload.com/images/live150_270.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 5 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7359
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEINSPORTS 5 SD≤" tvg-logo="http://wagmaupload.com/images/live150_270.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 5 SD≤
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEINSPORTS 5 SD¬≤" tvg-logo="http://wagmaupload.com/images/live150_270.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 5 SD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7360
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEINSPORTS 6 HD" tvg-logo="http://wagmaupload.com/images/live150_271.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 6 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7363
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEINSPORTS 6 HD≤" tvg-logo="http://wagmaupload.com/images/live150_271.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 6 HD≤
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEINSPORTS 6 HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_271.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 6 HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7364
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEINSPORTS 6 SD" tvg-logo="http://wagmaupload.com/images/live150_271.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 6 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7365
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEINSPORTS 6 SD≤" tvg-logo="http://wagmaupload.com/images/live150_271.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 6 SD≤
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEINSPORTS 6 SD¬≤" tvg-logo="http://wagmaupload.com/images/live150_271.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 6 SD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7366
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEINSPORTS 7 HD" tvg-logo="http://wagmaupload.com/images/live150_272.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 7 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7369
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEINSPORTS 7 HD≤" tvg-logo="http://wagmaupload.com/images/live150_272.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 7 HD≤
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEINSPORTS 7 HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_272.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 7 HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7370
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEINSPORTS 7 SD" tvg-logo="http://wagmaupload.com/images/live150_272.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 7 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7371
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEINSPORTS 7 SD≤" tvg-logo="http://wagmaupload.com/images/live150_272.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 7 SD≤
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEINSPORTS 7 SD¬≤" tvg-logo="http://wagmaupload.com/images/live150_272.png" group-title="BEIN SPORTS HD SD",BEINSPORTS 7 SD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7372
 #EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEINSPORTS ENGLISH 1 HD" tvg-logo="http://wagmaupload.com/images/live150_276.png" group-title="BEIN SPORTS HD SD",BEINSPORTS ENGLISH 1 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7388
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEINSPORTS ENGLISH 1 HD≤" tvg-logo="http://wagmaupload.com/images/live150_276.png" group-title="BEIN SPORTS HD SD",BEINSPORTS ENGLISH 1 HD≤
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEINSPORTS ENGLISH 1 HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_276.png" group-title="BEIN SPORTS HD SD",BEINSPORTS ENGLISH 1 HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7389
 #EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEINSPORTS ENGLISH 1 SD" tvg-logo="http://wagmaupload.com/images/live150_276.png" group-title="BEIN SPORTS HD SD",BEINSPORTS ENGLISH 1 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7390
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEINSPORTS ENGLISH 1 SD≤" tvg-logo="http://wagmaupload.com/images/live150_276.png" group-title="BEIN SPORTS HD SD",BEINSPORTS ENGLISH 1 SD≤
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEINSPORTS ENGLISH 1 SD¬≤" tvg-logo="http://wagmaupload.com/images/live150_276.png" group-title="BEIN SPORTS HD SD",BEINSPORTS ENGLISH 1 SD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7391
 #EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEINSPORTS ENGLISH 2 HD" tvg-logo="http://wagmaupload.com/images/live150_277.png" group-title="BEIN SPORTS HD SD",BEINSPORTS ENGLISH 2 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7394
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEINSPORTS ENGLISH 2 HD≤" tvg-logo="http://wagmaupload.com/images/live150_277.png" group-title="BEIN SPORTS HD SD",BEINSPORTS ENGLISH 2 HD≤
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEINSPORTS ENGLISH 2 HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_277.png" group-title="BEIN SPORTS HD SD",BEINSPORTS ENGLISH 2 HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7395
 #EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEINSPORTS ENGLISH 2 SD" tvg-logo="http://wagmaupload.com/images/live150_277.png" group-title="BEIN SPORTS HD SD",BEINSPORTS ENGLISH 2 SD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/7396
@@ -1741,45 +1739,45 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8866
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/8867
 #EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA HD" tvg-logo="http://wagmaupload.com/images/live150_600.png" group-title="OSN",OSN YAHALA HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22144
-#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA HD≤" tvg-logo="http://wagmaupload.com/images/live150_600.png" group-title="OSN",OSN YAHALA HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_600.png" group-title="OSN",OSN YAHALA HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22145
 #EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA ALOULA HD" tvg-logo="http://wagmaupload.com/images/live150_601.png" group-title="OSN",OSN YAHALA ALOULA HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22146
-#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA ALOULA HD≤" tvg-logo="http://wagmaupload.com/images/live150_601.png" group-title="OSN",OSN YAHALA ALOULA HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA ALOULA HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_601.png" group-title="OSN",OSN YAHALA ALOULA HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22147
 #EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA CINEMA HD" tvg-logo="http://wagmaupload.com/images/live150_602.png" group-title="OSN",OSN YAHALA CINEMA HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22148
-#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA CINEMA HD≤" tvg-logo="http://wagmaupload.com/images/live150_602.png" group-title="OSN",OSN YAHALA CINEMA HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA CINEMA HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_602.png" group-title="OSN",OSN YAHALA CINEMA HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22149
 #EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES HD" tvg-logo="http://wagmaupload.com/images/live150_603.png" group-title="OSN",OSN MOVIES HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22150
-#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES HD≤" tvg-logo="http://wagmaupload.com/images/live150_603.png" group-title="OSN",OSN MOVIES HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_603.png" group-title="OSN",OSN MOVIES HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22151
 #EXTINF:-1 tvg-id="" tvg-name="OSN ACTION HD" tvg-logo="http://wagmaupload.com/images/live150_604.png" group-title="OSN",OSN ACTION HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22152
-#EXTINF:-1 tvg-id="" tvg-name="OSN ACTION HD≤" tvg-logo="http://wagmaupload.com/images/live150_604.png" group-title="OSN",OSN ACTION HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN ACTION HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_604.png" group-title="OSN",OSN ACTION HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22153
 #EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES FIRST HD" tvg-logo="http://wagmaupload.com/images/live150_605.png" group-title="OSN",OSN MOVIES FIRST HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22154
-#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES FIRST HD≤" tvg-logo="http://wagmaupload.com/images/live150_605.png" group-title="OSN",OSN MOVIES FIRST HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES FIRST HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_605.png" group-title="OSN",OSN MOVIES FIRST HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22155
 #EXTINF:-1 tvg-id="" tvg-name="OSN Movies First +2 HD" tvg-logo="http://wagmaupload.com/images/live150_606.png" group-title="OSN",OSN Movies First +2 HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22156
 #EXTINF:-1 tvg-id="" tvg-name="OSN ENIGMA HD" tvg-logo="http://wagmaupload.com/images/live150_607.png" group-title="OSN",OSN ENIGMA HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22157
-#EXTINF:-1 tvg-id="" tvg-name="OSN ENIGMA HD≤" tvg-logo="http://wagmaupload.com/images/live150_607.png" group-title="OSN",OSN ENIGMA HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN ENIGMA HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_607.png" group-title="OSN",OSN ENIGMA HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22158
 #EXTINF:-1 tvg-id="" tvg-name="OSN SERIES HD" tvg-logo="http://wagmaupload.com/images/live150_608.png" group-title="OSN",OSN SERIES HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22159
-#EXTINF:-1 tvg-id="" tvg-name="OSN SERIES HD≤" tvg-logo="http://wagmaupload.com/images/live150_608.png" group-title="OSN",OSN SERIES HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN SERIES HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_608.png" group-title="OSN",OSN SERIES HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22160
 #EXTINF:-1 tvg-id="" tvg-name="OSN SERIES FIRST HD" tvg-logo="http://wagmaupload.com/images/live150_609.png" group-title="OSN",OSN SERIES FIRST HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22161
-#EXTINF:-1 tvg-id="" tvg-name="OSN SERIES FIRST HD≤" tvg-logo="http://wagmaupload.com/images/live150_609.png" group-title="OSN",OSN SERIES FIRST HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN SERIES FIRST HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_609.png" group-title="OSN",OSN SERIES FIRST HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22162
 #EXTINF:-1 tvg-id="" tvg-name="OSN COMEDY HD" tvg-logo="http://wagmaupload.com/images/live150_610.png" group-title="OSN",OSN COMEDY HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22163
-#EXTINF:-1 tvg-id="" tvg-name="OSN COMEDY HD≤" tvg-logo="http://wagmaupload.com/images/live150_610.png" group-title="OSN",OSN COMEDY HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN COMEDY HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_610.png" group-title="OSN",OSN COMEDY HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22164
 #EXTINF:-1 tvg-id="" tvg-name="OSN ALFA ALYOUM HD" tvg-logo="http://wagmaupload.com/images/live150_611.png" group-title="OSN",OSN ALFA ALYOUM HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22165
@@ -1799,31 +1797,31 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22171
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22172
 #EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES DISNEY HD" tvg-logo="http://wagmaupload.com/images/live150_650.png" group-title="OSN",OSN MOVIES DISNEY HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22173
-#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES DISNEY HD≤" tvg-logo="http://wagmaupload.com/images/live150_650.png" group-title="OSN",OSN MOVIES DISNEY HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES DISNEY HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_650.png" group-title="OSN",OSN MOVIES DISNEY HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22174
 #EXTINF:-1 tvg-id="" tvg-name="OSN STAR MOVIES HD" tvg-logo="http://wagmaupload.com/images/live150_619.png" group-title="OSN",OSN STAR MOVIES HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22175
 #EXTINF:-1 tvg-id="" tvg-name="OSN STAR WORLD HD" tvg-logo="http://wagmaupload.com/images/live150_620.png" group-title="OSN",OSN STAR WORLD HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22176
-#EXTINF:-1 tvg-id="" tvg-name="OSN KIDS HD≤" tvg-logo="http://wagmaupload.com/images/live150_649.png" group-title="OSN",OSN KIDS HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN KIDS HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_649.png" group-title="OSN",OSN KIDS HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22178
-#EXTINF:-1 tvg-id="" tvg-name="OSN DISNEY HD≤" tvg-logo="http://wagmaupload.com/images/live150_622.png" group-title="OSN",OSN DISNEY HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN DISNEY HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_622.png" group-title="OSN",OSN DISNEY HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22180
 #EXTINF:-1 tvg-id="" tvg-name="OSN DISNEY JUNIOR HD" tvg-logo="http://wagmaupload.com/images/live150_623.png" group-title="OSN",OSN DISNEY JUNIOR HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22181
-#EXTINF:-1 tvg-id="" tvg-name="OSN DISNEY JUNIOR HD≤" tvg-logo="http://wagmaupload.com/images/live150_623.png" group-title="OSN",OSN DISNEY JUNIOR HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN DISNEY JUNIOR HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_623.png" group-title="OSN",OSN DISNEY JUNIOR HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22182
 #EXTINF:-1 tvg-id="" tvg-name="OSN NICKELODEON HD" tvg-logo="http://wagmaupload.com/images/live150_624.png" group-title="OSN",OSN NICKELODEON HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22183
-#EXTINF:-1 tvg-id="" tvg-name="OSN NICKELODEON HD≤" tvg-logo="http://wagmaupload.com/images/live150_624.png" group-title="OSN",OSN NICKELODEON HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN NICKELODEON HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_624.png" group-title="OSN",OSN NICKELODEON HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22184
 #EXTINF:-1 tvg-id="" tvg-name="OSN NICKTOON HD" tvg-logo="http://wagmaupload.com/images/live150_625.png" group-title="OSN",OSN NICKTOON HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22185
-#EXTINF:-1 tvg-id="" tvg-name="OSN NICKTOON HD≤" tvg-logo="http://wagmaupload.com/images/live150_625.png" group-title="OSN",OSN NICKTOON HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN NICKTOON HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_625.png" group-title="OSN",OSN NICKTOON HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22186
 #EXTINF:-1 tvg-id="" tvg-name="OSN KIDS ZONE HD" tvg-logo="http://wagmaupload.com/images/live150_626.png" group-title="OSN",OSN KIDS ZONE HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22187
-#EXTINF:-1 tvg-id="" tvg-name="OSN KIDS ZONE HD≤" tvg-logo="http://wagmaupload.com/images/live150_626.png" group-title="OSN",OSN KIDS ZONE HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN KIDS ZONE HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_626.png" group-title="OSN",OSN KIDS ZONE HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22188
 #EXTINF:-1 tvg-id="" tvg-name="OSN BABY HD" tvg-logo="http://wagmaupload.com/images/live150_627.png" group-title="OSN",OSN BABY HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22189
@@ -1831,17 +1829,17 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22189
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22190
 #EXTINF:-1 tvg-id="" tvg-name="OSN TLC HD" tvg-logo="http://wagmaupload.com/images/live150_629.png" group-title="OSN",OSN TLC HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22191
-#EXTINF:-1 tvg-id="" tvg-name="OSN TLC HD≤" tvg-logo="http://wagmaupload.com/images/live150_629.png" group-title="OSN",OSN TLC HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN TLC HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_629.png" group-title="OSN",OSN TLC HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22192
 #EXTINF:-1 tvg-id="" tvg-name="OSN E! HD" tvg-logo="http://wagmaupload.com/images/live150_630.png" group-title="OSN",OSN E! HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22193
-#EXTINF:-1 tvg-id="" tvg-name="OSN E! HD≤" tvg-logo="http://wagmaupload.com/images/live150_630.png" group-title="OSN",OSN E! HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN E! HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_630.png" group-title="OSN",OSN E! HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22194
 #EXTINF:-1 tvg-id="" tvg-name="OSN COMEDY CENTRAL" tvg-logo="http://wagmaupload.com/images/live150_631.png" group-title="OSN",OSN COMEDY CENTRAL
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22195
 #EXTINF:-1 tvg-id="" tvg-name="OSN Living HD" tvg-logo="http://wagmaupload.com/images/live150_632.png" group-title="OSN",OSN Living HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22196
-#EXTINF:-1 tvg-id="" tvg-name="OSN Living HD≤" tvg-logo="http://wagmaupload.com/images/live150_632.png" group-title="OSN",OSN Living HD≤
+#EXTINF:-1 tvg-id="" tvg-name="OSN Living HD¬≤" tvg-logo="http://wagmaupload.com/images/live150_632.png" group-title="OSN",OSN Living HD¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22197
 #EXTINF:-1 tvg-id="" tvg-name="OSN NAT GEO HD" tvg-logo="http://wagmaupload.com/images/live150_633.png" group-title="OSN",OSN NAT GEO HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22198
@@ -1861,23 +1859,23 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22204
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22205
 #EXTINF:-1 tvg-id="" tvg-name="ART. AFLAM 1" tvg-logo="http://wagmaupload.com/images/live150_641.png" group-title="OSN",ART. AFLAM 1
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22207
-#EXTINF:-1 tvg-id="" tvg-name="ART AFLAM 1≤" tvg-logo="http://wagmaupload.com/images/live150_641.png" group-title="OSN",ART AFLAM 1≤
+#EXTINF:-1 tvg-id="" tvg-name="ART AFLAM 1¬≤" tvg-logo="http://wagmaupload.com/images/live150_641.png" group-title="OSN",ART AFLAM 1¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22208
 #EXTINF:-1 tvg-id="" tvg-name="ART. AFLAM 2" tvg-logo="http://wagmaupload.com/images/live150_642.png" group-title="OSN",ART. AFLAM 2
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22209
-#EXTINF:-1 tvg-id="" tvg-name="ART AFLAM 2≤" tvg-logo="http://wagmaupload.com/images/live150_642.png" group-title="OSN",ART AFLAM 2≤
+#EXTINF:-1 tvg-id="" tvg-name="ART AFLAM 2¬≤" tvg-logo="http://wagmaupload.com/images/live150_642.png" group-title="OSN",ART AFLAM 2¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22210
 #EXTINF:-1 tvg-id="" tvg-name="ART. HEKAYAT" tvg-logo="http://wagmaupload.com/images/live150_643.png" group-title="OSN",ART. HEKAYAT
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22211
-#EXTINF:-1 tvg-id="" tvg-name="ART HEKAYAT≤" tvg-logo="http://wagmaupload.com/images/live150_643.png" group-title="OSN",ART HEKAYAT≤
+#EXTINF:-1 tvg-id="" tvg-name="ART HEKAYAT¬≤" tvg-logo="http://wagmaupload.com/images/live150_643.png" group-title="OSN",ART HEKAYAT¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22212
 #EXTINF:-1 tvg-id="" tvg-name="ART. HEKAYAT 2" tvg-logo="http://wagmaupload.com/images/live150_644.png" group-title="OSN",ART. HEKAYAT 2
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22213
-#EXTINF:-1 tvg-id="" tvg-name="ART HEKAYAT 2≤" tvg-logo="http://wagmaupload.com/images/live150_644.png" group-title="OSN",ART HEKAYAT 2≤
+#EXTINF:-1 tvg-id="" tvg-name="ART HEKAYAT 2¬≤" tvg-logo="http://wagmaupload.com/images/live150_644.png" group-title="OSN",ART HEKAYAT 2¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22214
 #EXTINF:-1 tvg-id="" tvg-name="ART. CINEMA" tvg-logo="http://wagmaupload.com/images/live150_645.png" group-title="OSN",ART. CINEMA
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22215
-#EXTINF:-1 tvg-id="" tvg-name="ART CINEMA≤" tvg-logo="http://wagmaupload.com/images/live150_645.png" group-title="OSN",ART CINEMA≤
+#EXTINF:-1 tvg-id="" tvg-name="ART CINEMA¬≤" tvg-logo="http://wagmaupload.com/images/live150_645.png" group-title="OSN",ART CINEMA¬≤
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22216
 #EXTINF:-1 tvg-id="" tvg-name="OSN GMA NEWS TV" tvg-logo="http://wagmaupload.com/images/live150_648.png" group-title="OSN",OSN GMA NEWS TV
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/22217
@@ -2323,7 +2321,7 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/4266
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/4267
 #EXTINF:-1 tvg-id="" tvg-name="|HEVC| JORDAN AMMAN" tvg-logo="http://wagmaupload.com/images/live150_JordAmman.png" group-title="ARABIC HEVC",|HEVC| JORDAN AMMAN
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/4268
-#EXTINF:-1 tvg-id="" tvg-name="|HEVC| JORDAN RO¥YA" tvg-logo="http://wagmaupload.com/images/live150_JordRoya.png" group-title="ARABIC HEVC",|HEVC| JORDAN RO¥YA
+#EXTINF:-1 tvg-id="" tvg-name="|HEVC| JORDAN RO¬¥YA" tvg-logo="http://wagmaupload.com/images/live150_JordRoya.png" group-title="ARABIC HEVC",|HEVC| JORDAN RO¬¥YA
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/4269
 #EXTINF:-1 tvg-id="" tvg-name="|HEVC| JORDAN ALMAMLAKA" tvg-logo="http://wagmaupload.com/images/live150_JorMamlaka.jpg" group-title="ARABIC HEVC",|HEVC| JORDAN ALMAMLAKA
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/4270
@@ -3031,7 +3029,7 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115349
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115350
 #EXTINF:-1 tvg-id="" tvg-name="|ES| MIRAME TV" tvg-logo="http://wagmaupload.com/images/live150_ESPRO098.png" group-title="ESPANA",|ES| MIRAME TV
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115351
-#EXTINF:-1 tvg-id="" tvg-name="|ES| ONDA C¡DIZ" tvg-logo="http://wagmaupload.com/images/live150_ESPRO099.png" group-title="ESPANA",|ES| ONDA C¡DIZ
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ONDA C√ÅDIZ" tvg-logo="http://wagmaupload.com/images/live150_ESPRO099.png" group-title="ESPANA",|ES| ONDA C√ÅDIZ
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115352
 #EXTINF:-1 tvg-id="" tvg-name="|ES| POPULAR TV MELILLA" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0100.jpg" group-title="ESPANA",|ES| POPULAR TV MELILLA
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115353
@@ -3039,11 +3037,11 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115353
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115354
 #EXTINF:-1 tvg-id="" tvg-name="|ES| SOPHIA TV" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0102.png" group-title="ESPANA",|ES| SOPHIA TV
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115355
-#EXTINF:-1 tvg-id="" tvg-name="|ES| TELEVISI” DE GIRONA" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0103.jpg" group-title="ESPANA",|ES| TELEVISI” DE GIRONA
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TELEVISI√ì DE GIRONA" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0103.jpg" group-title="ESPANA",|ES| TELEVISI√ì DE GIRONA
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115356
-#EXTINF:-1 tvg-id="" tvg-name="|ES| TELEVISI”N DE GALICIA AM…RICA" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0104.png" group-title="ESPANA",|ES| TELEVISI”N DE GALICIA AM…RICA
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TELEVISI√ìN DE GALICIA AM√âRICA" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0104.png" group-title="ESPANA",|ES| TELEVISI√ìN DE GALICIA AM√âRICA
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115357
-#EXTINF:-1 tvg-id="" tvg-name="|ES| TELEVISI”N DE GALICIA EUROPA" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0105.png" group-title="ESPANA",|ES| TELEVISI”N DE GALICIA EUROPA
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TELEVISI√ìN DE GALICIA EUROPA" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0105.png" group-title="ESPANA",|ES| TELEVISI√ìN DE GALICIA EUROPA
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115358
 #EXTINF:-1 tvg-id="" tvg-name="|ES| TVG 2" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0106.jpg" group-title="ESPANA",|ES| TVG 2
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115359
@@ -3073,7 +3071,7 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115370
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115371
 #EXTINF:-1 tvg-id="" tvg-name="|ES| BAILEN TV ES" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0188.png" group-title="ESPANA",|ES| BAILEN TV ES
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115372
-#EXTINF:-1 tvg-id="" tvg-name="|ES| BETEV… ES" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0189.png" group-title="ESPANA",|ES| BETEV… ES
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BETEV√â ES" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0189.png" group-title="ESPANA",|ES| BETEV√â ES
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115373
 #EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL 45 TV ES" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0190.png" group-title="ESPANA",|ES| CANAL 45 TV ES
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115374
@@ -3081,7 +3079,7 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115374
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115375
 #EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL CAPITAL COLOMBIA ES" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0192.png" group-title="ESPANA",|ES| CANAL CAPITAL COLOMBIA ES
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115376
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CONDAVISI”N ES" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0193.jpg" group-title="ESPANA",|ES| CONDAVISI”N ES
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CONDAVISI√ìN ES" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0193.jpg" group-title="ESPANA",|ES| CONDAVISI√ìN ES
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115377
 #EXTINF:-1 tvg-id="" tvg-name="|ES| DEJATE DE HISTORIAS TV ES" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0194.jpg" group-title="ESPANA",|ES| DEJATE DE HISTORIAS TV ES
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115378
@@ -3107,7 +3105,7 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115387
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115388
 #EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR OSCARS ES" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0204.png" group-title="ESPANA",|ES| MOVISTAR OSCARS ES
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115389
-#EXTINF:-1 tvg-id="" tvg-name="|ES| NORTE VISI”N MUSIC ES" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0205.png" group-title="ESPANA",|ES| NORTE VISI”N MUSIC ES
+#EXTINF:-1 tvg-id="" tvg-name="|ES| NORTE VISI√ìN MUSIC ES" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0205.png" group-title="ESPANA",|ES| NORTE VISI√ìN MUSIC ES
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115390
 #EXTINF:-1 tvg-id="" tvg-name="|ES| TELESUR VENEZUELA ES" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0206.png" group-title="ESPANA",|ES| TELESUR VENEZUELA ES
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115391
@@ -3123,23 +3121,23 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115395
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115396
 #EXTINF:-1 tvg-id="" tvg-name="|ES| 101 TELE ANTEQUERA" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0212.jpg" group-title="ESPANA",|ES| 101 TELE ANTEQUERA
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115397
-#EXTINF:-1 tvg-id="" tvg-name="|ES| 101 TV M¡LAGA" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0213.jpg" group-title="ESPANA",|ES| 101 TV M¡LAGA
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 101 TV M√ÅLAGA" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0213.jpg" group-title="ESPANA",|ES| 101 TV M√ÅLAGA
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115398
 #EXTINF:-1 tvg-id="" tvg-name="|ES| ALTERNATIVA TV" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0214.png" group-title="ESPANA",|ES| ALTERNATIVA TV
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115399
 #EXTINF:-1 tvg-id="" tvg-name="|ES| ATV HD" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0215.png" group-title="ESPANA",|ES| ATV HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115400
-#EXTINF:-1 tvg-id="" tvg-name="|ES| BAIL…N TV" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0216.png" group-title="ESPANA",|ES| BAIL…N TV
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BAIL√âN TV" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0216.png" group-title="ESPANA",|ES| BAIL√âN TV
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115401
-#EXTINF:-1 tvg-id="" tvg-name="|ES| BON DIA CATALU—A" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0217.png" group-title="ESPANA",|ES| BON DIA CATALU—A
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BON DIA CATALU√ëA" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0217.png" group-title="ESPANA",|ES| BON DIA CATALU√ëA
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115402
 #EXTINF:-1 tvg-id="" tvg-name="|ES| C33 MADRID HD" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0218.png" group-title="ESPANA",|ES| C33 MADRID HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115403
 #EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL 45 TV" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0219.png" group-title="ESPANA",|ES| CANAL 45 TV
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115404
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL COÕN" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0220.png" group-title="ESPANA",|ES| CANAL COÕN
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL CO√çN" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0220.png" group-title="ESPANA",|ES| CANAL CO√çN
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115405
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL DO—ANA" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0221.png" group-title="ESPANA",|ES| CANAL DO—ANA
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL DO√ëANA" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0221.png" group-title="ESPANA",|ES| CANAL DO√ëANA
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115406
 #EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL SAN ROQUE" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0222.png" group-title="ESPANA",|ES| CANAL SAN ROQUE
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115407
@@ -3171,7 +3169,7 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115419
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115420
 #EXTINF:-1 tvg-id="" tvg-name="|ES| RM7" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0163.png" group-title="ESPANA",|ES| RM7
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115421
-#EXTINF:-1 tvg-id="" tvg-name="|ES| SAL TELEVISI”N" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0162.png" group-title="ESPANA",|ES| SAL TELEVISI”N
+#EXTINF:-1 tvg-id="" tvg-name="|ES| SAL TELEVISI√ìN" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0162.png" group-title="ESPANA",|ES| SAL TELEVISI√ìN
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115422
 #EXTINF:-1 tvg-id="" tvg-name="|ES| SOLIDARIA TV" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0161.png" group-title="ESPANA",|ES| SOLIDARIA TV
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115423
@@ -3239,7 +3237,7 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115453
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115454
 #EXTINF:-1 tvg-id="" tvg-name="|ES| UBEAT HD" tvg-logo="http://wagmaupload.com/images/live150_ESPRO0129.png" group-title="ESPANA",|ES| UBEAT HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115455
-#EXTINF:-1 tvg-id="" tvg-name="3-ES-??? NI—OS ???-ES-" tvg-logo="http://wagmaupload.com/images/live150_ESPRO001.png" group-title="ESPANA",3-ES-??? NI—OS ???-ES-
+#EXTINF:-1 tvg-id="" tvg-name="3-ES-??? NI√ëOS ???-ES-" tvg-logo="http://wagmaupload.com/images/live150_ESPRO001.png" group-title="ESPANA",3-ES-??? NI√ëOS ???-ES-
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115456
 #EXTINF:-1 tvg-id="" tvg-name="|ES| BABY TV" tvg-logo="http://wagmaupload.com/images/live150_ESPRO002.png" group-title="ESPANA",|ES| BABY TV
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115457
@@ -3319,11 +3317,11 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115493
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115494
 #EXTINF:-1 tvg-id="" tvg-name="|ES| M ACCION FHD" tvg-logo="http://wagmaupload.com/images/live150_ESPRO031.png" group-title="ESPANA",|ES| M ACCION FHD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115495
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M ACCI”N HD" tvg-logo="http://wagmaupload.com/images/live150_ESPRO031.png" group-title="ESPANA",|ES| M ACCI”N HD
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M ACCI√ìN HD" tvg-logo="http://wagmaupload.com/images/live150_ESPRO031.png" group-title="ESPANA",|ES| M ACCI√ìN HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115496
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CINE ESPA∆OL FHD" tvg-logo="http://wagmaupload.com/images/live150_ESPRO032.png" group-title="ESPANA",|ES| CINE ESPA∆OL FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CINE ESPA√ÜOL FHD" tvg-logo="http://wagmaupload.com/images/live150_ESPRO032.png" group-title="ESPANA",|ES| CINE ESPA√ÜOL FHD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115497
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CINE ESPA∆OL HD" tvg-logo="http://wagmaupload.com/images/live150_ESPRO032.png" group-title="ESPANA",|ES| CINE ESPA∆OL HD
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CINE ESPA√ÜOL HD" tvg-logo="http://wagmaupload.com/images/live150_ESPRO032.png" group-title="ESPANA",|ES| CINE ESPA√ÜOL HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115498
 #EXTINF:-1 tvg-id="" tvg-name="|ES| M CINE DOC AND ROLL HD" tvg-logo="http://wagmaupload.com/images/live150_ESPRO033.png" group-title="ESPANA",|ES| M CINE DOC AND ROLL HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115499
@@ -3369,7 +3367,7 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115518
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115519
 #EXTINF:-1 tvg-id="" tvg-name="|ES| DARK HD" tvg-logo="http://wagmaupload.com/images/live150_ESPRO046.png" group-title="ESPANA",|ES| DARK HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115520
-#EXTINF:-1 tvg-id="" tvg-name="|ES| FACTORÕA DE FICCI”N HD" tvg-logo="http://wagmaupload.com/images/live150_ESPRO047.png" group-title="ESPANA",|ES| FACTORÕA DE FICCI”N HD
+#EXTINF:-1 tvg-id="" tvg-name="|ES| FACTOR√çA DE FICCI√ìN HD" tvg-logo="http://wagmaupload.com/images/live150_ESPRO047.png" group-title="ESPANA",|ES| FACTOR√çA DE FICCI√ìN HD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115521
 #EXTINF:-1 tvg-id="" tvg-name="|ES| FOX  FHD" tvg-logo="http://wagmaupload.com/images/live150_ESPRO048.png" group-title="ESPANA",|ES| FOX  FHD
 http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/115522
