@@ -76,7 +76,7 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2293
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: DA VINCI KIDS
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2291
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: YABAN TV
-http://ukvip.viptvapp.com:25443/V5C4Fya2dC6y/ibgGvYhNDA/15191
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/344
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: DMAX
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/335
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: TRT1 UHD
@@ -199,6 +199,14 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2275
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8463
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRS | SPOR",TR: TAY TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2826
+#EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "SPORTS | SPOR",RO: DIGISPORT 1
+http://freeiptvgen.com:25461/307491/freeiptvgen/19954637
+#EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "SPORTS | SPOR",RO: DIGISPORT 2
+http://freeiptvgen.com:25461/307491/freeiptvgen/19954638
+#EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "SPORTS | SPOR",RO: DIGISPORT 3
+http://freeiptvgen.com:25461/307491/freeiptvgen/19954639
+#EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "SPORTS | SPOR",R0: DIGISPORT 4
+http://freeiptvgen.com:25461/307491/freeiptvgen/19954640
 #EXTINF:0,(AZ) CBC SPORT
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10201
 #EXTINF:0,(AZ) iDMAN TV
