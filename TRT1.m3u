@@ -272,22 +272,38 @@ xîö¥dº›¦şûCvõs'6ÂákÈù=“äaä™c3p’#ìõU0¨i‚~
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = ">>>> | -LIDERKOM-", "BILGILENDIME"
 https://raw.githubusercontent.com/liderkom/m3u/lider_main/REDD11.mpg
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: TRT 1
-http://plustlc.com:8080/live/hrmc5free/Ie7CX26DQN/21769
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: TRT 1 HD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/328
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: TRT 1 HD2
+http://aumaletv.com:25461/admin/admin/58652
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: STAR TV HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/333
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: STAR TV HD2
+http://aumaletv.com:25461/admin/admin/58657
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: KANAL D HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/331
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: KANAL D HD2
+http://aumaletv.com:25461/admin/admin/58659
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: ATV HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/330
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: ATV HD2
+http://aumaletv.com:25461/admin/admin/58654
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: SHOW TV HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/329
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: SHOW TV HD2
+http://aumaletv.com:25461/admin/admin/58656
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: TV 8 HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/337
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: TV 8 HD2
+http://aumaletv.com:25461/admin/admin/58663
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: FOX TV HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/332
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: FOX TV HD2
+http://aumaletv.com:25461/admin/admin/58661
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: BEYAZ TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2274
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: BEYAZ TV 2
+http://aumaletv.com:25461/admin/admin/58668
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: KANAL 7 HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/336
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: Teve 2 HD
@@ -388,53 +404,53 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/69281
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/69282
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: TRT EBA LISE
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/69283
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRC | COCUK",TR: TRT COCUK
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: TRT COCUK
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/340
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRC | COCUK",TR: BOOMERANG HD
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: BOOMERANG HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/16692
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRC | COCUK",TR: BABY TV
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: BABY TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2869
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRC | COCUK",TR: CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: CARTOON NETWORK
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/363
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRC | COCUK",TR: DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: DISNEY CHANNEL
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/357
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRC | COCUK",TR: DISNEY JR
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: DISNEY JR
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/358
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRC | COCUK",TR: CBEBIES BBC
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: CBEBIES BBC
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/360
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRC | COCUK",TR: MINICA ÇOCUK
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: MINICA ÇOCUK
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/361
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRC | COCUK",TR: NICKELODEON HD
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: NICKELODEON HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/362
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRC | COCUK",TR: NICKELODEON JR
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: NICKELODEON JR
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/359
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRM | MUZIK",TR: TRT MUZiK
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: TRT MUZiK
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8469
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRM | MUZIK",TR: KRAL TV
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: KRAL TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/352
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRM | MUZIK",TR: POWER TV
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: POWER TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10751
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRM | MUZIK",TR: POWER TURK TV
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: POWER TURK TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10752
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRM | MUZIK",TR: NR1 HD
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: NR1 HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/354
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRM | MUZIK",TR: NR1 TURK TV HD
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: NR1 TURK TV HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8464
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRM | MUZIK",TR: NR1 DANCE
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: NR1 DANCE
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/355
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRY | YEREL",TR: TELE1
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: TELE1
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/19752
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRY | YEREL",TR: CİFTCİ TV
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: CİFTCİ TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/19750
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: UCAN KUS TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/9619
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRY | YEREL",TR: KON TV
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: KON TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2269
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRY | YEREL",TR: CEM TV
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: CEM TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2834
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: TVNET
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2830
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRY | YEREL",TR: Vatan Tv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: Vatan Tv
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2825
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: TV DiYANET
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10418
@@ -446,29 +462,29 @@ http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2539
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2824
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: AKiT TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10425
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRY | YEREL",TR: DOST TV
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: DOST TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10422
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: REHBER TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10424
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: AKILLI TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/4993
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRS | SPOR",TR: TRT SPOR
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SPOR",TR: TRT SPOR
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/339
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRS | SPOR",TR: TRT SPOR HD
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SPOR",TR: TRT SPOR HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/16697
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRS | SPOR",TR: A SPOR HD
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SPOR",TR: A SPOR HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/327
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRS | SPOR",TR: FB TV HD
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SPOR",TR: FB TV HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/325
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRS | SPOR",TR: GSTV HD
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SPOR",TR: GSTV HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/324
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRS | SPOR",TR: FANATiK TV
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SPOR",TR: FANATiK TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/18686
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRS | SPOR",TR: SPORTSTV HD
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SPOR",TR: SPORTSTV HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2275
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRS | SPOR",TR: TJK TV
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SPOR",TR: TJK TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8463
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TRS | SPOR",TR: TAY TV
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SPOR",TR: TAY TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2826
 #EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "WORLD | SPOR",RO: SPORT TV 1 HD
 http://freeiptvgen.com:25461/307491/freeiptvgen/19954629
@@ -514,17 +530,27 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/13229
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/13228
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: ARTI TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/69280
-#EXTINF:0,Recep İvedik 6
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",TR: BOX OFFİCE 1 FHD
+http://aumaletv.com:25461/admin/admin/58703
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",TR: BOX OFFİCE 2 FHD
+http://aumaletv.com:25461/admin/admin/58704
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",TR: BOX OFFİCE 3 FHD
+http://aumaletv.com:25461/admin/admin/58705
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",TR: ACTION 2
+http://aumaletv.com:25461/admin/admin/58706
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",TR: ACTION
+http://aumaletv.com:25461/admin/admin/58707
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 6
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/69782.mp4
-#EXTINF:0,Recep İvedik 5
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 5
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/66563.mkv
-#EXTINF:0,(TR-) Recep Ivedik 4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 4
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56082.mp4
-#EXTINF:0,Recep İvedik 3
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 3
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/66565.mkv
-#EXTINF:0,Recep İvedik 2
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 2
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/66564.mkv
-#EXTINF:0,Recep İvedik.1
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 1
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/66566.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aile Arasında (2017)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55475.mkv
