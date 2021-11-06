@@ -313,7 +313,7 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/347
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: TV 8,5
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/349
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | GAZETELER",TR: YURT GAZETESİ
-<iframe src="https://www.yurtgazetesi.com.tr/service/webmaster/?t=3&c=20" scrolling="no" frameborder="0" width="660" height="400"></iframe>
+https://www.yurtgazetesi.com.tr/service/webmaster/?t=3&c=20" scrolling="no" frameborder="0" width="660" height="400"
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | HABER",TR: A PARA HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/20123
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | HABER",TR: HABER GLOBAL
