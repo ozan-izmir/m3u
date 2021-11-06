@@ -170,7 +170,7 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10418
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: SEMERKAND
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2271
 #EXTINF:0,MEKKE CANLI
-http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2539.ts
+http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/2539.m3u_plus&output=ts
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: LALEGUL TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2824
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: AKiT TV
