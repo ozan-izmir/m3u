@@ -312,6 +312,42 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/346
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/347
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: TV 8,5
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/349
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: 360
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2276
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: BLOOMBERG HT
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2828
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: TRT1 UHD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8614
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: ATV UHD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8668
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: STAR TV UHD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8665
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: KANAL D UHD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8664
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: SHOW TV UHD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8666
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: TV 8 UHD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8615
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: FOX TV UHD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8667
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: KANAL 7 UHD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/13216
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: TV 8.5 UHD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/16696
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: A2 UHD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8669
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: CNN TURK UHD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/16695
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: BEYAZ TV UHD
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/16694
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: SHOW TV EU
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/19758
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: STAR TV EU
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/19757
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: ATV EU
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/19756
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: KANAL D EU
+http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/19749
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | GAZETELER",TR: YURT GAZETESİ
 https://raw.githubusercontent.com/liderkom/m3u/lider_main/SDD
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | HABER",TR: A PARA HD
@@ -338,10 +374,6 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2831
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2829
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | HABER",TR: KANAL24
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/350
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: 360
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2276
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: BLOOMBERG HT
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2828
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: TLC HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/356
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: TRT BELGESEL
@@ -378,38 +410,6 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2291
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/344
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: DMAX
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/335
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: TRT1 UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8614
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: ATV UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8668
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: STAR TV UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8665
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: KANAL D UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8664
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: SHOW TV UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8666
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: TV 8 UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8615
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: FOX TV UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8667
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: KANAL 7 UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/13216
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: TV 8.5 UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/16696
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: A2 UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8669
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: CNN TURK UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/16695
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: BEYAZ TV UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/16694
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: SHOW TV EU
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/19758
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: STAR TV EU
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/19757
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: ATV EU
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/19756
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: KANAL D EU
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/19749
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: TRT EBA ILKOKUL
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/69281
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: TRT EBA ORTAOKUL
@@ -558,18 +558,6 @@ https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_1.stream/chunklis
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kadikoy.stream/chunklist_w1796797227.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul Eminönü İskelesi
 http://ibb-media1.ibb.gov.tr:1935/live/181.stream/chunklist_w523264543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: TRT AVAZ
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/13236
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: TRT TÜRK
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/13237
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: TGRT BELGESEL
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/13235
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: TV SU
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/13229
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: DREAM TURK
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/13228
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: ARTI TV
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/69280
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",TR: BOX OFFİCE 1 FHD
 http://aumaletv.com:25461/admin/admin/58703
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",TR: BOX OFFİCE 2 FHD
@@ -628,6 +616,8 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55490.avi
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55494.avi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kurtlar Vadisi: Filistin (2011)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55495.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: ARIF V 216
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55749.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kurtlar Vadisi: Gladio (2008)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55496.avi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kurtlar Vadisi: Irak (2006)
@@ -670,6 +660,464 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55512.avi
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55513.avi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Vizontele (2001)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55514.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ata Demirer Tek Kişilik Dev Kadro
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55528.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Atatürk'ün fedaisi Topal Osman (2013)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55519.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Av Mevsimi (2010)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55520.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ay Lav Yu (2010)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55521.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ayakta Kal (2009)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55522.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Babam ve Oğlum (2005)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55523.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bana Bir Soygun Yaz (2012)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55524.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Behzat Ç. Seni Kalbime Gömdüm (2011)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55525.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Behzat Ç. Ankara Yanıyor (2013)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55526.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Benim Dünyam (2013)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55527.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Berlin Kaplanı (2012)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55529.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ağır Abi
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55543.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Enes Batur Hayal Mi Gercek Mi
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56020.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: 3 Vakte Kadar
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55901.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: 4N1K
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55926.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ağlak Arif
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55701.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ailecek Şaşkınız (Sansürsüz)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55735.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Arapsaci
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56030.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Arapsaçı
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55759.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aşkın Algoritması (Zoe)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55845.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aydede
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55916.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ayla
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55760.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Baba Mirası
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55672.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Babam
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55903.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Babamın Ceketi
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55691.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: BalıkEti
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55758.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bamsı Beyrek
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55780.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eski Köye Yeni Adet
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55703.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eşkıya
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55708.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eyvah Karım
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55853.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ezan
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55848.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Fatih'in Fedaisi Kara Murat
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55762.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Firardayız
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55665.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Borç Harç
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55905.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Boru
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56024.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bücür
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56035.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Buğday
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55779.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Biz Size Döneriz
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55664.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bifo & CMYLMZ
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55748.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çakallarla Dans (2010)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55632.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çakallarla Dans 4
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55653.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cam
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55986.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Can Dostlar
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55912.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Can Tertip (2015)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55634.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Canavar Gibi: Türk İşi Frankeştayn
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56015.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çekmeköy Underground
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55786.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Celal Ile Ceren
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55635.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çiçero
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55920.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cici Babam
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55754.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cilgin Turk Dugunum
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55638.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cingöz Recai
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55719.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çinliler Geliyor
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55640.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cumali Ceber 2
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55673.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Damat Koğuşu (Sansürsüz)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55670.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Deliler
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55918.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Deniz ve Güneş
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55904.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Gürbüz: Hadi Allah'a Emanet
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56033.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Güven
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55906.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hababam Sinifi Yeniden 2019
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55907.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hacivat Karagöz Neden Öldürüldü?
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55790.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hayattan Korkma
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55789.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hedefim Sensin
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56028.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hep Yek 2
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55858.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hep Yek 3
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55680.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Her Şey Seninle Güzel
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56023.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Karpuz Kabuğundan Gemiler Yapmak
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55862.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kefernahum
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55822.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ketenpere
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56031.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Leblebi Tozu
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55859.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kolpaçino 3. Devre
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55657.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Murtaza
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55898.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Musabbar
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55908.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Müslüm
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55915.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Nadide Hayat
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55850.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Nasıl Yani
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55711.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Mezeci Çırağı
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56022.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: OT - TR
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80455.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Masal Şatosu: Sihirli Davet
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80456.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Güzelligin Portresi
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80457.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aşk Tesadüfleri Sever 2
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80458.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Zengo
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80459.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Mazlum Kuzey & Kuddusi 2 La! Kasada Para Var!
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80460.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Masallardan Geriye Kalan
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80461.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cep Herkülü: Naim Süleymanoglu
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80462.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bayi Toplantısı
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80463.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Babam
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80464.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eltilerin Savasi
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80465.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Karakomik Filmler 2: Deli (2020)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80466.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Karakomik Filmler 2: Emanet (2020)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80467.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Biz Böyleyiz (2020)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80468.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Yarına Tek Bilet (2020)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80469.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Dünya Hali (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80470.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Gece (2014)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80471.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Vicdan (2008)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80472.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Acı Tatlı Ekşi (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80473.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ejder Kapanı (2010)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80474.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Saf (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80475.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Herşey Aşktan (2016)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80476.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: SüperTürk (2012)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80477.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Yusuf Yusuf (2014)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80478.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sol Şerit (2016)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80479.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Senin Hikayen (2013)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80480.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sabit Kanca 2 (2014)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80481.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sabit Kanca (2013)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80482.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kalpten Gerdanlik
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80483.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kadin (2007)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80484.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kaçma Birader (2016)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80485.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Deliormanlı (2016)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80486.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hükümet Kadın 2 (2013)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80487.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kadın İşi Banka Soygunu (2014)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80488.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sağ Salim 2 (2014)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80489.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sağ Salim (2012)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80490.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çakallarla Dans 2: Hastasıyız Dede (2012)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80493.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çakallarla Dans (2010)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80494.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aşkopat (2015)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80496.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ali Kundilli (2015)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80497.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: Ali Kundilli 2 (2016)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80498.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aşk Sana Benzer (2015)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80499.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Yok Artık (2015)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80500.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Yok Artık! 2 (2016)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80501.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aykut Enişte (2019)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80502.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 6 (2019)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80504.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aslı Gibidir (2019)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80505.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çat Kapı Aşk (2019)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80506.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Organize İşler: Sazan Sarmalı (2019)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80507.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aile Arasında (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80508.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: 7. Koğuştaki Mucize (2019)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80509.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Annem (2019)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80510.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bizim için Şampiyon (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80511.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bana Bir Soygun Yaz 2 (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80512.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Mucize 2 : Aşk (2019)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80513.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Müslüm (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80514.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Yol Arkadaşım 2 (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80516.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Yol Arkadaşım (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80517.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Görümce (2016)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80518.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hedefim Sensin (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80519.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ailecek Şaşkınız (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80520.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eyyvah Eyvah 2
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80521.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eyvah Karim
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80522.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Olanlar Oldu
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80524.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Öteki Taraf
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80525.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Deliha 2
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80526.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Tatlim Tatlim
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80527.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cebimdeki Yabanci
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80528.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kelebekler
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80529.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hababam Sinifi Yeniden
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80530.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Firincinin Karisi
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80531.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hedefim Sensin
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80532.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Oflu Hocanin Sifresi
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80533.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cingoz Recai
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80534.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bi Kucuk Eylul Meselesi
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80536.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Berlin Kaplani
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80537.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Enes Batur: Hayal mi Gerçek mi? (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80538.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Enes Batur Gerçek Kahraman (2019)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80539.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Babamın Ceketi (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80540.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sesinde Aşk Var (2019)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80541.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cingöz Recai (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80542.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Unutursam Fısılda (2014)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80543.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Seni Seviyorum Adamım (2014)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80544.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Senden Bana Kalan (2015)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80545.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Romantik Komedi 2: Bekarlığa Veda (2013)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80546.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik (2008)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80547.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Mucize (2015)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80548.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Küçük Kıyamet (2006)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80549.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kelebeğin Rüyası (2013)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80550.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eyyvah Eyvah 2 (2011)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80551.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eyyvah Eyvah (2010)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80552.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Delibal (2015)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80553.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Dabbe (2006)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80554.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ayla (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80557.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çiçero (2019)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80558.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Deliler (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80559.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kolpaçino (2009)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80561.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ketenpere 2017
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80563.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hep Yek (2016)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80565.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hep Yek 3 (2019)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80567.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Türk İşi Dondurma (2019)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80568.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çalgı Çengi İkimiz (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80570.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Geniş Aile: Komşu Kızı (2019)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80580.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Siccîn 4 (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80581.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Siccîn 5 (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80582.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bizi Hatırla (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80583.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bir Aşk İki Hayat (2019)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80585.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Dönerse Senindir (2016)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80586.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Şansımı Seveyim (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80587.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Rüzgar (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80588.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Maide'nin Altın Günü (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80590.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Oflu Hoca Trakya'da (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80591.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hokkabaz (2006)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80592.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: 4N1K 2 (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80595.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Görevimiz Tatil (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80598.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Arif V 216 (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80602.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sonsuz Aşk (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80603.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kötü Çocuk (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80604.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik (2008)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80605.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 3 (2010)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80606.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 4 (2014)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80607.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sadece Sen (2014)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80609.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bölük (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80610.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Can Feda (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80611.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: İstanbul Kırmızısı (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80612.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sen Kimsin? (2012)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80614.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Romantik Komedi (2010)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80615.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Neşeli Hayat (2009)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80616.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Nadide Hayat (2015)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80617.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Mutluluk Zamanı (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80618.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kocan Kadar Konuş (2015)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80619.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kocan Kadar Konuş: Diriliş (2015)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80620.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Limonata (2015)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80621.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kurtuluş Son Durak (2012)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80622.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kardeşim Benim 2 (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80623.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kardeşim Benim (2016)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80624.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Herşey Aşktan (2016)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80625.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Geniş Aile: Yapıştır (2015)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80626.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Geniş Aile 2: Her Türlü (2016)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80627.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Düğün Dernek 2: Sünnet (2015)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80628.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Düğün Dernek (2013)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80629.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Celal ile Ceren (2013)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80630.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çakallarla Dans 5 (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80631.avi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ay Lav Yu Tuu (2017)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80632.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sen Benim HerŞeyimsin (2016)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80633.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kolpaçino 3. Devre (2016)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80634.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kayhan (2018)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80635.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: İncir Reçeli (2011)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80636.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: İkinci Şans (2016)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80637.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eve Dönüş: Sarıkamış 1915 (2013)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80638.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Dağ (2012)
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80639.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Vay Başıma Gelenler 2 Buçuk
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55678.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Vay Başıma Gelenler 2 - 5
+http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55869.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: Ölümcül Tuzak (2017)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/40451.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: Mükemmellik (2018)
@@ -834,28 +1282,6 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/52132.mp4
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/52133.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: Zincirsiz
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/52134.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ata Demirer Tek Kişilik Dev Kadro
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55528.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Atatürk'ün fedaisi Topal Osman (2013)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55519.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Av Mevsimi (2010)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55520.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ay Lav Yu (2010)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55521.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ayakta Kal (2009)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55522.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Babam ve Oğlum (2005)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55523.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bana Bir Soygun Yaz (2012)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55524.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Behzat Ç. Seni Kalbime Gömdüm (2011)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55525.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Behzat Ç. Ankara Yanıyor (2013)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55526.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Benim Dünyam (2013)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55527.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Berlin Kaplanı (2012)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55529.avi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-D) 8 Mil
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55542.avi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-D) Action Point
@@ -884,8 +1310,6 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55533.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55534.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-D) 21 Black jack
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55552.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ağır Abi
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55543.avi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-D) Ajanlar
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55544.avi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-D) Akrep Kral 3
@@ -964,8 +1388,6 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55579.avi
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55583.avi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-D) James Bond: Yıldırım Harekatı
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55582.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hürkuş: Göklerdeki Kahraman (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55578.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-D)  30 Years Of James Bond
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55589.avi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-D)  James Bond 50th Anniversary Gala Concert
@@ -994,20 +1416,12 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55597.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55813.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-)   Sessizlik
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55796.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: ARIF V 216
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55749.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-)  Bayan Kurşun
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55795.avi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-)  Bumblebee
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55851.avi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-)  Cam
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55794.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Enes Batur Hayal Mi Gercek Mi
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56020.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: 3 Vakte Kadar
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55901.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: 4N1K
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55926.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) 7 años
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55812.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) A Christmas Prince: The Royal Wedding
@@ -1016,10 +1430,6 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55979.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55968.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Against The Clock
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55953.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ağlak Arif
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55701.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ailecek Şaşkınız (Sansürsüz)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55735.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Alien Warfare
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55832.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Always Be My Maybe
@@ -1036,26 +1446,6 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55913.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55847.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Arakçılar
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55894.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Arapsaci
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56030.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Arapsaçı
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55759.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Aşkın Algoritması (Zoe)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55845.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aydede
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55916.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ayla
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55760.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Baba Mirası
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55672.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Babam
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55903.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Babamın Ceketi
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55691.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: BalıkEti
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55758.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bamsı Beyrek
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55780.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Battle
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55977.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Beast Of Burden
@@ -1078,12 +1468,8 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55855.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55675.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Beyaz Melek
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55694.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bifo & CMYLMZ
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55748.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Bir Ask Iki Hayat
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55831.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Biz Size Döneriz
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55664.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Black Mirror: Bandersnatch
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55971.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Blade Runner
@@ -1092,64 +1478,16 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55934.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56019.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Borç
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55910.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Borç Harç
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55905.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Boru
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56024.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bücür
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56035.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Buğday
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55779.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) BURN OUT
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55843.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çakallarla Dans (2010)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55632.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çakallarla Dans 4
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55653.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Calibre
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55810.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cam
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55986.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Can Dostlar
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55912.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Can Tertip (2015)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55634.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Canavar Gibi: Türk İşi Frankeştayn
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56015.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çekmeköy Underground
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55786.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Celal Ile Ceren
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55635.avi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Chiko
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55637.avi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) CHIPS
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55967.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çiçero
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55920.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cici Babam
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55754.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cilgin Turk Dugunum
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55638.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cingöz Recai
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55719.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çinliler Geliyor
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55640.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Climax
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55922.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Close
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55955.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cumali Ceber 2
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55673.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Damat Koğuşu (Sansürsüz)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55670.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Damat Takımı
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55663.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Degistir Bakalim
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55730.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Deliler
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55918.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Deniz ve Güneş
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55904.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Denizci 6 : Karargah
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55825.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Destination Wedding
@@ -1166,28 +1504,16 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55992.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55963.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Erkekler Ne İster
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55824.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eski Köye Yeni Adet
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55703.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Eski Sevgiliyi Unutmanın 10 Yolu
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55849.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eşkıya
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55708.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Extremely Wicked -  Shockingly Evil and Vile
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55881.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Eyvah Karim
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55909.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eyvah Karım
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55853.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ezan
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55848.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Family Vanished
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55893.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Fantastik Canavarlar: Grindelwald'ın Suçları
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55925.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Fatih'in Fedaisi Kara Murat
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55762.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Firardayız
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55665.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) First They Killed My Father
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55809.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Foxtrot
@@ -1212,24 +1538,6 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55792.mp4
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56017.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Gun City
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55998.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Gürbüz: Hadi Allah'a Emanet
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56033.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Güven
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55906.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hababam Sinifi Yeniden 2019
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55907.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hacivat Karagöz Neden Öldürüldü?
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55790.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hayattan Korkma
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55789.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hedefim Sensin
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56028.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hep Yek 2
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55858.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hep Yek 3
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55680.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Her Şey Seninle Güzel
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56023.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) I Don't Feel at Home in This World Anymore
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55808.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Icimde Akan Nehir
@@ -1280,20 +1588,12 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55772.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55775.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Kariyer
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55863.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Karpuz Kabuğundan Gemiler Yapmak
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55862.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kefernahum
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55822.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ketenpere
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56031.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Kıvrım
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55983.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Kız Babası
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55714.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Kızım Ve Ben
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55743.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kolpaçino 3. Devre
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55657.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Kötü Çocuk
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56025.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Kral Lear
@@ -1308,8 +1608,6 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55821.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55966.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Last Flag Flying
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55965.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Leblebi Tozu
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55859.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Love On The Slopes
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56001.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Love Per Square Foot
@@ -1332,8 +1630,6 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55654.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55655.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Meyerowitz Stories
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55805.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Mezeci Çırağı
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56022.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Mile 22
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56005.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Mission: Impossible - Yansımalar
@@ -1346,16 +1642,6 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55947.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55973.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Mrs  Hyde
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55989.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Murtaza
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55898.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Musabbar
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55908.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Müslüm
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55915.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Nadide Hayat
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55850.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Nasıl Yani
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55711.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Nefesim Kesilene Kadar
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55770.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Nehir Kırmızı Akar
@@ -1408,8 +1694,6 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55917.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55778.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Romantik Komedi 2 - Bekarlığa Veda
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55776.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Rus Gelin
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55876.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Sarı Sıcak
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55931.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Seni Gidi Seni
@@ -1420,14 +1704,8 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55661.mp4
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55852.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Set It Up
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55961.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Şevkat Yerimdar 2: Bizde Sakat Çok
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55874.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Sibirya
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55982.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sihirbazlık Okulunda Bir Türk
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55685.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sınav
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55873.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Sleeper
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56007.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Soltera Codiciada
@@ -1452,10 +1730,6 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55896.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55870.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Taksi 5
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55958.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Tallulah
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55801.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Tarih Soylesileri Canakkale Ozel
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55668.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Tatlı Bela
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56037.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Tatlım Tatlım
@@ -1516,18 +1790,12 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55736.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55704.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Triple Frontier
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55888.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Üç Harfliler: Beddua
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55697.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Üç Yol
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55763.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Unicorn Store
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55854.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Uzaklarda Arama
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55782.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Vay Başıma Gelenler 2 Buçuk
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55678.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Vay Başıma Gelenler 2 - 5
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55869.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Viral
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55818.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Walk  Ride  Rodeo
@@ -1548,10 +1816,6 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/56036.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55682.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Yeşil Rehber
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55838.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Yol Arkadaşım
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55690.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Yol Arkadaşım 2
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55911.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Yol Ayrımı
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55726.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: (TR-) Yola Geldik
@@ -1750,308 +2014,6 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/40608.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/40607.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: 39. Dosya (2009)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/40604.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: OT - TR
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80455.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Masal Şatosu: Sihirli Davet
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80456.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Güzelligin Portresi
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80457.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aşk Tesadüfleri Sever 2
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80458.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Zengo
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80459.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Mazlum Kuzey & Kuddusi 2 La! Kasada Para Var!
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80460.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Masallardan Geriye Kalan
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80461.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cep Herkülü: Naim Süleymanoglu
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80462.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bayi Toplantısı
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80463.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Babam
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80464.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eltilerin Savasi
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80465.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Karakomik Filmler 2: Deli (2020)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80466.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Karakomik Filmler 2: Emanet (2020)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80467.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Biz Böyleyiz (2020)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80468.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Yarına Tek Bilet (2020)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80469.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Dünya Hali (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80470.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Gece (2014)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80471.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Vicdan (2008)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80472.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Acı Tatlı Ekşi (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80473.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ejder Kapanı (2010)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80474.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Saf (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80475.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Herşey Aşktan (2016)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80476.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: SüperTürk (2012)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80477.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Yusuf Yusuf (2014)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80478.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sol Şerit (2016)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80479.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Senin Hikayen (2013)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80480.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sabit Kanca 2 (2014)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80481.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sabit Kanca (2013)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80482.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kalpten Gerdanlik
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80483.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kadin (2007)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80484.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kaçma Birader (2016)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80485.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Deliormanlı (2016)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80486.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hükümet Kadın 2 (2013)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80487.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kadın İşi Banka Soygunu (2014)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80488.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sağ Salim 2 (2014)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80489.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sağ Salim (2012)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80490.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çakallarla Dans 2: Hastasıyız Dede (2012)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80493.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çakallarla Dans (2010)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80494.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aşkopat (2015)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80496.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ali Kundilli (2015)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80497.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: Ali Kundilli 2 (2016)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80498.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aşk Sana Benzer (2015)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80499.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Yok Artık (2015)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80500.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Yok Artık! 2 (2016)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80501.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aykut Enişte (2019)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80502.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 6 (2019)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80504.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aslı Gibidir (2019)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80505.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çat Kapı Aşk (2019)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80506.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Organize İşler: Sazan Sarmalı (2019)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80507.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aile Arasında (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80508.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: 7. Koğuştaki Mucize (2019)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80509.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Annem (2019)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80510.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bizim için Şampiyon (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80511.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bana Bir Soygun Yaz 2 (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80512.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Mucize 2 : Aşk (2019)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80513.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Müslüm (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80514.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Yol Arkadaşım 2 (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80516.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Yol Arkadaşım (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80517.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Görümce (2016)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80518.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hedefim Sensin (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80519.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ailecek Şaşkınız (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80520.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eyyvah Eyvah 2
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80521.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eyvah Karim
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80522.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Olanlar Oldu
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80524.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Öteki Taraf
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80525.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Deliha 2
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80526.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Tatlim Tatlim
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80527.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cebimdeki Yabanci
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80528.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kelebekler
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80529.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hababam Sinifi Yeniden
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80530.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Firincinin Karisi
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80531.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hedefim Sensin
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80532.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Oflu Hocanin Sifresi
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80533.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cingoz Recai
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80534.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bi Kucuk Eylul Meselesi
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80536.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Berlin Kaplani
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80537.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Enes Batur: Hayal mi Gerçek mi? (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80538.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Enes Batur Gerçek Kahraman (2019)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80539.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Babamın Ceketi (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80540.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sesinde Aşk Var (2019)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80541.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Cingöz Recai (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80542.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Unutursam Fısılda (2014)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80543.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Seni Seviyorum Adamım (2014)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80544.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Senden Bana Kalan (2015)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80545.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Romantik Komedi 2: Bekarlığa Veda (2013)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80546.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik (2008)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80547.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Mucize (2015)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80548.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Küçük Kıyamet (2006)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80549.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: Kelebeğin Rüyası (2013)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80550.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eyyvah Eyvah 2 (2011)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80551.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eyyvah Eyvah (2010)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80552.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Delibal (2015)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80553.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Dabbe (2006)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80554.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ayla (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80557.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çiçero (2019)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80558.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Deliler (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80559.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kolpaçino (2009)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80561.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ketenpere 2017
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80563.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hep Yek (2016)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80565.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hep Yek 3 (2019)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80567.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Türk İşi Dondurma (2019)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80568.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çalgı Çengi İkimiz (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80570.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Geniş Aile: Komşu Kızı (2019)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80580.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Siccîn 4 (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80581.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Siccîn 5 (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80582.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bizi Hatırla (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80583.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bir Aşk İki Hayat (2019)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80585.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Dönerse Senindir (2016)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80586.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Şansımı Seveyim (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80587.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Rüzgar (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80588.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Maide'nin Altın Günü (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80590.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Oflu Hoca Trakya'da (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80591.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Hokkabaz (2006)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80592.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: 4N1K 2 (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80595.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Görevimiz Tatil (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80598.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Arif V 216 (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80602.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sonsuz Aşk (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80603.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kötü Çocuk (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80604.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik (2008)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80605.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 3 (2010)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80606.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 4 (2014)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80607.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sadece Sen (2014)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80609.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bölük (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80610.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Can Feda (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80611.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: İstanbul Kırmızısı (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80612.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sen Kimsin? (2012)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80614.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Romantik Komedi (2010)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80615.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Neşeli Hayat (2009)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80616.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Nadide Hayat (2015)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80617.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Mutluluk Zamanı (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80618.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kocan Kadar Konuş (2015)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80619.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kocan Kadar Konuş: Diriliş (2015)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80620.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Limonata (2015)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80621.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kurtuluş Son Durak (2012)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80622.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kardeşim Benim 2 (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80623.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kardeşim Benim (2016)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80624.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Herşey Aşktan (2016)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80625.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Geniş Aile: Yapıştır (2015)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80626.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Geniş Aile 2: Her Türlü (2016)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80627.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Düğün Dernek 2: Sünnet (2015)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80628.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Düğün Dernek (2013)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80629.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Celal ile Ceren (2013)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80630.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Çakallarla Dans 5 (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80631.avi
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Ay Lav Yu Tuu (2017)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80632.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Sen Benim HerŞeyimsin (2016)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80633.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kolpaçino 3. Devre (2016)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80634.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Kayhan (2018)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80635.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: İncir Reçeli (2011)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80636.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: İkinci Şans (2016)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80637.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Eve Dönüş: Sarıkamış 1915 (2013)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80638.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Dağ (2012)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/80639.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: Books of Blood (2020)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/89580.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: Sihir Gizli Servisi (2021)
@@ -2520,8 +2482,6 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/79050.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/79052.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: Honeyland (1935)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/79135.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aşk Tesadüfleri Sever 2 (2020)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/79138.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: Ahí te encargo (2020)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/79145.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: Hubie'nin Cadılar Bayramı (2020)
@@ -2548,12 +2508,8 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/78707.mkv
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/78708.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: Enola Holmes (2020)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/79001.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Türkler Geliyor: Adaletin Kılıcı (2020)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/79048.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: Okja (2017)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/79049.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: (2020)
-http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/73182.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: Gel Babacığına (2020)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/73183.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: 15 Dakika Savaş (2019)
