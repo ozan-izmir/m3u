@@ -630,6 +630,12 @@ http://91.236.251.50:8090/play/a01k
 http://91.236.251.50:8090/play/a01i
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",AKSİYON2
 http://91.236.251.50:8090/play/a011
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",MiSKET TV
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ANKA TV
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5592
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",TURKUVAZ WESTERN
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5243
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 6
 -http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/32889
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 5
