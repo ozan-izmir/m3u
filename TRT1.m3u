@@ -555,7 +555,7 @@ http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/122
 #EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "TR | WORLD SPOR",HR: ARENA 4 HD
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/123
 #EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "TR | WORLD SPOR",ENG: SPORTS 1 ENGLISH HD
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/166
+http://showflix.org:5890/8UK3DAVXS8/ySxk0ZSoQm/26?play_token=JVkWPCY2Id
 #EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "TR | WORLD SPOR",FR: SPORTS 1 FRENCH HD
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/139
 #EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "TR | WORLD SPOR",DE: SKY SPORT 1 HD
@@ -654,17 +654,17 @@ http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/5700?play_token=HGJ6Hufm
 http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/7943?play_token=XLG62yUzlr
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ PREMIER
 http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/5688?play_token=deH4XLYqPl
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 6
--http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/32889
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 5
--http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/32886
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 4
--http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/32882
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 3
--http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/66565.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 2
--http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/32881
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 1
+http://showflix.org:5890/8UK3DAVXS8/CHv9oEnGGJ/1156?play_token=cfrL6DmNQk
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 2
+http://showflix.org:5890/8UK3DAVXS8/xFR3G8v6UI/1157?play_token=NZngctjVcw
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 3
+http://showflix.org:5890/8UK3DAVXS8/CMDVYjpSsJ/1160?play_token=ZB12Ol5kIA
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 4
+http://showflix.org:5890/8UK3DAVXS8/1omL1X2f2I/1167?play_token=qPw3WvR20V
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 5
+-http://much02.cularu.com:8880/sch15m3n088/9ewd7f9sd/32881
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 6
 -http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/66566.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aile Arasında (2017)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55475.mkv
