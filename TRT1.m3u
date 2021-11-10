@@ -509,7 +509,7 @@ http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/85
 #EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "TR | WORLD SPOR",HU: DİGİSPORT 1 HD
 http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/13295?play_token=7SVwmICNeg
 #EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "TR | WORLD SPOR",RO: DİGİSPORT 2 HD
-http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/14995?play_token=RWI3iR4x7h
+http://iptv.ndasat.com:88/229401692640454/229401692640454/1830
 #EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "TR | WORLD SPOR",HU: DİGİSPORT 2 HD
 http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/13294?play_token=bRtkQudM8E
 #EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "TR | WORLD SPOR",RO: DİGİSPORT 3 HD
@@ -557,7 +557,11 @@ http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/123
 #EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "TR | WORLD SPOR",ENG: SPORTS 1 ENGLISH HD
 http://showflix.org:5890/8UK3DAVXS8/iddqPfHLMi/26?play_token=V9eMUJf9HE
 #EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "TR | WORLD SPOR",FR: SPORTS 1 FRENCH HD
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/139
+http://iptv.ndasat.com:88/229401692640454/229401692640454/7731
+#EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "TR | WORLD SPOR",FR: SPORTS 2 FRENCH HD
+http://iptv.ndasat.com:88/229401692640454/229401692640454/70
+#EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "TR | WORLD SPOR",FR: SPORTS 3 FRENCH HD
+http://iptv.ndasat.com:88/229401692640454/229401692640454/71
 #EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "TR | WORLD SPOR",DE: SKY SPORT 1 HD
 http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/687667?play_token=vIW2PSC6jp
 #EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "TR | WORLD SPOR",DE: SKY SPORT 2 HD
@@ -654,10 +658,20 @@ http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/5700?play_token=HGJ6Hufm
 http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/7943?play_token=XLG62yUzlr
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ PREMIER
 http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/5688?play_token=deH4XLYqPl
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ Decale
+http://iptv.ndasat.com:88/229401692640454/229401692640454/183
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ Cinema
+http://iptv.ndasat.com:88/229401692640454/229401692640454/5191
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ Family
+http://iptv.ndasat.com:88/229401692640454/229401692640454/184
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ Emotion
+http://iptv.ndasat.com:88/229401692640454/229401692640454/186
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ Frisson
+http://iptv.ndasat.com:88/229401692640454/229401692640454/185
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 1
-http://showflix.org:5890/8UK3DAVXS8/KlQDfB4btj/1156
+http://iptv.ndasat.com:88/229401692640454/229401692640454/526
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 2
-http://showflix.org:5890/8UK3DAVXS8/xFR3G8v6UI/1157?play_token=never
+http://iptv.ndasat.com:88/229401692640454/229401692640454/525
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 3
 http://showflix.org:5890/8UK3DAVXS8/CMDVYjpSsJ/1160?play_token=?
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 4
