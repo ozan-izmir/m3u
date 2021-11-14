@@ -322,30 +322,6 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2828
 http://91.236.251.50:8090/play/a01c
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: FOX CRIME HD
 http://91.236.251.50:8090/play/a01a
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: TRT1 UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8614
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: ATV UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8668
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: STAR TV UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8665
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: KANAL D UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8664
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: SHOW TV UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8666
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: TV 8 UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8615
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: FOX TV UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8667
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: KANAL 7 UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/13216
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: TV 8.5 UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/16696
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: A2 UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8669
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: CNN TURK UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/16695
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL-UHD",TR: BEYAZ TV UHD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/16694
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: SHOW TV EU
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/19758
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: STAR TV EU
@@ -670,6 +646,30 @@ http://king-tv.online:80/wctinney/aRaD1Pq2Rg/195923.ts
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/195921.ts
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOX ACTION FHD
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/195920.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | MAX SELECT 1 FHD DE
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82723
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | MAX SELECT 2 FHD DE
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82724
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | MAX SELECT 3 FHD DE
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82725
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | MAX SELECT 4 FHD DE
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82726
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | MAX SELECT 5 FHD DE
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82727
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | MAX SELECT 6 FHD DE
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82728
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | MAX SELECT 7 FHD DE
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82729
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | OCS Go Cinema 1 HD FR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4131
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | OCS Go Cinema 2 HD FR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4130
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | OCS Go Cinema 3 HD FR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4134
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | OCS Go Cinema 4 HD FR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4128
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | OCS Go Cinema 5 HD FR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4127
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",SPORT 1
 http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/682943?play_token=eCX2Mqsq1h
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",SPORT 2
