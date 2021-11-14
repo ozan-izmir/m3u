@@ -270,7 +270,7 @@ xîö¥dº›¦şûCvõs'6ÂákÈù=“äaä™c3p’#ìõU0¨i‚~
 È‚Ø¢ìx°'Í¥ã2Œ&œ†ÙÍ›9“üQ§¬âÃ'gœğä=YÚŒQÜôhˆA@BP|Œq-°¹Ç [Ìz˜èì»Å
 ÷îß
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = ">>>> | -​LİDERKOM-", "BILGILENDIME"
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = ">>>> | "<font color = FF0000>LIDERKOM</font><br>"", "BILGILENDIME"
 https://raw.githubusercontent.com/liderkom/m3u/lider_main/ULUDD.avi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: TRT 1 HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/328
