@@ -648,18 +648,18 @@ http://king-tv.online:80/wctinney/aRaD1Pq2Rg/195921.ts
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/195920.ts
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",MAX SELECT 1 FHD DE
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82723
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",MAX SELECT 2 FHD DE
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82724
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",MAX SELECT 3 FHD DE
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82725
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",MAX SELECT 4 FHD DE
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82726
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",MAX SELECT 5 FHD DE
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82727
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",MAX SELECT 6 FHD DE
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82728
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",MAX SELECT 7 FHD DE
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82729
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",SELECT 1 FHD DE
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/12470
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",SELECT 2 FHD DE
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/12469
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",SELECT 3 FHD DE
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1337
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",SELECT 4 FHD DE
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1336
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",SELECT 5 FHD DE
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/12487
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",SELECT 6 FHD DE
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1334
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",OCS Go Cinema 1 HD FR
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4131
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",OCS Go Cinema 2 HD FR
