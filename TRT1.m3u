@@ -270,7 +270,8 @@ xîö¥dº›¦şûCvõs'6ÂákÈù=“äaä™c3p’#ìõU0¨i‚~
 È‚Ø¢ìx°'Í¥ã2Œ&œ†ÙÍ›9“üQ§¬âÃ'gœğä=YÚŒQÜôhˆA@BP|Œq-°¹Ç [Ìz˜èì»Å
 ÷îß
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "-LIDERKOM-","BILGILENDIME"
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "-LIDERKOM-","BILGILENDIME"
 https://raw.githubusercontent.com/liderkom/m3u/lider_main/ULUDD.avi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: TRT 1 HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/328
@@ -580,6 +581,26 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1322
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10201
 #EXTINF:-1 tvg-id="" tvg-name=" R0: TRT 1" tvg - logo = "" group-title = "TR | WORLD SPOR",AZ: IDMAN TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10200
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "BR | CAM",BBG: Fazenda 13
+http://b5.vc:80/Ernando2021/2021Ernando/128349.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "BR | CAM",BBG: Fazenda 13
+http://b5.vc:80/Ernando2021/2021Ernando/128601.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "BR | CAM",BBG: Fazenda2 13
+http://b5.vc:80/Ernando2021/2021Ernando/128602.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "BR | CAM",BBG: Fazenda3 13
+http://b5.vc:80/Ernando2021/2021Ernando/128603.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "BR | CAM",BBG: Fazenda4 13
+http://b5.vc:80/Ernando2021/2021Ernando/128604.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "BR | CAM",BBG: Fazenda5 13
+http://b5.vc:80/Ernando2021/2021Ernando/128605.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "BR | CAM",BBG: Fazenda6 13
+http://b5.vc:80/Ernando2021/2021Ernando/128606.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "BR | CAM",BBG: Fazenda7 13
+http://b5.vc:80/Ernando2021/2021Ernando/128607.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "BR | CAM",BBG: Fazenda8 13
+http://b5.vc:80/Ernando2021/2021Ernando/128608.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "BR | CAM",BR: İstanbul Bağdat Caddesi
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_2.stream/chunklist_w876588604.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul Beşiktaş
 http://ibb-media4.ibb.gov.tr:1935/live/43.stream/chunklist_w1708053345.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul Bağdat Caddesi
