@@ -707,10 +707,12 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4134
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4128
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",OCS Go Cinema 5 HD FR
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4127
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",SPORT 1
-http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/682943?play_token=eCX2Mqsq1h
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",SPORT 2
-http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/682944?play_token=lF7g8jYk0I
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",B SPORT 1
+http://iptv.ndasat.com:88/229401692640454/229401692640454/7731
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",B SPORT 2
+http://iptv.ndasat.com:88/229401692640454/229401692640454/70
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",B SPORT 3
+http://iptv.ndasat.com:88/229401692640454/229401692640454/71
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",MAX 1
 http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/682953?play_token=4VtFxZ3eMz
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",MAX 2
