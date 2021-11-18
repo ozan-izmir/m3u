@@ -437,34 +437,36 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/354
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8464
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: NR1 DANCE
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/355
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: TELE1
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/19752
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: LİFE TV
-http://yerelmedya.tv:1935/lifetv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: UCAN KUS TV
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/9619
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: KON TV
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2269
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: CEM TV
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2834
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: TVNET
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2830
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: Vatan Tv
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2825
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: TV DiYANET
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10418
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: SEMERKAND
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2271
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: LALEGUL TV
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2824
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: AKiT TV
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10425
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: DOST TV
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10422
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: REHBER TV
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10424
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | YEREL",TR: AKILLI TV
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/4993
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F1
+http://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2096.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F2
+http://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2093.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F3
+http://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2094.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F4
+http://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2090.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F5
+http://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2089.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F6
+tp://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2088.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F7
+http://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2087.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F8
+http://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2086.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F9
+http://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2084.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F10
+http://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2083.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F11
+http://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2080.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F12
+http://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2081.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F13
+http://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2134.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F14
+http://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2208.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F15
+http://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2195.ts
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SPOR",TR: TRT SPOR
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/339
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SPOR",TR: TRT SPOR HD
