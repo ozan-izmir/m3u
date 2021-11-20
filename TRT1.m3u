@@ -664,7 +664,7 @@ http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5592
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",TURKUVAZ WESTERN
 http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5243
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",TEST1
-http://fastiptv.me:25461/rada/stevic/66
+http://fastiptv.me:25461/rada/stevic/66?play_token=JS2AjMIkLn
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOX OFFİCE 1 FHD
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/7092
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOX OFFİCE 2 FHD
