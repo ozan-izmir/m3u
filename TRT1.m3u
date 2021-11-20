@@ -778,17 +778,17 @@ http://iptv.ndasat.com:88/229401692640454/229401692640454/892
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ CanalPlay10
 http://iptv.ndasat.com:88/229401692640454/229401692640454/893
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 1
--http://iptv.ndasat.com:88/229401692640454/229401692640454/526
+https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 2
--http://iptv.ndasat.com:88/229401692640454/229401692640454/525
+https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 3
-https://raw.githubusercontent.com/liderkom/m3u/lider_main/cove1r.png
+https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 4
-https://raw.githubusercontent.com/liderkom/m3u/lider_main/cove1r.png
+https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 5
--http://showplustv.pro:80/ahmed12/ahmed123/65769
+https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 6
--http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16004
+https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aile Arasında (2017)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55475.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bizim Köyün Şarkısı (2018)
