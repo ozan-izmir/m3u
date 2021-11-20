@@ -675,6 +675,8 @@ http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/94025
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/7092
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",SALON2 FHD
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/7093
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",SALON3 FHD
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/7094
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",B PREMIER FHD
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/1128
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",B PREMIER2 FHD
@@ -709,6 +711,20 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4134
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4128
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",OCS Go Cinema 5 HD FR
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4127
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",Digi Gold 1 AL
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/686
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",Digi Gold 2 AL
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/685
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",Digi Gold 3 AL
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/684
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",Digi Gold 4 AL
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/683
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",RED TV AL
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/94111
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",CINEMA 1 AL
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/2315
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",CINEMA 2 AL
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/2314
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",B SPORT 1
 http://iptv.ndasat.com:88/229401692640454/229401692640454/7731
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",B SPORT 2
