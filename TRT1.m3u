@@ -601,7 +601,7 @@ http://b5.vc:80/Ernando2021/2021Ernando/128606.ts
 http://b5.vc:80/Ernando2021/2021Ernando/128607.ts
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "BR | CAM",BBG: Fazenda8 13
 http://b5.vc:80/Ernando2021/2021Ernando/128608.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "BR | CAM",BR: İstanbul Bağdat Caddesi
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "BR | CAM",TR: İstanbul Bağdat Caddesi
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_2.stream/chunklist_w876588604.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul Beşiktaş
 http://ibb-media4.ibb.gov.tr:1935/live/43.stream/chunklist_w1708053345.m3u8
@@ -664,7 +664,7 @@ http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5592
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",TURKUVAZ WESTERN
 http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5243
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",TEST1
-http://ghost.dvrdns.org:2086/krXL50L00/88wQ004HY339/29962
+http://fastiptv.me:25461/rada/stevic/66
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOX OFFİCE 1 FHD
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/7092
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOX OFFİCE 2 FHD
