@@ -397,10 +397,10 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2291
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/344
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: DMAX
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/335
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | DİZİ",TR: TRT DÖNGÜ 1.S 1.B
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | DİZİ",TR: DÖNGÜ 1.S 1.B
 https://vidroxy.com/eyJhbGciOiJIUzI1NiJ9.eyJzcnYiOjIxLCJkIjozLCJuIjoidGFsZXMtZnJvbS10aGUtbG9vcCIsInMiOiIxIiwiZSI6IjEiLCJxIjoiMTA4MCJ9.3CODifOnaWPuLPrHcRBV355imwv6EldlDHKogUFSmMc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: TRT EBA ORTAOKUL
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/69282
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: DÖNGÜ 1.S 2.B
+https://vidroxy.com/eyJhbGciOiJIUzI1NiJ9.eyJzcnYiOjE4LCJkIjo0LCJuIjoidGFsZXMtZnJvbS10aGUtbG9vcCIsInMiOiIxIiwiZSI6IjIiLCJxIjoiMTA4MCJ9.JpPyHwJapL2aqtYpXkZWSeqsIEYcN5gcJlgqsaQbyqc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: TRT EBA LISE
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/69283
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: TRT COCUK
