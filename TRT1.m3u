@@ -622,71 +622,71 @@ https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kadikoy.stream/chunklist_w17
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul Eminönü İskelesi
 http://ibb-media1.ibb.gov.tr:1935/live/181.stream/chunklist_w523264543.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ACTION
-http://91.236.251.50:8090/play/a01i
+-http://91.236.251.50:8090/play/a01i
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",SİNEMA 2
-http://91.236.251.50:8090/play/a01l
+-http://91.236.251.50:8090/play/a01l
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",M CLASSIC
-http://91.236.251.50:8090/play/a02f
+-http://91.236.251.50:8090/play/a02f
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",M PREMIUM
-http://91.236.251.50:8090/play/a01q
+-http://91.236.251.50:8090/play/a01q
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",M PREMIUM 2
-http://91.236.251.50:8090/play/a01r
+-http://91.236.251.50:8090/play/a01r
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",M TÜRK
-http://91.236.251.50:8090/play/a02g
+-http://91.236.251.50:8090/play/a02g
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",M TÜRK
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/94029
+-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/94029
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",M PREMIUM
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/94027
+-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/94027
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",M PREMIUM2
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/94028
+-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/94028
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",AİLE
-http://91.236.251.50:8090/play/a012
+-http://91.236.251.50:8090/play/a012
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",AİLE2
-http://91.236.251.50:8090/play/a013
+-http://91.236.251.50:8090/play/a013
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",MOVIES PREMIERE
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/195924.ts
+-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/195924.ts
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",MOVIES PREMIERE 2
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/195923.ts
+-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/195923.ts
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",KOMEDİ
-http://91.236.251.50:8090/play/a014
+-http://91.236.251.50:8090/play/a014
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",KOMEDİ2
-http://91.236.251.50:8090/play/a015
+-http://91.236.251.50:8090/play/a015
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",SİNEMA TV
-http://91.236.251.50:8090/play/a01k
+-http://91.236.251.50:8090/play/a01k
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",AKSİYON
-http://91.236.251.50:8090/play/a01i
+-http://91.236.251.50:8090/play/a01i
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",AKSİYON2
-http://91.236.251.50:8090/play/a011
+-http://91.236.251.50:8090/play/a011
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",MiSKET TV
-http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
+-http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ANKA TV
-http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5592
+-http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5592
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",TURKUVAZ WESTERN
-http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5243
+-http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5243
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",TEST1
-http://fastiptv.me:25461/rada/stevic/66?play_token=JS2AjMIkLn
+-http://fastiptv.me:25461/rada/stevic/66?play_token=JS2AjMIkLn
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOX OFFİCE 1 FHD
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/7092
+-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/7092
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOX OFFİCE 2 FHD
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/1132
+-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/1132
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOX OFFİCE 3 FHD
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/94025
+-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/94025
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",SALON1 FHD
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/7092
+-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/7092
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",SALON2 FHD
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/7093
+-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/7093
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",SALON3 FHD
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/7094
+-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/7094
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",B PREMIER FHD
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/1128
+-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/1128
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",B PREMIER2 FHD
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/1127
+-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/1127
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",B FAMLIY FHD
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/1130
+-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/1130
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",B KORKU FHD
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/93889
+-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/93889
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",B BİLİMKURGU FHD
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/93888
+-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/93888
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",MAX SELECT 1 FHD DE
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82723
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",SELECT 1 FHD DE
