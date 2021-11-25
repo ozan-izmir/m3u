@@ -2282,6 +2282,48 @@ https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_1.stream/chunklis
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kadikoy.stream/chunklist_w1796797227.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul Eminönü İskelesi
 http://ibb-media1.ibb.gov.tr:1935/live/181.stream/chunklist_w523264543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ENO TURK 1
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47051
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ENO ViZYON 1
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47052
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ENO ViZYON 2
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47053
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ENO ViZYON 3
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47054
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ENO ViZYON 4
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47055
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ENO ViZYON 5
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47056
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ENO ViZYON 6
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47057
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ENO ViZYON 7
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47058
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ENO ViZYON 8
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47059
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ENO ViZYON 9
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47060
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ENO ViZYON 10
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47061
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOSS MOVIES 1
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47036
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOSS MOVIES 2
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47037
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOSS MOVIES 3
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47038
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOSS MOVIES 4
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47039
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOSS MOVIES 5
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47040
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOSS MOVIES 6
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47041
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOSS MOVIES 7
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47042
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOSS MOVIES 8
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47043
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOSS MOVIES 9
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47044
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",BOSS MOVIES 10
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/47045
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ACTION
 https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
 -http://91.236.251.50:8090/play/a01i
