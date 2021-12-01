@@ -1,13 +1,14 @@
 #EXTM3U
 #EXTINF:0,[TR] ATATURK BELGESELI
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="ATATURK BELGESELI" tvg-logo="" group-title="ATATURK",ATATURK BELGESELI
+#EXTINF:-0 tvg-id="" tvg-name="ATATURK BELGESELI" tvg-logo="" group-title="ATATURK",ATATURK BELGESELI
 http://tv.hera.tube:8000/live/heraiptvvodpaket/heraiptvcom/2376.ts
 #EXTINF:0,BBC EARTH HD 1080
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="ATATURK BELGESELI2" tvg-logo="" group-title="ATATURK",ATATURK BELGESELI2
+#EXTINF:-0 tvg-id="" tvg-name="ATATURK BELGESELI2" tvg-logo="" group-title="ATATURK",ATATURK BELGESELI2
 http://tv.hera.tube:8000/live/heraiptvvodpaket/heraiptvcom/2371.ts
 #EXTINF:0,HISTORY HD 1080
+#EXTINF:-0 tvg-id="" tvg-name="ATATURK BELGESELI3" tvg-logo="" group-title="ATATURK",ATATURK BELGESELI3
 #EXTVLCOPT:network-caching=1000
 http://tv.hera.tube:8000/live/heraiptvvodpaket/heraiptvcom/2362.ts
 #EXTINF:0,[TR] VIASAT HISTORY HD
