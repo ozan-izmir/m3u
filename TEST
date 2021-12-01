@@ -1,11 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="http://livetv2021.site:8080/images/66f4a9f637e4ca33203518474ffe8cf4.png" group-title="Canais I Telecine" group-name="Tele I",Action HD
+#EXTINF:0,[TR] ATATURK BELGESELI
+#EXTVLCOPT:network-caching=1000
+http://tv.hera.tube:8000/live/heraiptvvodpaket/heraiptvcom/2376.ts
+#EXTINF:0,BBC EARTH HD 1080
+#EXTVLCOPT:network-caching=1000
+http://tv.hera.tube:8000/live/heraiptvvodpaket/heraiptvcom/2371.ts
+#EXTINF:0,HISTORY HD 1080
+#EXTVLCOPT:network-caching=1000
+http://tv.hera.tube:8000/live/heraiptvvodpaket/heraiptvcom/2362.ts
+#EXTINF:0,[TR] VIASAT HISTORY HD
+#EXTVLCOPT:network-caching=1000
+http://tv.hera.tube:8000/live/heraiptvvodpaket/heraiptvcom/2349.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="" group-title="Canais I Telecine" group-name="Tele I",Action HD
 http://livetv2021.site:8080/9897876765/6576567/1
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action2" tvg-logo="http://livetv2021.site:8080/images/66f4a9f637e4ca33203518474ffe8cf4.png" group-title="Canais I Telecine" group-name="Tele I",Action HD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action2" tvg-logo="" group-title="Canais I Telecine" group-name="Tele I",Action HD
 http://livetv2021.site:8080/9897876765/6576567/2
-#EXTINF:-1 tvg-id="" tvg-name="Rede Massa - SBT HD" tvg-logo="http://livetv2021.site:8080/images/e8b6f0b08feb5e510722173743b062bf.png" group-title="Canais I Abertos",Rede Massa - SBT HD
+#EXTINF:-1 tvg-id="" tvg-name="Rede Massa - SBT HD" tvg-logo="" group-title="Canais I Abertos",Rede Massa - SBT HD
 http://livetv2021.site:8080/9897876765/6576567/54
-#EXTINF:-1 tvg-id="" tvg-name="Sportv  UHD" tvg-logo="http://livetv2021.site:8080/images/f403e9597b0a4ca7d64cfca666232651.png" group-title="Canais I Esportes",Sportv  UHD
+#EXTINF:-1 tvg-id="" tvg-name="Sportv  UHD" tvg-logo="" group-title="Canais I Esportes",Sportv  UHD
 http://livetv2021.site:8080/9897876765/6576567/55
 #EXTINF:-1 tvg-id="" tvg-name="Sportv HD" tvg-logo="http://livetv2021.site:8080/images/f403e9597b0a4ca7d64cfca666232651.png" group-title="Canais I Esportes",Sportv HD
 http://livetv2021.site:8080/9897876765/6576567/56
