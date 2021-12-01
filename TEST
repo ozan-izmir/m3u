@@ -127,37 +127,37 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2291
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/344
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: DMAX
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/335
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 1.B" group-title = "DÖNGÜ",TR: DÖNGÜ 1.S 1.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo1 = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 1.B
 https://s57.rapidrame.com/hls/zojdmmbgwuknuemgnzcfurgvtoilukmhfdjgcuh2hxnxnvmdveprgq3wwg6q/index-v1-a1.m3u8
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI1" tvg - logo = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 2.B - logo = "" group-title = "DÖNGÜ",TR: DÖNGÜ 1.S 2.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI1" tvg - logo1 = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 2.B
 https://s22.rapidrame.com/hls/zojdmmjgwuknuemgnzcfug4qqumpy4lwgbrtpjzkujann7f7wtd2jujuv32q/index-v1-a1.m3u8
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 3.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo1 = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 3.B
 https://s22.rapidrame.com/hls/zojdmmrgwuknuemgnzcfut65qcndzv6gcoeg7wts75vzcnoz7mkkvuqacyja/index-v1-a1.m3u8
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 4.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo1 = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 4.B
 https://s48.rapidrame.com/hls/zojdmpbgwuknuemgnzcfuqg5sp5bgdgngpfgca66gzstidgwvv6hwuynsyfa/index-v1-a1.m3u8
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 5.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo1 = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 5.B
 https://s58.rapidrame.com/hls/zojdmmzgwuknuemgnzcfuv6qt2d7zi2l7y7ramz256jdwnlrbbakm7lelkaa/index-v1-a1.m3u8
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 6.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo1 = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 6.B
 https://s48.rapidrame.com/hls/zojdmpjgwuknuemgnzcfux65s3gomz3wwtp64imen3actonubf3eeyks52qq/index-v1-a1.m3u8
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 7.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo1 = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 7.B
 https://s48.rapidrame.com/hls/zojdmprgwuknuemgnzcfuwents2maq4ikflvai4ecsfa4xk32y2r44mozcvq/index-v1-a1.m3u8
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 8.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo1 = "" group-title = "DİZİ",TR: DÖNGÜ 1.S 8.B
 https://s48.rapidrame.com/hls/zojdmpzgwuknuemgnzcfuhuxs3dfjw7yugdjzoriwaiz347dzliqx5cwn3xq/index-v1-a1.m3u8
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo = "" group-title = "DİZİ",TR: KATLA 1.S 1.B" group-title = "KATLA",TR: KATLA 1.S 1.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo2 = "" group-title = "DİZİ",TR: KATLA 1.S 1.B
 https://b1.ygve.com/storage/media/779ec50454453dcd877cfefb8f27fb5e-720.mp4/master.m3u8
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo = "" group-title = "DİZİ",TR: KATLA 1.S 2.B - logo = "" group-title = "KATLA",TR: KATLA 1.S 2.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo2 = "" group-title = "DİZİ",TR: KATLA 1.S 2.B
 https://b2.ygve.com/storage/media/06068f91cea604977163f32014b6e912-720.mp4/master.m3u8
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo = "" group-title = "DİZİ",TR: KATLA 1.S 3.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo2 = "" group-title = "DİZİ",TR: KATLA 1.S 3.B
 https://b2.ygve.com/storage/media/9b48c130d7fefba4b74e3afe84cf2e32-720.mp4/master.m3u8
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo = "" group-title = "DİZİ",TR: KATLA 1.S 4.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo2 = "" group-title = "DİZİ",TR: KATLA 1.S 4.B
 https://b3.ygve.com/storage/media/6e3f6881fd94a157517b92d7390684be-720.mp4/master.m3u8
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo = "" group-title = "DİZİ",TR: KATLA 1.S 5.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo2 = "" group-title = "DİZİ",TR: KATLA 1.S 5.B
 https://b2.ygve.com/storage/media/bd51cbdefa5f53bf931ee62ca3652f68-720.mp4/master.m3u8
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo = "" group-title = "DİZİ",TR: KATLA 1.S 6.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo2 = "" group-title = "DİZİ",TR: KATLA 1.S 6.B
 https://b1.ygve.com/storage/media/c235e2d92efde29d01f3805d88485402-720.mp4/master.m3u8
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo = "" group-title = "DİZİ",TR: KATLA 1.S 7.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo2 = "" group-title = "DİZİ",TR: KATLA 1.S 7.B
 https://b4.ygve.com/storage/media/c3894f40d45c2087771566b0590cd22f-720.mp4/master.m3u8
-#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo = "" group-title = "DİZİ",TR: KATLA 1.S 8.B
+#EXTINF:-2 tvg-id="" tvg-name=" ALTYAZILI" tvg - logo2 = "" group-title = "DİZİ",TR: KATLA 1.S 8.B
 https://b4.ygve.com/storage/media/68b53876701fc166ef2a8c29976ed922-720.mp4/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: TRT EBA LISE
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/69283
