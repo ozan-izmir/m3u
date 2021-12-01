@@ -3,11 +3,11 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="" tvg-name=" com.xui.1_5_5r2" tvg - logo = "" group-title = ">>>> | -LIDERKOM-", "BILGILENDIME"
 https://raw.githubusercontent.com/liderkom/m3u/lider_main/11.mp4
-#EXTINF:-1,FR | Nat Geo Wild HD | Nat Geo | Nat 
+#EXTINF:-1 tvg-id="" tvg-name="FR | Nat Geo Wild HD | 2 tvg-id="" tvg-name="FR  Nat Geo | 3 tvg-id="" tvg-name="FR  Nat 
 http://delux-iptv.com:8000/AMineLocal/Locaalrk/17303
-#EXTINF:-1,FR | Nat Geo HD | Nat Geog | Nat 
+#EXTINF:-1 tvg-id="" tvg-name="FR | Nat Geo HD | 2 tvg-id="" tvg-name="FR  Nat Geog | 3 tvg-id="" tvg-name="FR  Nat 
 http://delux-iptv.com:8000/AMineLocal/Locaalrk/17304
-#EXTINF:-1,FR | Discovery SC HD
+#EXTINF:-1 FR | Discovery SC HD
 http://delux-iptv.com:8000/AMineLocal/Locaalrk/17305
 #EXTINF:-1,FR | Discovery investigation HD
 http://delux-iptv.com:8000/AMineLocal/Locaalrk/17306
