@@ -2509,6 +2509,186 @@ http://iptv.ndasat.com:88/229401692640454/229401692640454/891
 http://iptv.ndasat.com:88/229401692640454/229401692640454/892
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ CanalPlay10
 http://iptv.ndasat.com:88/229401692640454/229401692640454/893
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Garfield " tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Garfield 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6754
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Historia " tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Historia 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6756
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Historias de Ultratumba " tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Historias de Ultratumba 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6757
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Hogar " tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Hogar 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6758
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Humor " tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Humor 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6759
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Indies " tvg-logo="http://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Indies 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6760
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Investiga " tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Investiga 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6761
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior " tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Junior 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6762
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kenan y Kel " tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Kenan y Kel 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6763
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids " tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Kids 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6764
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids Halloween" tvg-logo="https://images.pluto.tv/channels/5f1abeb21044ee0007f19d33/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Kids Halloween
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6765
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV La Chica Invisible " tvg-logo="https://images.pluto.tv/channels/5f1abe3ffcd659000770d88d/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV La Chica Invisible 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6766
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Las Pistas de Blue " tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Las Pistas de Blue 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6767
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Las reglas del juego" tvg-logo="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Las reglas del juego
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6768
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Latin Angels " tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Latin Angels 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6769
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Les Cordier " tvg-logo="https://images.pluto.tv/channels/5f8ed80fa09f120007c8daa5/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Les Cordier 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6770
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Los archivos del FBI " tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Los archivos del FBI 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6771
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Los nuevos detectives " tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Los nuevos detectives 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6772
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Louis La Brocante" tvg-logo="https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Louis La Brocante
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6773
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Loupe " tvg-logo="http://images.pluto.tv/channels/5f0cb39b4ae1f80007bad585/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Loupe 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6774
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Love Nature " tvg-logo="http://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Love Nature 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6775
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Lucha Libre AAA " tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Lucha Libre AAA 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6776
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MADE " tvg-logo="https://images.pluto.tv/channels/5f1aaefb96f755000733c11a/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV MADE 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6777
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MasterChef " tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV MasterChef 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6778
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Minuto Para Ganar " tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Minuto Para Ganar 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6779
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Misterios " tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Misterios 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6780
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Misterios Medicos " tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Misterios Medicos 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6781
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Misterios sin Resolver " tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Misterios sin Resolver 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6782
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV " tvg-logo="http://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV MTV 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6783
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Animaciones " tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV MTV Animaciones 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6784
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Biggest Pop " tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV MTV Biggest Pop 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6785
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Classic " tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV MTV Classic 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6786
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Embarazada a los 16 " tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV MTV Embarazada a los 16 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6787
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Latino " tvg-logo="http://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV MTV Latino 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6788
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Music Made in Spain " tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV MTV Music Made in Spain 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6789
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Originals " tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV MTV Originals 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6790
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Pranks " tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV MTV Pranks 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6791
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Tattoo A Dos " tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/featuredImage.jpg?w=750&fm=png" group-title="PLUTO TV",Pluto TV MTV Tattoo A Dos 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6792
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Mundo " tvg-logo="http://images.pluto.tv/channels/5d8d103f031154a4172d262b/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Mundo 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6793
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Mutante X " tvg-logo="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Mutante X 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6794
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Narcos " tvg-logo="http://images.pluto.tv/channels/5f7274806621ff00072651ff/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Narcos 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6795
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Naruto " tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Naruto 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6796
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Naturaleza" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Naturaleza
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6797
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Natureza " tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Natureza 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6798
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Nick " tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Nick 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6799
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Nick Clásico " tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Nick Clásico 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6800
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Nick Jr. Club " tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Nick Jr. Club 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6801
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Nick Jr. Latino " tvg-logo="http://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Nick Jr. Latino 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6802
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Nick Latino " tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Nick Latino 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6803
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas " tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Novelas 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6804
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas Drama " tvg-logo="http://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Novelas Drama 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6805
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas Dramas " tvg-logo="http://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Novelas Dramas 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6806
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas Romance " tvg-logo="http://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Novelas Romance 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6807
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas Romance " tvg-logo="http://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Novelas Romance 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6808
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas Thriller" tvg-logo="http://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Novelas Thriller
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6809
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Nuestra Vision " tvg-logo="http://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Nuestra Vision 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6810
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Oh My Pet " tvg-logo="https://images.pluto.tv/channels/5f2acdab16f5b3000721ae2c/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Oh My Pet 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6811
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Paranormal " tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Paranormal 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6812
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Peleas " tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Peleas 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6813
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV People are Awesome " tvg-logo="https://images.pluto.tv/channels/5ebac65911406400078b8993/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV People are Awesome 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6814
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Pistas de Blue " tvg-logo="https://images.pluto.tv/channels/5f1aa82c150b2500077733d7/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Pistas de Blue 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6815
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Planeta Junior TV " tvg-logo="https://images.pluto.tv/channels/609501978c069d00074e0dd2/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Planeta Junior TV 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6816
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Realities ESP " tvg-logo="http://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Realities ESP 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6817
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Reality " tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Reality 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6818
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Rugrats " tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Rugrats 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6819
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Rugrats Crecidos " tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Rugrats Crecidos 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6820
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Sci-Fi " tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Sci-Fi 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6821
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Series Latinas " tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Series Latinas 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6822
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Series Retro " tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Series Retro 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6823
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Spike Aventura " tvg-logo="http://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Spike Aventura 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6824
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Tastemade " tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Tastemade 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6825
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Teen " tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Teen 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6826
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Telefe Clásico " tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Telefe Clásico 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6827
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Telemundo Telenovelas " tvg-logo="http://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Telemundo Telenovelas 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6829
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Telenovelas " tvg-logo="http://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Telenovelas 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6830
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV The New Detectives " tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV The New Detectives 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6831
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV The Pet Collective " tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV The Pet Collective 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6832
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV The Walking Dead ESP " tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV The Walking Dead ESP 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6833
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Toons Clásico " tvg-logo="http://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Toons Clásico 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6834
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV TROL " tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV TROL 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6835
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Turma da Mônica" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Turma da Mônica
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6836
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Vaya semanita " tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Vaya semanita 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6837
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Velocidad​ " tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Velocidad​ 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6838
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Vevo Pop " tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Vevo Pop 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6839
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV VEVO Reggeaton & Trap " tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" group-title="PLUTO TV",Pluto TV VEVO Reggeaton & Trap 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6840
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV VH1 Classics " tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV VH1 Classics 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6841
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Viajes " tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Viajes 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6842
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Vida Real " tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Vida Real 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6843
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Wipeout " tvg-logo="http://images.pluto.tv/channels/5ab3e1242be690697279c75d/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Wipeout 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6844
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Yu-Gi-Oh " tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Yu-Gi-Oh 
+http://go.iptvhn.net:25461/iptvm3u/iptvm3u/6845
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 1
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/19054
 -https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
