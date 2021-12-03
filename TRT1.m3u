@@ -4934,4 +4934,2259 @@ http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/69857.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "YBC | SINEMA",DUB: The Other Lamb (2020)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/69886.mkv
 
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1,CA: A&E
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64014.ts
+#EXTINF:-1,CA: ABC Spark
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62985.ts
+#EXTINF:-1,CA: Adult Swim
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64016.ts
+#EXTINF:-1,CA: AMC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14660.ts
+#EXTINF:-1,CA: Animal Planet
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14661.ts
+#EXTINF:-1,CA: BBC Earth
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64017.ts
+#EXTINF:-1,CA: BBC World News
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64018.ts
+#EXTINF:-1,CA: BNN Bloomberg
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64020.ts
+#EXTINF:-1,CA: Cartoon Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14667.ts
+#EXTINF:-1,CA: CMT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14689.ts
+#EXTINF:-1,CA: CNN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64025.ts
+#EXTINF:-1,CA: CNN International
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64026.ts
+#EXTINF:-1,CA: Cooking Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64028.ts
+#EXTINF:-1,CA: Cottage Life
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64029.ts
+#EXTINF:-1,CA: CPAC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64030.ts
+#EXTINF:-1,CA: Crime Investigation
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64031.ts
+#EXTINF:-1,CA: CTV Comedy Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/27236.ts
+#EXTINF:-1,CA: CTV Drama
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/27235.ts
+#EXTINF:-1,CA: CTV Life
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64037.ts
+#EXTINF:-1,CA: CTV News Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64039.ts
+#EXTINF:-1,CA: CTV SCI-FI
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/27234.ts
+#EXTINF:-1,CA: Daystar TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64045.ts
+#EXTINF:-1,CA: Deja View
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64046.ts
+#EXTINF:-1,CA: Discovery Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14703.ts
+#EXTINF:-1,CA: Discovery Science
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64047.ts
+#EXTINF:-1,CA: Disney Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/27233.ts
+#EXTINF:-1,CA: Disney Junior
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64048.ts
+#EXTINF:-1,CA: Disney XD
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14706.ts
+#EXTINF:-1,CA: DIY Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14707.ts
+#EXTINF:-1,CA: DTOUR
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64049.ts
+#EXTINF:-1,CA: E! Entertainment
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14709.ts
+#EXTINF:-1,CA: Family Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14710.ts
+#EXTINF:-1,CA: Family Junior
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14711.ts
+#EXTINF:-1,CA: Food Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14712.ts
+#EXTINF:-1,CA: Fox
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64051.ts
+#EXTINF:-1,CA: Fox News Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64052.ts
+#EXTINF:-1,CA: FX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64053.ts
+#EXTINF:-1,CA: FXX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64054.ts
+#EXTINF:-1,CA: HGTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14720.ts
+#EXTINF:-1,CA: History
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14721.ts
+#EXTINF:-1,CA: History2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64065.ts
+#EXTINF:-1,CA: HLN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64066.ts
+#EXTINF:-1,CA: Investigation Discovery
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64067.ts
+#EXTINF:-1,CA: Leafs Nation Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193644.ts
+#EXTINF:-1,CA: Lifetime
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14723.ts
+#EXTINF:-1,CA: Love Nature
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64068.ts
+#EXTINF:-1,CA: Makeful
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64069.ts
+#EXTINF:-1,CA: MAVTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64070.ts
+#EXTINF:-1,CA: Miracle
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64071.ts
+#EXTINF:-1,CA: MovieTime
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64072.ts
+#EXTINF:-1,CA: MTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14724.ts
+#EXTINF:-1,CA: MTV 2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64073.ts
+#EXTINF:-1,CA: MUCH MUSIC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14725.ts
+#EXTINF:-1,CA: National Geographic Wild
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64074.ts
+#EXTINF:-1,CA: National Geographics
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14726.ts
+#EXTINF:-1,CA: Nickelodeon
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64076.ts
+#EXTINF:-1,CA: OLN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14729.ts
+#EXTINF:-1,CA: OMNI 1
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64079.ts
+#EXTINF:-1,CA: OMNI 2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64080.ts
+#EXTINF:-1,CA: One Get Fit
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64081.ts
+#EXTINF:-1,CA: OWN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14732.ts
+#EXTINF:-1,CA: Paramount Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64082.ts
+#EXTINF:-1,CA: Peachtree TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14733.ts
+#EXTINF:-1,CA: SHOWCASE
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14734.ts
+#EXTINF:-1,CA: Silver Screen Classics
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64084.ts
+#EXTINF:-1,CA: SLICE
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14736.ts
+#EXTINF:-1,CA: Smithsonian Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64085.ts
+#EXTINF:-1,CA: TeleToon
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14740.ts
+#EXTINF:-1,CA: TLC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14747.ts
+#EXTINF:-1,CA: TLN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64087.ts
+#EXTINF:-1,CA: Today's Shopping Choice
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64083.ts
+#EXTINF:-1,CA: Travel Escape
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64088.ts
+#EXTINF:-1,CA: Treehouse
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14748.ts
+#EXTINF:-1,CA: TVO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64091.ts
+#EXTINF:-1,CA: Vision TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14753.ts
+#EXTINF:-1,CA: W NETWORK
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14751.ts
+#EXTINF:-1,CA: Weather Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64094.ts
+#EXTINF:-1,CA: WGN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64095.ts
+#EXTINF:-1,CA: Wild TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64096.ts
+#EXTINF:-1,CA: YES TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14754.ts
+#EXTINF:-1,CA: YTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64098.ts
+#EXTINF:-1,CBC NEWS (Canada)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14684.ts
+#EXTINF:-1,CBS News (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16149.ts
+#EXTINF:-1,Cinemax
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4772.ts
+#EXTINF:-1,Cinemax 5 Star Max
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63177.ts
+#EXTINF:-1,Cinemax Action Max
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24261.ts
+#EXTINF:-1,Cinemax More Max
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/12229.ts
+#EXTINF:-1,Cinemax Movie Max
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24260.ts
+#EXTINF:-1,Cinemax Thriller Max
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/12231.ts
+#EXTINF:-1,CNBC (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16150.ts
+#EXTINF:-1,CNBC World (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16151.ts
+#EXTINF:-1,CNN (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16152.ts
+#EXTINF:-1,CNN INTERNATIONAL
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/27262.ts
+#EXTINF:-1,CP 24 (Canada)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14691.ts
+#EXTINF:-1,Crave 1
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62485.ts
+#EXTINF:-1,Crave 2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62486.ts
+#EXTINF:-1,Crave 3
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62487.ts
+#EXTINF:-1,Crave 4
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62488.ts
+#EXTINF:-1,CTV NEWS (Canada)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14701.ts
+#EXTINF:-1,EPIX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16091.ts
+#EXTINF:-1,EPIX2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16092.ts
+#EXTINF:-1,EPIX Drive-In
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16093.ts
+#EXTINF:-1,EPIX Hits
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16094.ts
+#EXTINF:-1,ESPNEWS (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16262.ts
+#EXTINF:-1,FOX Business Network (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16154.ts
+#EXTINF:-1,FOX News Channel (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16155.ts
+#EXTINF:-1,FXM
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16097.ts
+#EXTINF:-1,HBO2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61955.ts
+#EXTINF:-1,HBO Canada 1
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62490.ts
+#EXTINF:-1,HBO Canada 2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62489.ts
+#EXTINF:-1,HBO Comedy
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4777.ts
+#EXTINF:-1,HBO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4778.ts
+#EXTINF:-1,HBO Family
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4779.ts
+#EXTINF:-1,HBO Signature
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4781.ts
+#EXTINF:-1,HBO Zone
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4782.ts
+#EXTINF:-1,HDNet Movies
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16099.ts
+#EXTINF:-1,HLN (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16053.ts
+#EXTINF:-1,IndiePlex
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24271.ts
+#EXTINF:-1,LA: Antena 3
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16033.ts
+#EXTINF:-1,LA: AZ Cinema
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16245.ts
+#EXTINF:-1,LA: Az Clic
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16246.ts
+#EXTINF:-1,LA: AZ Coraz
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16247.ts
+#EXTINF:-1,LA: Azteca
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26769.ts
+#EXTINF:-1,LA: Azteca 7
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/65001.ts
+#EXTINF:-1,LA: Canal 5 (Mexico)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/65002.ts
+#EXTINF:-1,LA: Canal Once
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16252.ts
+#EXTINF:-1,LA: Centroamerica TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26484.ts
+#EXTINF:-1,LA: Cinelatino
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16254.ts
+#EXTINF:-1,LA: De Pelicula
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16227.ts
+#EXTINF:-1,LA: De Pelicula Clasico
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16228.ts
+#EXTINF:-1,LA: El Financiero Bloomberg TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26486.ts
+#EXTINF:-1,LA: El Trece Internacional
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26487.ts
+#EXTINF:-1,LA: FOROtv
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16220.ts
+#EXTINF:-1,LA: Galavision
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16232.ts
+#EXTINF:-1,LA: History en Español
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26758.ts
+#EXTINF:-1,LA: La Estrellas (mexico)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/65004.ts
+#EXTINF:-1,LA: Mas Chic
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16233.ts
+#EXTINF:-1,LA: Mega TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26496.ts
+#EXTINF:-1,LA: Mexicanal
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26489.ts
+#EXTINF:-1,LA: Milenio TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/65003.ts
+#EXTINF:-1,LA: Nat Geo Mundo
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26491.ts
+#EXTINF:-1,LA: NBC Universo (East)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16234.ts
+#EXTINF:-1,LA: Nuestra Tele
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26492.ts
+#EXTINF:-1,LA: Nuestra Tele Noticias 24
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26552.ts
+#EXTINF:-1,LA: Pasiones
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26493.ts
+#EXTINF:-1,LA: RCN Novelas
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16260.ts
+#EXTINF:-1,LA: Starz Encore Español
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61313.ts
+#EXTINF:-1,LA: Telemicro International
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24275.ts
+#EXTINF:-1,LA: Telemundo (East)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16240.ts
+#EXTINF:-1,LA: Telemundo (West)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16237.ts
+#EXTINF:-1,LA: TR3S
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16241.ts
+#EXTINF:-1,LA: UniMas
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16239.ts
+#EXTINF:-1,LA: Univision Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16238.ts
+#EXTINF:-1,LA: WAPA America
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16258.ts
+#EXTINF:-1,LA: ¡HOLA! TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26481.ts
+#EXTINF:-1,MoviePlex
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16100.ts
+#EXTINF:-1,MSNBC (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16156.ts
+#EXTINF:-1,Newsmax (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16264.ts
+#EXTINF:-1,Newsy (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16157.ts
+#EXTINF:-1,One America News Network (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/56930.ts
+#EXTINF:-1,People TV (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24370.ts
+#EXTINF:-1,PixL
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24296.ts
+#EXTINF:-1,REELZ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16103.ts
+#EXTINF:-1,RetroPlex
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61318.ts
+#EXTINF:-1,Showtime
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16104.ts
+#EXTINF:-1,Showtime 2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16105.ts
+#EXTINF:-1,Showtime Extreme
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16107.ts
+#EXTINF:-1,Showtime Family Zone
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16108.ts
+#EXTINF:-1,Showtime Next
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16109.ts
+#EXTINF:-1,Showtime Showcase
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16110.ts
+#EXTINF:-1,Showtime West
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16111.ts
+#EXTINF:-1,Showtime Women
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16112.ts
+#EXTINF:-1,SHO×BET
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16106.ts
+#EXTINF:-1,Sony Movie Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16085.ts
+#EXTINF:-1,Starz
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16113.ts
+#EXTINF:-1,Starz Cinema
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16114.ts
+#EXTINF:-1,Starz Comedy
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16115.ts
+#EXTINF:-1,Starz Edge
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16116.ts
+#EXTINF:-1,Starz Encore
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16117.ts
+#EXTINF:-1,Starz Encore Action
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16118.ts
+#EXTINF:-1,Starz Encore Black
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16119.ts
+#EXTINF:-1,Starz Encore Family
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16121.ts
+#EXTINF:-1,Starz Encore Suspense
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16122.ts
+#EXTINF:-1,Starz Encore West
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16123.ts
+#EXTINF:-1,Starz Encore Westerns
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16124.ts
+#EXTINF:-1,Starz in Black
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16125.ts
+#EXTINF:-1,Starz Kids & Family
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16126.ts
+#EXTINF:-1,Starz West
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16127.ts
+#EXTINF:-1,Turner Classic Movies
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16076.ts
+#EXTINF:-1,US: A&E Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16031.ts
+#EXTINF:-1,US: Altitude Sports
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193200.ts
+#EXTINF:-1,US: AMC +
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61316.ts
+#EXTINF:-1,US: AMC Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16032.ts
+#EXTINF:-1,US: American Heroes Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16128.ts
+#EXTINF:-1,US: Animal Planet (East)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16129.ts
+#EXTINF:-1,US: AXS TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16088.ts
+#EXTINF:-1,US: BabyTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16089.ts
+#EXTINF:-1,US: BBC America
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16034.ts
+#EXTINF:-1,US: BET
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16035.ts
+#EXTINF:-1,US: BET Her
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16036.ts
+#EXTINF:-1,US: BET Jams
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16037.ts
+#EXTINF:-1,US: BET Soul
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16038.ts
+#EXTINF:-1,US: Boomerang
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16277.ts
+#EXTINF:-1,US: Bounce TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61328.ts
+#EXTINF:-1,US: Bravo
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16039.ts
+#EXTINF:-1,US: BUZZR
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61307.ts
+#EXTINF:-1,US: Cartoon Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16278.ts
+#EXTINF:-1,US: Cartoon Network (Daytime) / Adult Swim (AFTER 8PM-EST)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16083.ts
+#EXTINF:-1,US: CMT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26764.ts
+#EXTINF:-1,US: Comedy Central
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16040.ts
+#EXTINF:-1,US: Comet
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16042.ts
+#EXTINF:-1,US: Cooking Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16043.ts
+#EXTINF:-1,US: Court TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63998.ts
+#EXTINF:-1,US: Cozi
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16046.ts
+#EXTINF:-1,US: Destination America
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16131.ts
+#EXTINF:-1,US: Discovery (East)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16132.ts
+#EXTINF:-1,US: Discovery (West)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16133.ts
+#EXTINF:-1,US: Discovery Family Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16280.ts
+#EXTINF:-1,US: Discovery Life
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16134.ts
+#EXTINF:-1,US: Disney Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16242.ts
+#EXTINF:-1,US: Disney Junior
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16243.ts
+#EXTINF:-1,US: Disney XD
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16244.ts
+#EXTINF:-1,US: DIY
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16135.ts
+#EXTINF:-1,US: Dog TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24276.ts
+#EXTINF:-1,US: E! Entertainment Television
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16044.ts
+#EXTINF:-1,US: Food Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16045.ts
+#EXTINF:-1,US: Freeform
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16095.ts
+#EXTINF:-1,US: fuse
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16047.ts
+#EXTINF:-1,US: FX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16096.ts
+#EXTINF:-1,US: FXX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16098.ts
+#EXTINF:-1,US: FYI Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16136.ts
+#EXTINF:-1,US: Game Show Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16048.ts
+#EXTINF:-1,US: getTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24368.ts
+#EXTINF:-1,US: GRIT TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/29306.ts
+#EXTINF:-1,US: Hallmark Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16050.ts
+#EXTINF:-1,US: Hallmark Drama
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16051.ts
+#EXTINF:-1,US: Hallmark Movies & Mysteries
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16052.ts
+#EXTINF:-1,US: HGTV (East)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16137.ts
+#EXTINF:-1,US: History Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16139.ts
+#EXTINF:-1,US: IFC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16054.ts
+#EXTINF:-1,US: INSP
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16055.ts
+#EXTINF:-1,US: Investigation Discovery
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16140.ts
+#EXTINF:-1,US: ION
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63606.ts
+#EXTINF:-1,US: Laff
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61317.ts
+#EXTINF:-1,US: Lifetime
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16056.ts
+#EXTINF:-1,US: Lifetime Movie Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16057.ts
+#EXTINF:-1,US: Logo
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24369.ts
+#EXTINF:-1,US: ME TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/25667.ts
+#EXTINF:-1,US: MotorTrend
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16141.ts
+#EXTINF:-1,US: MTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16058.ts
+#EXTINF:-1,US: MTV Classic
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16059.ts
+#EXTINF:-1,US: MTV Live
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16060.ts
+#EXTINF:-1,US: MTV2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16061.ts
+#EXTINF:-1,US: MTVU
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16062.ts
+#EXTINF:-1,US: Nat Geo Wild
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16101.ts
+#EXTINF:-1,US: National Geographic
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16102.ts
+#EXTINF:-1,US: Nick Jr.
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16281.ts
+#EXTINF:-1,US: Nickelodeon
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16283.ts
+#EXTINF:-1,US: NickMusic
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16285.ts
+#EXTINF:-1,US: Nicktoons
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16286.ts
+#EXTINF:-1,US: Outdoor Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16142.ts
+#EXTINF:-1,US: Outside TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16143.ts
+#EXTINF:-1,US: OWN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16063.ts
+#EXTINF:-1,US: Oxygen (East)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16064.ts
+#EXTINF:-1,US: Paramount Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16066.ts
+#EXTINF:-1,US: PBS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60619.ts
+#EXTINF:-1,US: PBS Kids
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/29959.ts
+#EXTINF:-1,US: POP
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16067.ts
+#EXTINF:-1,US: Pursuit Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64013.ts
+#EXTINF:-1,US: QVC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61956.ts
+#EXTINF:-1,US: REVOLT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24371.ts
+#EXTINF:-1,US: Rush by AMC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61309.ts
+#EXTINF:-1,US: Science
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26762.ts
+#EXTINF:-1,US: Shout! Factory
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61320.ts
+#EXTINF:-1,US: Smithsonian Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16068.ts
+#EXTINF:-1,US: Start TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61312.ts
+#EXTINF:-1,US: SundanceTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16086.ts
+#EXTINF:-1,US: Syfy
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16070.ts
+#EXTINF:-1,US: Tastemade
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61314.ts
+#EXTINF:-1,US: TBS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16071.ts
+#EXTINF:-1,US: The Weather Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16144.ts
+#EXTINF:-1,US: TLC (East)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16072.ts
+#EXTINF:-1,US: TNT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16074.ts
+#EXTINF:-1,US: Travel Channel (East)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16145.ts
+#EXTINF:-1,US: truTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16075.ts
+#EXTINF:-1,US: TV Land (East)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16077.ts
+#EXTINF:-1,US: TV Land (West)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16078.ts
+#EXTINF:-1,US: TV ONE
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/30763.ts
+#EXTINF:-1,US: Universal Kids
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16287.ts
+#EXTINF:-1,US: UP TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64000.ts
+#EXTINF:-1,US: USA Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16079.ts
+#EXTINF:-1,US: VH1 (East)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16080.ts
+#EXTINF:-1,US: Viceland
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16082.ts
+#EXTINF:-1,US: WE tv
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16084.ts
+#EXTINF:-1,WI | Milwaukee | ABC WISN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193592.ts
+#EXTINF:-1,CA: Fairchild
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193647.ts
+#EXTINF:-1,-MLB Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16269.ts
+#EXTINF:-1,-MLB Network-Alt
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24331.ts
+#EXTINF:-1,-MLB Strike Zone
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16270.ts
+#EXTINF:-1,-NFL Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16164.ts
+#EXTINF:-1,-NFL Redzone
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16165.ts
+#EXTINF:-1,-NHL Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16273.ts
+#EXTINF:-1,-NHL Network Alternate
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16272.ts
+#EXTINF:-1,-UFC: #01 Early Prelims
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62989.ts
+#EXTINF:-1,-UFC: #02 MAIN CARD
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62481.ts
+#EXTINF:-1,-UFC: #03 Prelims
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62993.ts
+#EXTINF:-1,-UFC: #04 MAIN CARD
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62994.ts
+#EXTINF:-1,-UFC: #05 Prelims
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63176.ts
+#EXTINF:-1,-UFC: #06 MAIN CARD
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62995.ts
+#EXTINF:-1,CA: beIN Sports Canada
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16216.ts
+#EXTINF:-1,CA: GAME+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16049.ts
+#EXTINF:-1,CA: Golf
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64064.ts
+#EXTINF:-1,CA: NBA TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64075.ts
+#EXTINF:-1,CA: Sportsnet 360
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5091.ts
+#EXTINF:-1,CA: SportsNet East
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5092.ts
+#EXTINF:-1,CA: SportsNet One
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5093.ts
+#EXTINF:-1,CA: SportsNet Ontario
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5094.ts
+#EXTINF:-1,CA: Sportsnet Pacific
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5095.ts
+#EXTINF:-1,CA: Sportsnet West
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5096.ts
+#EXTINF:-1,CA: TSN 1
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5102.ts
+#EXTINF:-1,CA: TSN 2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5103.ts
+#EXTINF:-1,CA: TSN 3
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5104.ts
+#EXTINF:-1,CA: TSN 4
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5105.ts
+#EXTINF:-1,CA: TSN 5
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5106.ts
+#EXTINF:-1,CA: TVA Sports
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64090.ts
+#EXTINF:-1,EVENT 01: Lejarraga vs Flatley (12.03 1:30PM ET/ 10:30AM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64009.ts
+#EXTINF:-1,EVENT 02: Lejarraga vs Flatley LBW (12.03 1:30PM ET/ 10:30AM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64949.ts
+#EXTINF:-1,EVENT 03: Prelims Bellator 272 (12.03 7PM ET/ 4PM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64951.ts
+#EXTINF:-1,EVENT 04: Bellator 272 Pettis vs Horiguchi (12.03 10PM ET/ 7PM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64969.ts
+#EXTINF:-1,EVENT 05: PWA Black Label Now We Conquer (12.03 4AM ET/ 1AM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64952.ts
+#EXTINF:-1,EVENT 06: Thunderdome 37 (12.03 6AM ET/ 3AM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64953.ts
+#EXTINF:-1,EVENT 07: (12.03 1PM ET/ 10AM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64954.ts
+#EXTINF:-1,EVENT 08: The Mint 400 Dirt Race (12.03 1PM ET/ 10AM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64955.ts
+#EXTINF:-1,EVENT 09: Castrol Gateway Dirt Nationals (12.03 4PM ET/ 1PM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64956.ts
+#EXTINF:-1,EVENT 10: Snowbird Outlaw Nationals (12.03 4PM ET/ 1PM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64957.ts
+#EXTINF:-1,EVENT 11: Winter Warzone IV Night 1 (12.03 6PM ET/ 3PM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64958.ts
+#EXTINF:-1,EVENT 12: Arizona Open Motocross  (12.03 6PM ET/ 3PM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64959.ts
+#EXTINF:-1,EVENT 13: Winter Meltdown 6 (12.03 6PM ET/ 3PM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64961.ts
+#EXTINF:-1,EVENT 14: Lion Fight 72 (12.03 7PM ET/ 4PM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64960.ts
+#EXTINF:-1,EVENT 15: 6th Annual Southern Most Showdown Night 1 (12.03 7PM ET/ 4PM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64962.ts
+#EXTINF:-1,EVENT 16: GCW So High (12.03 9PM ET/ 6PM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64963.ts
+#EXTINF:-1,EVENT 17: LFA 119 (12.03 10PM ET/ 7PM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64964.ts
+#EXTINF:-1,EVENT 18: Battlefield Fight League 70 (12.03 10PM ET/ 7PM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64965.ts
+#EXTINF:-1,EVENT 19: Budo Sento Volumen 5 (12.03 10:15M ET/ 7:15PM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64966.ts
+#EXTINF:-1,EVENT 20: KHSAA Football State Championship Pikeville vs Russelville 4PM Beechwood vs Lex Christian 8PM Boyle Co vs Johnson Central (12.03 12PM ET/ 9AM PT)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64967.ts
+#EXTINF:-1,EVENT 21: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64968.ts
+#EXTINF:-1,EVENT 22: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/173505.ts
+#EXTINF:-1,EVENT 23: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193593.ts
+#EXTINF:-1,EVENT 24: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193594.ts
+#EXTINF:-1,EVENT 25: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193595.ts
+#EXTINF:-1,EVENT 26: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193596.ts
+#EXTINF:-1,EVENT 27: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193597.ts
+#EXTINF:-1,EVENT 28: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193598.ts
+#EXTINF:-1,EVENT 29: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193599.ts
+#EXTINF:-1,EVENT 30: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193600.ts
+#EXTINF:-1,EVENT 31: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193601.ts
+#EXTINF:-1,EVENT 32: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193602.ts
+#EXTINF:-1,EVENT 33: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193603.ts
+#EXTINF:-1,EVENT 34: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193604.ts
+#EXTINF:-1,EVENT 35: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193605.ts
+#EXTINF:-1,EVENT 36: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193606.ts
+#EXTINF:-1,EVENT 37: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193607.ts
+#EXTINF:-1,EVENT 38: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193608.ts
+#EXTINF:-1,EVENT 39: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193609.ts
+#EXTINF:-1,EVENT 40: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193610.ts
+#EXTINF:-1,EVENT 41: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193611.ts
+#EXTINF:-1,LA: ESPN Deportes
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16266.ts
+#EXTINF:-1,LA: FOX Deportes
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60419.ts
+#EXTINF:-1,LA: TUDN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16177.ts
+#EXTINF:-1,LA: TUDNxtra 01
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16178.ts
+#EXTINF:-1,LA: TUDNxtra 02
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16181.ts
+#EXTINF:-1,LA: TUDNxtra 03
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16182.ts
+#EXTINF:-1,LA: TUDNxtra 04
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16183.ts
+#EXTINF:-1,LA: TUDNxtra 05
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16184.ts
+#EXTINF:-1,LA: TUDNxtra 06
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16185.ts
+#EXTINF:-1,LA: TUDNxtra 07
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16186.ts
+#EXTINF:-1,LA: TUDNxtra 08
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16187.ts
+#EXTINF:-1,LA: TUDNxtra 09
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16188.ts
+#EXTINF:-1,LA: TUDNxtra 10
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16179.ts
+#EXTINF:-1,LA: TUDNxtra 11
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16180.ts
+#EXTINF:-1,LA: TyC Sports
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16191.ts
+#EXTINF:-1,LA: Zona Futbol
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16193.ts
+#EXTINF:-1,MLB GAME 01: No Games Scheduled 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63887.ts
+#EXTINF:-1,MLB GAME 02: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63888.ts
+#EXTINF:-1,MLB GAME 03: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63889.ts
+#EXTINF:-1,MLB GAME 04:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63890.ts
+#EXTINF:-1,MLB GAME 05:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63891.ts
+#EXTINF:-1,MLB GAME 06:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63892.ts
+#EXTINF:-1,MLB GAME 07:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63893.ts
+#EXTINF:-1,MLB GAME 08: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63896.ts
+#EXTINF:-1,MLB GAME 09: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63997.ts
+#EXTINF:-1,MLB GAME 10: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64001.ts
+#EXTINF:-1,MLB GAME 11:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64002.ts
+#EXTINF:-1,MLB GAME 12:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64006.ts
+#EXTINF:-1,MLB GAME 13: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64005.ts
+#EXTINF:-1,MLB GAME 14: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64004.ts
+#EXTINF:-1,MLB GAME 15: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64003.ts
+#EXTINF:-1,NBA TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16158.ts
+#EXTINF:-1,NBALP: Atlanta Hawks
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24321.ts
+#EXTINF:-1,NBALP: Boston Celtics
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24323.ts
+#EXTINF:-1,NBALP: Brooklyn Nets
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24302.ts
+#EXTINF:-1,NBALP: Charlotte Hornets
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24324.ts
+#EXTINF:-1,NBALP: Chicago Bulls
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24319.ts
+#EXTINF:-1,NBALP: Cleveland Cavaliers
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24318.ts
+#EXTINF:-1,NBALP: Dallas Mavericks
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24327.ts
+#EXTINF:-1,NBALP: Denver Nuggets
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24322.ts
+#EXTINF:-1,NBALP: Detroit Pistons
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24317.ts
+#EXTINF:-1,NBALP: Golden State Warriors
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24325.ts
+#EXTINF:-1,NBALP: Houston Rockets
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24306.ts
+#EXTINF:-1,NBALP: Indiana Pacers
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24326.ts
+#EXTINF:-1,NBALP: Los Angeles Clippers
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24309.ts
+#EXTINF:-1,NBALP: Los Angeles Lakers
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24301.ts
+#EXTINF:-1,NBALP: Memphis Grizzlies
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24303.ts
+#EXTINF:-1,NBALP: Miami Heat
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24310.ts
+#EXTINF:-1,NBALP: Milwaukee Bucks
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24313.ts
+#EXTINF:-1,NBALP: Minnesota Timberwolves
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24300.ts
+#EXTINF:-1,NBALP: New Orleans Pelicans
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24330.ts
+#EXTINF:-1,NBALP: New York Knicks
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24312.ts
+#EXTINF:-1,NBALP: Oklahoma City Thunder
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24308.ts
+#EXTINF:-1,NBALP: Orlando Magic
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24320.ts
+#EXTINF:-1,NBALP: Philadelphia 76ers
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24316.ts
+#EXTINF:-1,NBALP: Phoenix Suns
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24314.ts
+#EXTINF:-1,NBALP: Portland Trail Blazers
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24329.ts
+#EXTINF:-1,NBALP: Sacramento Kings
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24311.ts
+#EXTINF:-1,NBALP: San Antonio Spurs
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24328.ts
+#EXTINF:-1,NBALP: Toronto Raptors
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24307.ts
+#EXTINF:-1,NBALP: Utah Jazz
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24305.ts
+#EXTINF:-1,NBALP: Washington Wizards
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24304.ts
+#EXTINF:-1,MNF
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61408.ts
+#EXTINF:-1,-SNF
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61409.ts
+#EXTINF:-1,NHL 01: Sharks Vs Rangers (12.03 7:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63165.ts
+#EXTINF:-1,NHL 02: Devils Vs Jets (12.03 8:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63166.ts
+#EXTINF:-1,NHL 03: Golden Knights Vs Coyotes (12.03 9:30 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63167.ts
+#EXTINF:-1,NHL 04: Flames Vs Ducks (12.03 10:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63168.ts
+#EXTINF:-1,NHL 05: Oilers Vs Kraken (12.03 10:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63169.ts
+#EXTINF:-1,NHL 06: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63170.ts
+#EXTINF:-1,NHL 07: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63171.ts
+#EXTINF:-1,NHL 08: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63172.ts
+#EXTINF:-1,NHL 09: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63173.ts
+#EXTINF:-1,NHL 10: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63175.ts
+#EXTINF:-1,NHL 11: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63894.ts
+#EXTINF:-1,NHL 12: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63895.ts
+#EXTINF:-1,PPV: DAZN 1
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63159.ts
+#EXTINF:-1,PPV: DAZN 2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63160.ts
+#EXTINF:-1,SLING PPV 1 (English)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26339.ts
+#EXTINF:-1,SLING PPV 2 (English)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26340.ts
+#EXTINF:-1,SLING PPV 3 (English)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26341.ts
+#EXTINF:-1,SLING PPV 4 (English)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26342.ts
+#EXTINF:-1,SLING PPV 5 (English)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26343.ts
+#EXTINF:-1,UFC: 24/7 Fight Pass
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4685.ts
+#EXTINF:-1,US: ACC Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16087.ts
+#EXTINF:-1,US: Bally Sports Arizona
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4843.ts
+#EXTINF:-1,US: Bally Sports Arizona Plus
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/136851.ts
+#EXTINF:-1,US: Bally Sports Carolinas
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4844.ts
+#EXTINF:-1,US: Bally Sports Cincinati
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/136852.ts
+#EXTINF:-1,US: Bally Sports Detroit
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4845.ts
+#EXTINF:-1,US: Bally Sports Detroit Plus
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/136853.ts
+#EXTINF:-1,US: Bally Sports Florida
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4846.ts
+#EXTINF:-1,US: Bally Sports Florida (North)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/136854.ts
+#EXTINF:-1,US: Bally Sports Great Lakes
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4862.ts
+#EXTINF:-1,US: Bally Sports Midwest
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4849.ts
+#EXTINF:-1,US: Bally Sports Midwest Plus
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/136855.ts
+#EXTINF:-1,US: Bally Sports New Orleans
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/136856.ts
+#EXTINF:-1,US: Bally Sports North
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4851.ts
+#EXTINF:-1,US: Bally Sports North Plus
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/136857.ts
+#EXTINF:-1,US: Bally Sports Ohio
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4852.ts
+#EXTINF:-1,US: Bally Sports Oklahoma
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4853.ts
+#EXTINF:-1,US: Bally Sports Oklahoma Plus
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/136858.ts
+#EXTINF:-1,US: Bally Sports San Diego
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4855.ts
+#EXTINF:-1,US: Bally Sports San Diego Plus
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/136859.ts
+#EXTINF:-1,US: Bally Sports So Cal
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4854.ts
+#EXTINF:-1,US: Bally Sports South
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4856.ts
+#EXTINF:-1,US: Bally Sports South Plus
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/136860.ts
+#EXTINF:-1,US: Bally Sports SouthEast
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4857.ts
+#EXTINF:-1,US: Bally Sports Southeast (North Carolina)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/136861.ts
+#EXTINF:-1,US: Bally Sports Southeast (Tennessee)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/136862.ts
+#EXTINF:-1,US: Bally Sports SouthWest
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4858.ts
+#EXTINF:-1,US: Bally Sports Sun
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4859.ts
+#EXTINF:-1,US: Bally Sports Sun (North Florida)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/136863.ts
+#EXTINF:-1,US: Bally Sports Tennessee
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/136864.ts
+#EXTINF:-1,US: Bally Sports West
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4860.ts
+#EXTINF:-1,US: Bally Sports Wisconsin
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4861.ts
+#EXTINF:-1,US: Bally Sports Wisconsin Plus
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/136866.ts
+#EXTINF:-1,US: beIN La Liga
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16214.ts
+#EXTINF:-1,US: beIN SPORTS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16215.ts
+#EXTINF:-1,US: beIN SPORTS 4
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16213.ts
+#EXTINF:-1,US: beIN SPORTS 5
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16211.ts
+#EXTINF:-1,US: beIN SPORTS 6
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16210.ts
+#EXTINF:-1,US: beIN SPORTS 7
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16209.ts
+#EXTINF:-1,US: beIN SPORTS 8
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16208.ts
+#EXTINF:-1,US: Big Ten Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24269.ts
+#EXTINF:-1,US: CBSSN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16217.ts
+#EXTINF:-1,US: Eleven Sports Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16218.ts
+#EXTINF:-1,US: ESPN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16265.ts
+#EXTINF:-1,US: ESPN2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16267.ts
+#EXTINF:-1,US: ESPNU
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16268.ts
+#EXTINF:-1,US: FOX Soccer Plus
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16221.ts
+#EXTINF:-1,US: FOX Sports 1
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16222.ts
+#EXTINF:-1,US: FOX Sports 2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16223.ts
+#EXTINF:-1,US: FOX SPORTS INDIANA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4847.ts
+#EXTINF:-1,US: GINX eSports
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16224.ts
+#EXTINF:-1,US: GolTV (English)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16225.ts
+#EXTINF:-1,US: Longhorn Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16271.ts
+#EXTINF:-1,US: Marquee Sports Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63999.ts
+#EXTINF:-1,US: MAV TV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26799.ts
+#EXTINF:-1,US: MSG
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16206.ts
+#EXTINF:-1,US: MSG+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16205.ts
+#EXTINF:-1,US: MSG2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16212.ts
+#EXTINF:-1,US: NBC Sports Bay Area
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16204.ts
+#EXTINF:-1,US: NBC Sports Bay Area+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16159.ts
+#EXTINF:-1,US: NBC Sports Boston
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16203.ts
+#EXTINF:-1,US: NBC Sports California
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16202.ts
+#EXTINF:-1,US: NBC Sports Chicago
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16201.ts
+#EXTINF:-1,US: NBC Sports Chicago Plus
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16200.ts
+#EXTINF:-1,US: NBC Sports Northwest
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16199.ts
+#EXTINF:-1,US: NBC Sports Philly
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16198.ts
+#EXTINF:-1,US: NBC Sports Philly Plus
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16197.ts
+#EXTINF:-1,US: NBC Sports Washington
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16196.ts
+#EXTINF:-1,US: NBC Sports Washington Plus
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16161.ts
+#EXTINF:-1,US: NBCSN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16162.ts
+#EXTINF:-1,US: NESN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16275.ts
+#EXTINF:-1,US: Olympic Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16166.ts
+#EXTINF:-1,US: Pac-12 Arizona
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16167.ts
+#EXTINF:-1,US: Pac-12 Bay Area
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16168.ts
+#EXTINF:-1,US: Pac-12 Los Angeles
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16169.ts
+#EXTINF:-1,US: Pac-12 Mountain
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16170.ts
+#EXTINF:-1,US: Pac-12 Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16171.ts
+#EXTINF:-1,US: Pac-12 Oregon
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16172.ts
+#EXTINF:-1,US: Pac-12 Washington
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16173.ts
+#EXTINF:-1,US: SEC Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16274.ts
+#EXTINF:-1,US: Spectrum Sportsnet Dodgers
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63601.ts
+#EXTINF:-1,US: Spectrum Sportsnet Lakers
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63600.ts
+#EXTINF:-1,US: SportsGrid
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61311.ts
+#EXTINF:-1,US: Sportsman Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16226.ts
+#EXTINF:-1,US: SportsNet NY
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16194.ts
+#EXTINF:-1,US: SportsNet Pittsburgh
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63605.ts
+#EXTINF:-1,US: Sportsnet Rocky Mountain
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63604.ts
+#EXTINF:-1,US: SportsNet Southwest
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16195.ts
+#EXTINF:-1,US: Sportsnet Southwest (Alternate)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16207.ts
+#EXTINF:-1,US: Tennis Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16174.ts
+#EXTINF:-1,US: The Cowboy Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61322.ts
+#EXTINF:-1,US: The Fight Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16175.ts
+#EXTINF:-1,US: The Golf Channel
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16176.ts
+#EXTINF:-1,US: TVG
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16189.ts
+#EXTINF:-1,US: TVG2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16190.ts
+#EXTINF:-1,US: VSIN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24372.ts
+#EXTINF:-1,US: Willow Cricket
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24234.ts
+#EXTINF:-1,US: Willow Extra
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24235.ts
+#EXTINF:-1,US: World Fishing Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16192.ts
+#EXTINF:-1,US: YES Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/15621.ts
+#EXTINF:-1,NFL Gamepass 01: Cowboys Vs Saints (12.02 8:20 PM ET)	
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193612.ts
+#EXTINF:-1,NFL Gamepass 02: Buccaneers Vs Falcons (12.05 1:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193613.ts
+#EXTINF:-1,NFL Gamepass 03: Cardinals Vs Bears (12.05 1:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193614.ts
+#EXTINF:-1,NFL Gamepass 04: Chargers Vs Bengals (12.05 1:00 PM ET)	
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193615.ts
+#EXTINF:-1,NFL Gamepass 05: Vikings Vs Lions (12.05 1:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193616.ts
+#EXTINF:-1,NFL Gamepass 06: Giants Vs Dolphins (12.05 1:00 PM ET)	
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193617.ts
+#EXTINF:-1,NFL Gamepass 07: Eagles Vs Jets (12.05 1:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193618.ts
+#EXTINF:-1,NFL Gamepass 08: Colts Vs Texans (12.05 1:00 PM ET)	
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193619.ts
+#EXTINF:-1,NFL Gamepass 09: Washington Vs Raiders (12.05 4:05 PM ET)	
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193620.ts
+#EXTINF:-1,NFL Gamepass 10: Jaguars Vs Rams (12.05 4:05 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193621.ts
+#EXTINF:-1,NFL Gamepass 11: Ravens Vs Steelers (12.05 4:25 PM ET)	
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193622.ts
+#EXTINF:-1,NFL Gamepass 12: 49ers Vs Seahawks (12.05 4:25 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193623.ts
+#EXTINF:-1,NFL Gamepass 13: Broncos Vs Chiefs (12.05 8:20 PM ET)	
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193624.ts
+#EXTINF:-1,NFL Gamepass 14: Patriots Vs Bills (12.06 8:15 PM ET)	
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193625.ts
+#EXTINF:-1,NFL Gamepass 15: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193626.ts
+#EXTINF:-1,NFL Gamepass 16: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193627.ts
+#EXTINF:-1,NFL SD 01: Cowboys Vs Saints (12.02 8:20 PM ET)	
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193628.ts
+#EXTINF:-1,NFL SD 02: Buccaneers Vs Falcons (12.05 1:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193629.ts
+#EXTINF:-1,NFL SD 03: Cardinals Vs Bears (12.05 1:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193630.ts
+#EXTINF:-1,NFL SD 04: Chargers Vs Bengals (12.05 1:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193631.ts
+#EXTINF:-1,NFL SD 05: Vikings Vs Lions (12.05 1:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193632.ts
+#EXTINF:-1,NFL SD 06: Giants Vs Dolphins (12.05 1:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193633.ts
+#EXTINF:-1,NFL SD 07: Eagles Vs Jets (12.05 1:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193634.ts
+#EXTINF:-1,NFL SD 08: Colts Vs Texans (12.05 1:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193635.ts
+#EXTINF:-1,NFL SD 09: Washington Vs Raiders (12.05 4:05 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193636.ts
+#EXTINF:-1,NFL SD 10: Jaguars Vs Rams (12.05 4:05 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193637.ts
+#EXTINF:-1,NFL SD 11: Ravens Vs Steelers (12.05 4:25 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193638.ts
+#EXTINF:-1,NFL SD 12: 49ers Vs Seahawks (12.05 4:25 PM ET)	
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193639.ts
+#EXTINF:-1,NFL SD 13: Broncos Vs Chiefs (12.05 8:20 PM ET)	
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193640.ts
+#EXTINF:-1,NFL SD 14: Patriots Vs Bills (12.06 8:15 PM ET)	
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193641.ts
+#EXTINF:-1,NFL SD 15: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193642.ts
+#EXTINF:-1,NFL SD 16: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193643.ts
+#EXTINF:-1,AZ | Phoenix | ABC KNXV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63029.ts
+#EXTINF:-1,AZ | Phoenix | CBS KPHO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60843.ts
+#EXTINF:-1,AZ | Phoenix | FOX KSAZ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60844.ts
+#EXTINF:-1,AZ | Phoenix | My Network TV KUTP
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60845.ts
+#EXTINF:-1,AZ | Tucson | CBS KOLD
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60847.ts
+#EXTINF:-1,AZ | Tucson | FOX KMSB
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60848.ts
+#EXTINF:-1,AZ | Tucson | NBC KVOA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60849.ts
+#EXTINF:-1,CA | Bakersfield | ABC KERO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/160128.ts
+#EXTINF:-1,CA | Bakersfield | CBS KBAK
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60854.ts
+#EXTINF:-1,CA | Bakersfield | FOX KBFX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60855.ts
+#EXTINF:-1,CA | Bakersfield | NBC KGET
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60856.ts
+#EXTINF:-1,CA | Chico | NBC KNVN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60857.ts
+#EXTINF:-1,CA | Chico-Reading | NBC KNVN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60858.ts
+#EXTINF:-1,CA | Eureka | ABC KAEF
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64012.ts
+#EXTINF:-1,CA | Eureka | NBC KIEM
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60860.ts
+#EXTINF:-1,CA | Los Angeles | ABC KABC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63025.ts
+#EXTINF:-1,CA | Los Angeles | CBS KCAL
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60865.ts
+#EXTINF:-1,CA | Los Angeles | CBS KCBS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60866.ts
+#EXTINF:-1,CA | Los Angeles | FOX KTTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60867.ts
+#EXTINF:-1,CA | Los Angeles | NBC KNBC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60869.ts
+#EXTINF:-1,CA | Los Angeles | UNIVISION KMEX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60870.ts
+#EXTINF:-1,CA | Oakland | FOX KTVU
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60877.ts
+#EXTINF:-1,CA | Palm Springs | NBC KMIR
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60879.ts
+#EXTINF:-1,CA | Sacramento | CW KMAX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60882.ts
+#EXTINF:-1,CA | Sacramento | FOX KTXL
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60883.ts
+#EXTINF:-1,CA | Sacramento | NBC KCRA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60884.ts
+#EXTINF:-1,CA | Salinas | FOX KCBA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60886.ts
+#EXTINF:-1,CA | Salinas | NBC KSBW
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60887.ts
+#EXTINF:-1,CA | San Diego | ABC KGTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/160129.ts
+#EXTINF:-1,CA | San Diego | CBS KFMB
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60888.ts
+#EXTINF:-1,CA | San Diego | FOX KSWB
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60889.ts
+#EXTINF:-1,CA | San Diego | NBC KNSD
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60890.ts
+#EXTINF:-1,CA | San Francisco | ABC KGO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63027.ts
+#EXTINF:-1,CA | San Francisco | CBS KPIX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60891.ts
+#EXTINF:-1,CA | San Francisco | CW KBCW
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60892.ts
+#EXTINF:-1,CA | San Jose | KICU
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60894.ts
+#EXTINF:-1,CA | San Jose | NBC KNTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60895.ts
+#EXTINF:-1,CA | Stockton | CBS KOVR
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60901.ts
+#EXTINF:-1,CA: CBC Calgary
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62491.ts
+#EXTINF:-1,CA: CBC Charlottetown
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62492.ts
+#EXTINF:-1,CA: CBC Edmonton
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62493.ts
+#EXTINF:-1,CA: CBC Fredericton
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62494.ts
+#EXTINF:-1,CA: CBC Halifax
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62495.ts
+#EXTINF:-1,CA: CBC Montreal
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62496.ts
+#EXTINF:-1,CA: CBC Ottawa
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62497.ts
+#EXTINF:-1,CA: CBC Regina
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62498.ts
+#EXTINF:-1,CA: CBC St Johns
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62499.ts
+#EXTINF:-1,CA: CBC Toronto
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62500.ts
+#EXTINF:-1,CA: CBC Vancouver
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62501.ts
+#EXTINF:-1,CA: CBC Windsor
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62502.ts
+#EXTINF:-1,CA: CBC Winnipeg
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62503.ts
+#EXTINF:-1,CA: CBC Yellowknife
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62504.ts
+#EXTINF:-1,CA: CHCH
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14685.ts
+#EXTINF:-1,CA: CITY TV Calgary
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64021.ts
+#EXTINF:-1,CA: CITY TV Montreal
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64022.ts
+#EXTINF:-1,CA: CITY TV Toronto
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64023.ts
+#EXTINF:-1,CA: CITY TV Vancouver
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64024.ts
+#EXTINF:-1,CA: CTV Calgary
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64035.ts
+#EXTINF:-1,CA: CTV Halifax
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64036.ts
+#EXTINF:-1,CA: CTV Montreal
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64038.ts
+#EXTINF:-1,CA: CTV Ottawa
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64040.ts
+#EXTINF:-1,CA: CTV Toronto
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64041.ts
+#EXTINF:-1,CA: CTV Vancouver
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64042.ts
+#EXTINF:-1,CA: CTV Winnipeg
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64043.ts
+#EXTINF:-1,CA: CTV2 Atlantic
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64032.ts
+#EXTINF:-1,CA: CTV2 London
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64044.ts
+#EXTINF:-1,CA: CTV2 Ottawa
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64033.ts
+#EXTINF:-1,CA: CTV2 Vancouver
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64034.ts
+#EXTINF:-1,CA: Global
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64056.ts
+#EXTINF:-1,CA: Global Calgary
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64058.ts
+#EXTINF:-1,CA: Global Halifax
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64059.ts
+#EXTINF:-1,CA: Global National
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14717.ts
+#EXTINF:-1,CA: Global News
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64061.ts
+#EXTINF:-1,CA: Global Toronto
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64062.ts
+#EXTINF:-1,CA: Global Vancouver
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64063.ts
+#EXTINF:-1,CA: ICI Tele Acadie
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62505.ts
+#EXTINF:-1,CA: ICI Tele Alberta
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62506.ts
+#EXTINF:-1,CA: ICI Tele CB-Yukon
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62507.ts
+#EXTINF:-1,CA: ICI Tele Est-Quebec
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62508.ts
+#EXTINF:-1,CA: ICI Tele Estrie
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62509.ts
+#EXTINF:-1,CA: ICI Tele Montreal
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62512.ts
+#EXTINF:-1,CA: ICI Tele Ottawa-Gatineau
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62514.ts
+#EXTINF:-1,CA: ICI Tele Quebec
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62515.ts
+#EXTINF:-1,CA: ICI Tele Saguenay
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62516.ts
+#EXTINF:-1,CO | Denver | ABC KMGH
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63028.ts
+#EXTINF:-1,DC | Washington | ABC WJLA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63040.ts
+#EXTINF:-1,FL | Daytona Beach | NBC WESH
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60906.ts
+#EXTINF:-1,FL | Fort Myers | ABC WZVN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63052.ts
+#EXTINF:-1,FL | Fort Myers | CBS WINK
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60908.ts
+#EXTINF:-1,FL | Fort Myers | NBC WBBH
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60909.ts
+#EXTINF:-1,FL | Gainesville | NBC WNBW
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60911.ts
+#EXTINF:-1,FL | Hollywood | UniMas WAMI
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60912.ts
+#EXTINF:-1,FL | Jacksonville | ABC WJXX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/160130.ts
+#EXTINF:-1,FL | Jacksonville | CBS WJAX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60913.ts
+#EXTINF:-1,FL | Jacksonville | FOX WFOX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60914.ts
+#EXTINF:-1,FL | Jacksonville | NBC WTLV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60915.ts
+#EXTINF:-1,FL | Miami | ABC WPLG
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63045.ts
+#EXTINF:-1,FL | Miami | CBS WFOR
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/192795.ts
+#EXTINF:-1,FL | Miami | FOX WSVN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60917.ts
+#EXTINF:-1,FL | Miami | NBC WTVJ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60918.ts
+#EXTINF:-1,FL | Miami | TV WBFS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60919.ts
+#EXTINF:-1,FL | Miami | UNIVISION WLTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60920.ts
+#EXTINF:-1,FL | Orlando | ABC WFTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/160131.ts
+#EXTINF:-1,FL | Orlando | CBS WKMG
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60923.ts
+#EXTINF:-1,FL | Orlando | FOX WOFL
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60924.ts
+#EXTINF:-1,FL | Orlando | My Network TV WRBW
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60925.ts
+#EXTINF:-1,FL | Orlando | Telemundo WTMO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60926.ts
+#EXTINF:-1,FL | St. Petersburg | CBS WTSP
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60930.ts
+#EXTINF:-1,FL | St. Petersburg | CW WTOG
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60931.ts
+#EXTINF:-1,FL | Tallahassee | FOX WTWC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60932.ts
+#EXTINF:-1,FL | Tallahassee | NBC WTWC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60933.ts
+#EXTINF:-1,FL | Tampa | ABC WFTS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/67614.ts
+#EXTINF:-1,FL | Tampa | FOX WTVT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60934.ts
+#EXTINF:-1,FL | Tampa | NBC WFLA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60935.ts
+#EXTINF:-1,FL | West Palm Beach | CBS WPEC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60937.ts
+#EXTINF:-1,FL | West Palm Beach | FOX WFLX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60938.ts
+#EXTINF:-1,FL | West Palm Beach | NBC WPTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60939.ts
+#EXTINF:-1,GA | Albany | NBC WALB
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60940.ts
+#EXTINF:-1,GA | Atlanta | ABC WSB
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63047.ts
+#EXTINF:-1,GA | Atlanta | CBS WGCL
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60942.ts
+#EXTINF:-1,GA | Atlanta | CW WUPA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60943.ts
+#EXTINF:-1,GA | Atlanta | FOX WAGA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60944.ts
+#EXTINF:-1,GA | Atlanta | NBC WXIA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60945.ts
+#EXTINF:-1,GA | Augusta | CBS WRDW
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60946.ts
+#EXTINF:-1,GA | Augusta | FOX WFXG
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60947.ts
+#EXTINF:-1,GA | Augusta | NBC WAGT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60948.ts
+#EXTINF:-1,GA | Columbus | FOX WXTX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60949.ts
+#EXTINF:-1,GA | Columbus | NBC WLTZ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60950.ts
+#EXTINF:-1,GA | Macon | CBS WMAZ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60951.ts
+#EXTINF:-1,GA | Macon | FOX WGXA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60952.ts
+#EXTINF:-1,GA | Macon | NBC WMGT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60953.ts
+#EXTINF:-1,IA | Davenport | FOX KLJB
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/160123.ts
+#EXTINF:-1,ICI Tele Manitoba
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62510.ts
+#EXTINF:-1,ICI Tele Mauricie
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62511.ts
+#EXTINF:-1,ICI Tele Ontario
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62513.ts
+#EXTINF:-1,IL | Chicago | ABC WLS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63041.ts
+#EXTINF:-1,IL | Chicago | CBS WBBM
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60962.ts
+#EXTINF:-1,IL | Chicago | FOX WFLD
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60963.ts
+#EXTINF:-1,IL | Chicago | NBC WMAQ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60964.ts
+#EXTINF:-1,IN | Fort Wayne | FOX WFFT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60977.ts
+#EXTINF:-1,IN | Fort Wayne | NBC WPTA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60978.ts
+#EXTINF:-1,IN | Indianapolis | FOX WXIN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60980.ts
+#EXTINF:-1,IN | Indianapolis | NBC WTHR
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60981.ts
+#EXTINF:-1,IN | South Bend | CBS WSBT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60984.ts
+#EXTINF:-1,IN | South Bend | FOX WSBT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60985.ts
+#EXTINF:-1,IN | South Bend | NBC WNDU
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60986.ts
+#EXTINF:-1,CA|SoCal|PBS KOCE
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63665.ts
+#EXTINF:-1,CA|San Fransico|PBS KQED
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63651.ts
+#EXTINF:-1,CO|Denver|PBS KUED
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63700.ts
+#EXTINF:-1,DC|Washington|PBS WETA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63761.ts
+#EXTINF:-1,FL|SouthFlorida|PBS WPBT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63679.ts
+#EXTINF:-1,IL|Chicago|PBS WTTW
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63639.ts
+#EXTINF:-1,MI|ST Louis|PBS KETC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63646.ts
+#EXTINF:-1,NC|Charolette|PBS WTVI
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63752.ts
+#EXTINF:-1,NY|Buffalo|PBS WNED
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63753.ts
+#EXTINF:-1,NY|New York|PBS WNET
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63707.ts
+#EXTINF:-1,TX|Dallas|PBS KERA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63711.ts
+#EXTINF:-1,WA|Seattle|PBS KCTS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63730.ts
+#EXTINF:-1,UT|Salt Lake|PBS KUED
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63755.ts
+#EXTINF:-1,KY | Louisville | CBS WLKY
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/160124.ts
+#EXTINF:-1,LA | Baton Rouge | CBS WAFB
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60990.ts
+#EXTINF:-1,LA | Baton Rouge | FOX WGMB
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60991.ts
+#EXTINF:-1,LA | Baton Rouge | NBC WVLA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60992.ts
+#EXTINF:-1,LA | Hammond | KGLA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60994.ts
+#EXTINF:-1,LA | Lafayette | FOX KADN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60996.ts
+#EXTINF:-1,LA | Lafayette | NBC KLAF
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60997.ts
+#EXTINF:-1,LA | New Orleans | CBS WWL
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/60999.ts
+#EXTINF:-1,LA | New Orleans | NBC WDSU
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61000.ts
+#EXTINF:-1,LA | New Orleans | FOX WVUE
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61001.ts
+#EXTINF:-1,LA | Shreveport | CBS KSLA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61002.ts
+#EXTINF:-1,LA | Shreveport | FOX KMSS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61003.ts
+#EXTINF:-1,MA | Boston | ABC WCVB
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63038.ts
+#EXTINF:-1,MA | Boston | CBS WBZ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61005.ts
+#EXTINF:-1,MA | Boston | FOX WFXT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61006.ts
+#EXTINF:-1,MA | Boston | NBC WBTS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61007.ts
+#EXTINF:-1,MA | Boston | TV WSBK
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61008.ts
+#EXTINF:-1,MA | Springfield | CBS WSHM
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61011.ts
+#EXTINF:-1,MA | Springfield | FOX WGGB
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61012.ts
+#EXTINF:-1,MA | Springfield | NBC WWLP
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61013.ts
+#EXTINF:-1,MD | Baltimore | ABC WMAR
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63042.ts
+#EXTINF:-1,MD | Baltimore | FOX WBFF
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61016.ts
+#EXTINF:-1,MD | Baltimore | NBC WBAL
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61017.ts
+#EXTINF:-1,MD | Salisbury | NBC WRDE
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61019.ts
+#EXTINF:-1,MI | Detroit | ABC WXYZ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63051.ts
+#EXTINF:-1,MI | Detroit | CBS WWJ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61024.ts
+#EXTINF:-1,MI | Detroit | CW WKBD
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61025.ts
+#EXTINF:-1,MI | Detroit | FOX WJBK
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61026.ts
+#EXTINF:-1,MI | Detroit | NBC WDIV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61027.ts
+#EXTINF:-1,MI | Grand Rapids | FOX WXMI
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61029.ts
+#EXTINF:-1,MI | Grand Rapids | NBC WOOD
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61030.ts
+#EXTINF:-1,MI | Kalamazoo | CBS WWMT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61031.ts
+#EXTINF:-1,MN | Minneapolis | CBS WCCO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61039.ts
+#EXTINF:-1,MN | Minneapolis | FOX KMSP
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61040.ts
+#EXTINF:-1,MN | Minneapolis | FOX WFTC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61041.ts
+#EXTINF:-1,MN | Minneapolis | NBC KARE
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61042.ts
+#EXTINF:-1,MN | ST Paul | ABC KSTP
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63033.ts
+#EXTINF:-1,MO | Cape Girardeau | CBS KFVS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61044.ts
+#EXTINF:-1,MO | Columbia | NBC KOMU
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61045.ts
+#EXTINF:-1,MO | Kansas City | CBS KCTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61046.ts
+#EXTINF:-1,MO | Kansas City | FOX WDAF
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61047.ts
+#EXTINF:-1,MO | Kansas City | NBC KSHB
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61048.ts
+#EXTINF:-1,MO | Springfield | NBC KYTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61053.ts
+#EXTINF:-1,MO | ST Louis | ABC KDNL
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63026.ts
+#EXTINF:-1,MO | St. Louis | CBS KMOV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61056.ts
+#EXTINF:-1,MO | St. Louis | FOX KTVI
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61057.ts
+#EXTINF:-1,NC | Belmont | FOX WJZY
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61058.ts
+#EXTINF:-1,NC | Charlotte | ABC WSOC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63048.ts
+#EXTINF:-1,NC | Charlotte | CBS WBTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61059.ts
+#EXTINF:-1,NC | Charlotte | NBC WCNC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61060.ts
+#EXTINF:-1,NC | Greensboro | CBS WFMY
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61062.ts
+#EXTINF:-1,NC | High Point | FOX WGHP
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61064.ts
+#EXTINF:-1,NC | Raleigh | ABC WTVD
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63050.ts
+#EXTINF:-1,NC | Raleigh | FOX WRAZ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61065.ts
+#EXTINF:-1,NC | Raleigh | NBC WRAL
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61066.ts
+#EXTINF:-1,NC | Washington | FOX WYDO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61067.ts
+#EXTINF:-1,NC | Washington | NBC WITN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61068.ts
+#EXTINF:-1,NC | Wilmington | CBS WWAY
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61069.ts
+#EXTINF:-1,NC | Wilmington | NBC WECT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61071.ts
+#EXTINF:-1,NC | Winston-Salem | ABC WXLV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/160126.ts
+#EXTINF:-1,NC | Winston-salem | NBC WXII
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61072.ts
+#EXTINF:-1,NH | Manchester | ABC WMUR
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63044.ts
+#EXTINF:-1,NM | Albuquerque | ABC KOAT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63030.ts
+#EXTINF:-1,NV | Las Vegas | ABC KTNV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63034.ts
+#EXTINF:-1,NY | Albany | FOX WXXA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61078.ts
+#EXTINF:-1,NY | Albany | NBC WNYT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61079.ts
+#EXTINF:-1,NY | Binghamton | NBC WBGH
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61081.ts
+#EXTINF:-1,NY | Buffalo | FOX WUTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61083.ts
+#EXTINF:-1,NY | Buffalo | NBC WGRZ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61084.ts
+#EXTINF:-1,NY | New York | ABC WABC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63036.ts
+#EXTINF:-1,NY | New York | CBS WCBS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61086.ts
+#EXTINF:-1,NY | New York | FOX WNYW
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61087.ts
+#EXTINF:-1,NY | New York | NBC WNBC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61089.ts
+#EXTINF:-1,NY | New York | WXTV UNIVISION
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61090.ts
+#EXTINF:-1,NY | Plattsburgh | NBC WPTZ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61091.ts
+#EXTINF:-1,NY | Riverhead | | WLNY
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61092.ts
+#EXTINF:-1,NY | Rochester | FOX WUHF
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61094.ts
+#EXTINF:-1,NY | Rochester | NBC WHEC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61095.ts
+#EXTINF:-1,NY | Schenectady | CBS WRGB
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61096.ts
+#EXTINF:-1,NY | Syracuse | CBS WTVH
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61097.ts
+#EXTINF:-1,NY | Syracuse | FOX WSYT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61098.ts
+#EXTINF:-1,NY | Syracuse | NBC WSTM
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61099.ts
+#EXTINF:-1,NY | Watertown | NBC WVNC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61101.ts
+#EXTINF:-1,OH | Cincinnati | ABC WCPO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63037.ts
+#EXTINF:-1,OH | Cincinnati | CBS WKRC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61102.ts
+#EXTINF:-1,OH | Cincinnati | NBC WLWT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61103.ts
+#EXTINF:-1,OH | Cleveland | FOX WJW
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61104.ts
+#EXTINF:-1,OH | Cleveland | NBC WKYC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61105.ts
+#EXTINF:-1,OH | Columbus | CBS WBNS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61107.ts
+#EXTINF:-1,OH | Columbus | FOX WTTE
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61108.ts
+#EXTINF:-1,OH | Columbus | NBC WCMH
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61109.ts
+#EXTINF:-1,OH | Dayton | CBS WHIO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61110.ts
+#EXTINF:-1,OH | Dayton | NBC WDTN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61112.ts
+#EXTINF:-1,OH | Toledo | CBS WTOL
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61116.ts
+#EXTINF:-1,OH | Toledo | FOX WUPW
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61117.ts
+#EXTINF:-1,OH | Toledo | NBC WNWO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61118.ts
+#EXTINF:-1,OH | Youngstown | FOX WYFX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61120.ts
+#EXTINF:-1,OK | Oklahoma | ABC KOCO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63031.ts
+#EXTINF:-1,PA | Jeannette | CW WPCW
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62986.ts
+#EXTINF:-1,PA | Philadelphia | ABC WPVI
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63046.ts
+#EXTINF:-1,PA | Philadelphia | CBS KYW
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61244.ts
+#EXTINF:-1,PA | Philadelphia | CW WPSG
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61245.ts
+#EXTINF:-1,PA | Philadelphia | FOX WTXF
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61246.ts
+#EXTINF:-1,PA | Philadelphia | NBC WCAU
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61247.ts
+#EXTINF:-1,PA | Pittsburgh | ABC WTAE
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63049.ts
+#EXTINF:-1,PA | Pittsburgh | CBS KDKA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61248.ts
+#EXTINF:-1,PA | Pittsburgh | FOX WPGH
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61249.ts
+#EXTINF:-1,PA | Pittsburgh | NBC WPXI
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61250.ts
+#EXTINF:-1,RI | Providence | FOX WNAC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61124.ts
+#EXTINF:-1,RI | Providence | WYCN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61125.ts
+#EXTINF:-1,RI | Providence | NBC WJAR
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61127.ts
+#EXTINF:-1,SC | Charleston | CBS WCSC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61232.ts
+#EXTINF:-1,SC | Charleston | FOX WTAT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61233.ts
+#EXTINF:-1,SC | Charleston | NBC WCBD
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61234.ts
+#EXTINF:-1,SC | Columbia | CBS WLTX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61235.ts
+#EXTINF:-1,SC | Columbia | FOX WACH
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61236.ts
+#EXTINF:-1,SC | Columbia | NBC WIS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61237.ts
+#EXTINF:-1,SC | Greenville | FOX WHNS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61239.ts
+#EXTINF:-1,SC | Greenville | NBC WYFF
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61240.ts
+#EXTINF:-1,SC | Myrtle Beach | FOX WFXB
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61241.ts
+#EXTINF:-1,SC | Myrtle Beach | NBC WMBF
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61242.ts
+#EXTINF:-1,TN | Chattanooga | CBS WDEF
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61128.ts
+#EXTINF:-1,TN | Chattanooga | FOX WTVC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61129.ts
+#EXTINF:-1,TN | Knoxville | CBS WVLT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61132.ts
+#EXTINF:-1,TN | Knoxville | FOX WTNZ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61133.ts
+#EXTINF:-1,TN | Knoxville | NBC WBIR
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61134.ts
+#EXTINF:-1,TN | Memphis | FOX WHBQ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61135.ts
+#EXTINF:-1,TN | Memphis | NBC WMC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61136.ts
+#EXTINF:-1,TN | Nashville | FOX WZTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61138.ts
+#EXTINF:-1,TN | Nashville | NBC WSMV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61139.ts
+#EXTINF:-1,TN-VA | Tri-Cities | NBC WCYB
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61141.ts
+#EXTINF:-1,TX | Austin | CBS KEYE
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61146.ts
+#EXTINF:-1,TX | Austin | FOX KTBC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61147.ts
+#EXTINF:-1,TX | Austin | NBC KXAN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61148.ts
+#EXTINF:-1,TX | Austin | UniMas KTFO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61149.ts
+#EXTINF:-1,TX | Dallas | ABC WFAA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63039.ts
+#EXTINF:-1,TX | Dallas | FOX KDFW
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61158.ts
+#EXTINF:-1,TX | Dallas | Telemundo KXTX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61159.ts
+#EXTINF:-1,TX | Dallas-Ft. Worth | My Network TV KDFI
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61160.ts
+#EXTINF:-1,TX | El Paso | CBS KDBC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61161.ts
+#EXTINF:-1,TX | El Paso | FOX KFOX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61162.ts
+#EXTINF:-1,TX | El Paso | NBC KTSM
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61163.ts
+#EXTINF:-1,TX | El Paso | UNIMAS KTFN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61164.ts
+#EXTINF:-1,TX | El Paso | UNIVISION KINT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61165.ts
+#EXTINF:-1,TX | Houston | ABC KTRK
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63035.ts
+#EXTINF:-1,TX | Houston | CBS KHOU
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61173.ts
+#EXTINF:-1,TX | Houston | FOX KRIV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61174.ts
+#EXTINF:-1,TX | Houston | My Network TV KTXH
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61175.ts
+#EXTINF:-1,TX | Houston | NBC KPRC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61176.ts
+#EXTINF:-1,TX | Lubbock | NBC KCBD
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61183.ts
+#EXTINF:-1,TX | San Antonio | ABC KSAT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63158.ts
+#EXTINF:-1,TX | San Antonio | CBS KENS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61191.ts
+#EXTINF:-1,TX | San Antonio | FOX KABB
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61192.ts
+#EXTINF:-1,TX | San Antonio | NBC WOAI
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61193.ts
+#EXTINF:-1,US: News 12 Long Island
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61962.ts
+#EXTINF:-1,US: News 12 The Bronx
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61960.ts
+#EXTINF:-1,US: News 12 Westchester
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61961.ts
+#EXTINF:-1,VA | Roanoke | CBS WDBJ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/160125.ts
+#EXTINF:-1,WA | Seattle | ABC KOMO
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63032.ts
+#EXTINF:-1,WA | Seattle | NBC KING
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61203.ts
+#EXTINF:-1,WA | Spokane | CBS KREM
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61204.ts
+#EXTINF:-1,WA | Spokane | FOX KAYU
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61205.ts
+#EXTINF:-1,WA | Tacoma | CW KSTW
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61206.ts
+#EXTINF:-1,WA | Tacoma | FOX KCPQ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61207.ts
+#EXTINF:-1,WA | Tri-Cities | FOX WEMT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61208.ts
+#EXTINF:-1,WA | Washington | CBS WUSA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61209.ts
+#EXTINF:-1,WA | Washington | FOX WTTG
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61210.ts
+#EXTINF:-1,WA | Washington | My Network TV WDCA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61211.ts
+#EXTINF:-1,WA | Washington | NBC WRC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61212.ts
+#EXTINF:-1,WI | Green Bay | FOX WLUK
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61218.ts
+#EXTINF:-1,WI | Green Bay | NBC WGBA
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61219.ts
+#EXTINF:-1,WI | La Crosse | CBS WKBT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61220.ts
+#EXTINF:-1,WI | La Crosse | FOX WLAX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61221.ts
+#EXTINF:-1,WI | La Crosse | NBC WEAU
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61222.ts
+#EXTINF:-1,WI | Madison | CBS WISC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61223.ts
+#EXTINF:-1,WI | Madison | FOX WMSN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61224.ts
+#EXTINF:-1,WI | Madison | NBC WMTV
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61225.ts
+#EXTINF:-1,WI | Milwaukee | CBS WDJT
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61226.ts
+#EXTINF:-1,WI | Milwaukee | FOX WITI
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61227.ts
+#EXTINF:-1,WI | Milwaukee | NBC WTMJ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61228.ts
+#EXTINF:-1,RI|Providnece|PBS WSBE
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/63742.ts
+#EXTINF:-1,MD | Baltimore | CBS WJZ
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193346.ts
+#EXTINF:-1,NCAAF 01: Western Kentucky Vs UTSA (12.03 7:00 PM ET)CBSSN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193519.ts
+#EXTINF:-1,NCAAF 02: Oregon Vs Utah (12.03 8:00 PM ET)ABC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193520.ts
+#EXTINF:-1,NCAAF 03: Baylor Vs Oklahoma State (12.04 12:00 PM ET)ABC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193521.ts
+#EXTINF:-1,NCAAF 04: Kent State Vs Northern Illinois (12.04 12:00 PM ET)ESPN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193522.ts
+#EXTINF:-1,NCAAF 05: Utah State Vs San Diego State (12.04 3:00 PM ET)FOX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193523.ts
+#EXTINF:-1,NCAAF 06: Appalachian State Vs Louisiana (12.04 3:30 PM ET)ESPN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193524.ts
+#EXTINF:-1,NCAAF 07: Georgia Vs Alabama (12.04 4:00 PM ET)CBS
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193525.ts
+#EXTINF:-1,NCAAF 08: Houston Vs Cincinnati (12.04 4:00 PM ET)ABC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193526.ts
+#EXTINF:-1,NCAAF 09: Michigan Vs Iowa (12.04 8:00 PM ET)FOX
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193527.ts
+#EXTINF:-1,NCAAF 10: Pittsburgh Vs Wake Forest (12.04 8:00 PM ET)ABC
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193528.ts
+#EXTINF:-1,NCAAF 11: USC Vs California (12.04 11:00 PM ET)FS1
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193529.ts
+#EXTINF:-1,NCAAF 12: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193530.ts
+#EXTINF:-1,NCAAF 13: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193531.ts
+#EXTINF:-1,NCAAF 14: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193532.ts
+#EXTINF:-1,NCAAF 15: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193533.ts
+#EXTINF:-1,NCAAF 16: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193534.ts
+#EXTINF:-1,NCAAF 17: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193535.ts
+#EXTINF:-1,NCAAF 18:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193536.ts
+#EXTINF:-1,NCAAF 19:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193537.ts
+#EXTINF:-1,NCAAF 20:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193538.ts
+#EXTINF:-1,NCAAF 21: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193539.ts
+#EXTINF:-1,NCAAF 22: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193540.ts
+#EXTINF:-1,NCAAF 23: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193541.ts
+#EXTINF:-1,NCAAF 24: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193542.ts
+#EXTINF:-1,NCAAF 25: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193543.ts
+#EXTINF:-1,NCAAF 26: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193544.ts
+#EXTINF:-1,NCAAF 27: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193545.ts
+#EXTINF:-1,NCAAF 28: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193546.ts
+#EXTINF:-1,NCAAF 29: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193547.ts
+#EXTINF:-1,NCAAF 30: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193548.ts
+#EXTINF:-1,NCAAF 31: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193549.ts
+#EXTINF:-1,NCAAF 32:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193550.ts
+#EXTINF:-1,NCAAF 33: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193551.ts
+#EXTINF:-1,NCAAF 34: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193552.ts
+#EXTINF:-1,NCAAF 35: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193553.ts
+#EXTINF:-1,NCAAF 36: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193554.ts
+#EXTINF:-1,NCAAF 37: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193555.ts
+#EXTINF:-1,NCAAF 38: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193556.ts
+#EXTINF:-1,NCAAF 39: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193557.ts
+#EXTINF:-1,NCAAF 40: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193558.ts
+#EXTINF:-1,NCAAF 41: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193559.ts
+#EXTINF:-1,NCAAF 42: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193560.ts
+#EXTINF:-1,NCAAF 43: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193561.ts
+#EXTINF:-1,NCAAF 44: Eastern Michigan Vs Wisconsin (09.11 7:00 PM ET)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193562.ts
+#EXTINF:-1,NCAAF 44: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193563.ts
+#EXTINF:-1,NCAAF 45:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193564.ts
+#EXTINF:-1,NCAAF 46: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193565.ts
+#EXTINF:-1,NCAAF 47: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193566.ts
+#EXTINF:-1,NCAAF 48: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193567.ts
+#EXTINF:-1,NCAAF 49: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193568.ts
+#EXTINF:-1,NCAAF 50: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193569.ts
+#EXTINF:-1,NCAAF 51: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193570.ts
+#EXTINF:-1,NCAAF 52: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193571.ts
+#EXTINF:-1,NCAAF 53: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193572.ts
+#EXTINF:-1,NCAAF 54:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193573.ts
+#EXTINF:-1,NCAAF 55: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193574.ts
+#EXTINF:-1,NCAAF 56: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193575.ts
+#EXTINF:-1,NCAAF 57: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193576.ts
+#EXTINF:-1,NCAAF 58: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193577.ts
+#EXTINF:-1,NCAAF 59: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193578.ts
+#EXTINF:-1,NCAAF 60: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193579.ts
+#EXTINF:-1,NCAAF 61: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193580.ts
+#EXTINF:-1,NCAAF 62: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193581.ts
+#EXTINF:-1,NCAAF 63: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193582.ts
+#EXTINF:-1,NCAAF 64: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193583.ts
+#EXTINF:-1,NCAAF 65: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193584.ts
+#EXTINF:-1,NCAAF 66: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193585.ts
+#EXTINF:-1,NCAAF 67: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193586.ts
+#EXTINF:-1,NCAAF 68:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193587.ts
+#EXTINF:-1,NCAAF 69: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193588.ts
+#EXTINF:-1,NCAAF 70:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193589.ts
+#EXTINF:-1,NCAAF 71: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193590.ts
+#EXTINF:-1,NCAAF 72:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193591.ts
+#EXTINF:-1,NCAAB 01: Carver College Vs North Carolina A&T (12.03 5:00 PM ET)ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193648.ts
+#EXTINF:-1,NCAAB 02: Notre Dame Vs Boston College (12.03 6:00 PM ET)ACCN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193649.ts
+#EXTINF:-1,NCAAB 03: UT Rio Grande Valley Vs Texas (12.03 7:00 PM ET)LHN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193650.ts
+#EXTINF:-1,NCAAB 04: Kansas Vs St. John's (12.03 7:00 PM ET)FS1
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193651.ts
+#EXTINF:-1,NCAAB 05: South Carolina State Vs South Florida (12.03 7:00 PM ET)ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193652.ts
+#EXTINF:-1,NCAAB 06: Bob Jones University Vs Presbyterian (12.03 7:00 PM ET)ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193653.ts
+#EXTINF:-1,NCAAB 07: Charleston Vs Furman (12.03 7:00 PM ET)ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193654.ts
+#EXTINF:-1,NCAAB 08: Coppin State Vs Cornell (12.03 7:00 PM ET)ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193655.ts
+#EXTINF:-1,NCAAB 09: Saint Peter's Vs Quinnipiac (12.03 7:00 PM ET)ESPN3
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193656.ts
+#EXTINF:-1,NCAAB 10: Rider Vs Iona (12.03 7:00 PM ET)ESPN3
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193657.ts
+#EXTINF:-1,NCAAB 11: Manhattan Vs Siena (12.03 7:00 PM ET)ESPN3
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193658.ts
+#EXTINF:-1,NCAAB 12: Monmouth Vs Niagara (12.03 7:00 PM ET)ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193659.ts
+#EXTINF:-1,NCAAB 13: Fairfield Vs Canisius (12.03 7:00 PM ET)ESPN3
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193660.ts
+#EXTINF:-1,NCAAB 14: Rutgers Vs Illinois (12.03 7:00 PM ET)ESPN2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193661.ts
+#EXTINF:-1,NCAAB 15: Bryant Vs Houston (12.03 8:00 PM ET)ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193662.ts
+#EXTINF:-1,NCAAB 16: New Orleans Vs Louisiana (12.03 8:00 PM ET)ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193663.ts
+#EXTINF:-1,NCAAB 17: Yellowstone Christian College Vs Utah Valley (12.03 8:00 PM ET)ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193664.ts
+#EXTINF:-1,NCAAB 18: Pittsburgh Vs Virginia (12.03 8:00 PM ET)ACCN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193665.ts
+#EXTINF:-1,NCAAB 19: Iowa Vs Purdue (12.03 9:00 PM ET)BTN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193666.ts
+#EXTINF:-1,NCAAB 20: Benedictine (AZ) Vs CSU Bakersfield (12.03 10:00 PM ET)ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193667.ts
+#EXTINF:-1,NCAAB 21: Bethesda University Vs UC Irvine (12.03 10:00 PM ET)ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193668.ts
+#EXTINF:-1,NCAAB 22: Pepperdine Vs UC Santa Barbara (12.03 10:00 PM ET)ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193669.ts
+#EXTINF:-1,NCAAB 23: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193670.ts
+#EXTINF:-1,NCAAB 24: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193671.ts
+#EXTINF:-1,NCAAB 25: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193672.ts
+#EXTINF:-1,NCAAB 26: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193673.ts
+#EXTINF:-1,NCAAB 27: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193674.ts
+#EXTINF:-1,NCAAB 28: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193675.ts
+#EXTINF:-1,NCAAB 29: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193676.ts
+#EXTINF:-1,NCAAB 30: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193677.ts
+#EXTINF:-1,NCAAB 31: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193678.ts
+#EXTINF:-1,NCAAB 32: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193679.ts
+#EXTINF:-1,NCAAB 33: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193680.ts
+#EXTINF:-1,NCAAB 34: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193681.ts
+#EXTINF:-1,NCAAB 35: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193682.ts
+#EXTINF:-1,NCAAB 36: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193683.ts
+#EXTINF:-1,NCAAB 37: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193684.ts
+#EXTINF:-1,NCAAB 38: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193685.ts
+#EXTINF:-1,NCAAB 39: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193686.ts
+#EXTINF:-1,NCAAB 40: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193687.ts
+#EXTINF:-1,NCAAB 41: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193688.ts
+#EXTINF:-1,NCAAB 42: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193689.ts
+#EXTINF:-1,NCAAB 43: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193690.ts
+#EXTINF:-1,NCAAB 44: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193691.ts
+#EXTINF:-1,NCAAB 45: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193692.ts
+#EXTINF:-1,NCAAB 46: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193693.ts
+#EXTINF:-1,NCAAB 47: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193694.ts
+#EXTINF:-1,NCAAB 48: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193695.ts
+#EXTINF:-1,NCAAB 49: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193696.ts
+#EXTINF:-1,NCAAB 50: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193697.ts
+#EXTINF:-1,NCAAB 51: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193698.ts
+#EXTINF:-1,NCAAB 52: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193699.ts
+#EXTINF:-1,NCAAB 53: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193700.ts
+#EXTINF:-1,NCAAB 54: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193701.ts
+#EXTINF:-1,NCAAB 55: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193702.ts
+#EXTINF:-1,NCAAB 56: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193703.ts
+#EXTINF:-1,NCAAB 57: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193704.ts
+#EXTINF:-1,NCAAB 58: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193705.ts
+#EXTINF:-1,NCAAB 59: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193706.ts
+#EXTINF:-1,NCAAB 60: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193707.ts
+#EXTINF:-1,NCAAB 61: 
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193708.ts
+#EXTINF:-1,NCAAB 62: New Orleans Vs Ole Miss (11.09 7:30 PM ET) ESPN+SECN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193709.ts
+#EXTINF:-1,NCAAB 63: Cornell Vs Binghamton (11.09 7:30 PM ET) ESPN3
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193710.ts
+#EXTINF:-1,NCAAB 64: Canisius Vs Miami (11.09 7:30 PM ET) ACCNXESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193711.ts
+#EXTINF:-1,NCAAB 65: Bowling Green Vs Western Carolina (11.09 7:30 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193712.ts
+#EXTINF:-1,NCAAB 66: Jackson State Vs Illinois (11.09 8:00 PM ET) BTN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193713.ts
+#EXTINF:-1,NCAAB 67: Tennessee Tech Vs Memphis (11.09 8:00 PM  ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193714.ts
+#EXTINF:-1,NCAAB 68: Hofstra Vs Houston (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193715.ts
+#EXTINF:-1,NCAAB 69: Mercer Vs Arkansas (11.09 8:00 PM ET) SECN+ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193716.ts
+#EXTINF:-1,NCAAB 70: Morehead State Vs Auburn (11.09 8:00 PM ET) SECN+ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193717.ts
+#EXTINF:-1,NCAAB 71: Spring Hill Vs South Alabama (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193718.ts
+#EXTINF:-1,NCAAB 72: SE Louisiana Vs Tulane (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193719.ts
+#EXTINF:-1,NCAAB 73: Cumberland University (TN) Vs Murray State (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193720.ts
+#EXTINF:-1,NCAAB 74: Alabama State Vs Western Kentucky (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193721.ts
+#EXTINF:-1,NCAAB 75: Maryville TN Vs Samford (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193722.ts
+#EXTINF:-1,NCAAB 76: Tennessee Southern Vs Austin Peay (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193723.ts
+#EXTINF:-1,NCAAB 77: Shenandoah Vs High Point (11.09 8:00 PM ET) ESPN+        #EXTINF:-1 tvg-name=
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193724.ts
+#EXTINF:-1,NCAAB 78: Nicholls Vs Northern Iowa (11.09 8:00 PM ET) ESPN3
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193725.ts
+#EXTINF:-1,NCAAB 79: Southeast Missouri State Vs Missouri State (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193726.ts
+#EXTINF:-1,NCAAB 80: UT Arlington Vs Oklahoma State (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193727.ts
+#EXTINF:-1,NCAAB 81: Indiana State Vs Green Bay (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193728.ts
+#EXTINF:-1,NCAAB 82: UNC Wilmington Vs Illinois State (11.09 8:00 PM ET) ESPN3
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193729.ts
+#EXTINF:-1,NCAAB 83: Arkansas-Pine Bluff Vs Creighton (11.09 8:00 PM ET) FS1
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193730.ts
+#EXTINF:-1,NCAAB 84: UL Monroe Vs LSU (11.09 8:00 PM ET) SECN+ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193731.ts
+#EXTINF:-1,NCAAB 85: Elon Vs Florida (11.09 8:00 PM ET) SECN+ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193732.ts
+#EXTINF:-1,NCAAB 86: Maryland-Eastern Shore Vs Saint Joseph's (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193733.ts
+#EXTINF:-1,NCAAB 87: Sacred Heart Vs La Salle (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193734.ts
+#EXTINF:-1,NCAAB 88: St. Francis (PA) Vs George Washington (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193735.ts
+#EXTINF:-1,NCAAB 89: McNeese Vs SMU (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193736.ts
+#EXTINF:-1,NCAAB 90: Texas A&M-International Vs UT Rio Grande Valley (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193737.ts
+#EXTINF:-1,NCAAB 91: Wiley Vs Lamar (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193738.ts
+#EXTINF:-1,NCAAB 92: St. Thomas - Minnesota Vs Chicago State (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193739.ts
+#EXTINF:-1,NCAAB 93: Pepperdine Vs Rice (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193740.ts
+#EXTINF:-1,NCAAB 94: Columbia Vs Fordham (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193741.ts
+#EXTINF:-1,NCAAB 95: Coppin State Vs Loyola Chicago (11.09 8:00 PM ET) ESPN3
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193742.ts
+#EXTINF:-1,NCAAB 96: Bucknell Vs NC State (11.09 8:00 PM ET) ACCNXESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193743.ts
+#EXTINF:-1,NCAAB 97: Maine Vs Virginia Tech (11.09 8:00 PM ET) ACCNXESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193744.ts
+#EXTINF:-1,NCAAB 98: Dartmouth Vs Boston College (11.09 8:00 PM ET) ACCNXESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193745.ts
+#EXTINF:-1,NCAAB 99: Jacksonville State Vs Wichita State (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193746.ts
+#EXTINF:-1,NCAAB  100: North Florida Vs Texas Tech (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193747.ts
+#EXTINF:-1,NCAAB  101: Central Arkansas Vs Saint Louis (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193748.ts
+#EXTINF:-1,NCAAB  102: Birmingham-Southern Vs Lipscomb (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193749.ts
+#EXTINF:-1,NCAAB  110: Harding Vs Arkansas State (11.09 8:30 PM ET) ESPN3
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193750.ts
+#EXTINF:-1,NCAAB  109: Carver College Vs Troy (11.09 8:30 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193751.ts
+#EXTINF:-1,NCAAB  108: West Florida Vs Louisiana (11.09 8:30 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193752.ts
+#EXTINF:-1,NCAAB  107: Coe College Vs Drake (11.09 8:00 PM ET) ESPN3
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193753.ts
+#EXTINF:-1,NCAAB  103: Kennesaw State Vs Iowa State (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193754.ts
+#EXTINF:-1,NCAAB  104: Concordia College (MN) Vs North Dakota State (11.09 8:00 PM ET) ESPN3
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193755.ts
+#EXTINF:-1,NCAAB  105: Marist Vs American University (11.09 8:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193756.ts
+#EXTINF:-1,NCAAB  106: Central Michigan Vs Missouri (11.09 8:00 PM ET) SECN+ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193757.ts
+#EXTINF:-1,NCAAB  111: SIU Edwardsville Vs Marquette (11.09 8:30 PM ET) FS2
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193758.ts
+#EXTINF:-1,NCAAB  112: Houston Baptist Vs Texas (11.09 9:00 PM ET) LHN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193759.ts
+#EXTINF:-1,NCAAB  113: Louisiana Tech Vs Alabama (11.09 9:00 PM ET) SECN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193760.ts
+#EXTINF:-1,NCAAB  114: Navy Vs Virginia (11.09 9:00 PM ET) ACCN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193761.ts
+#EXTINF:-1,NCAAB  115: CSU Northridge Vs USC (11.09 9:00 PM ET) PAC12
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193762.ts
+#EXTINF:-1,NCAAB  116: UC Irvine Vs New Mexico State (11.09 9:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193763.ts
+#EXTINF:-1,NCAAB  117: Western Colorado Vs Weber State (11.09 9:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193764.ts
+#EXTINF:-1,NCAAB  118: Bethesda University Vs Southern Utah (11.09 9:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193765.ts
+#EXTINF:-1,NCAAB  119: Eastern Oregon Vs Idaho State (11.09 9:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193766.ts
+#EXTINF:-1,NCAAB  120: Bradley Vs South Dakota State (11.09 9:15 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193767.ts
+#EXTINF:-1,NCAAB  121: Kentucky Vs Duke (11.09 9:30 PM ET) ESPN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193768.ts
+#EXTINF:-1,NCAAB  122: Dickinson State Vs Montana (11.09 9:30 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193769.ts
+#EXTINF:-1,NCAAB  123: William Jessup Vs Sacramento State (11.09 10:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193770.ts
+#EXTINF:-1,NCAAB  124: Longwood Vs Iowa (11.09 10:00 PM ET) BTN
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193771.ts
+#EXTINF:-1,NCAAB  125: San Francisco State Vs California Baptist (11.09 10:00 PM ET) ESPN+
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193772.ts
+#EXTINF:-1,NCAAB  126: Northern Arizona Vs Arizona (11.09 10:30 PM ET) PAC12
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193773.ts
+#EXTINF:-1,NCAAB  127: CSU Bakersfield Vs UCLA (11.09 11:00 PM ET) PAC12
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193774.ts
+#EXTINF:-1,NCAAB  128:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193775.ts
+#EXTINF:-1,NCAAB  129:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193776.ts
+#EXTINF:-1,NCAAB  130:
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193777.ts
+
 
