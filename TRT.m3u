@@ -1,75 +1,85 @@
 #EXTM3U
-#EXTINF:-1,LA: Antena 3
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16033.ts
-#EXTINF:-1,LA: AZ CinemQ
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16245.ts
-#EXTINF:-1,LA: Az Clic
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16246.ts
-#EXTINF:-1,LA: AZ Coraz
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16247.ts
-#EXTINF:-1,LA: Azteca
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26769.ts
-#EXTINF:-1,LA: Azteca 7
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/65001.ts
-#EXTINF:-1,LA: Canal 5 (Mexico)
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/65002.ts
-#EXTINF:-1,LA: Canal Once
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16252.ts
-#EXTINF:-1,LA: Centroamerica TV
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26484.ts
-#EXTINF:-1,LA: Cinelatino
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16254.ts
-#EXTINF:-1,LA: De Pelicula
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16227.ts
-#EXTINF:-1,LA: De Pelicula Clasico
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16228.ts
-#EXTINF:-1,LA: El Financiero Bloomberg TV
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26486.ts
-#EXTINF:-1,LA: El Trece Internacional
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26487.ts
-#EXTINF:-1,LA: FOROtv
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16220.ts
-#EXTINF:-1,LA: Galavision
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16232.ts
-#EXTINF:-1,LA: History en Español
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26758.ts
-#EXTINF:-1,LA: La Estrellas (mexico)
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/65004.ts
-#EXTINF:-1,LA: Mas Chic
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16233.ts
-#EXTINF:-1,LA: Mega TV
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26496.ts
-#EXTINF:-1,LA: Mexicanal
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26489.ts
-#EXTINF:-1,LA: Milenio TV
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/65003.ts
-#EXTINF:-1,LA: Nat Geo Mundo
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26491.ts
-#EXTINF:-1,LA: NBC Universo (East)
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16234.ts
-#EXTINF:-1,LA: Nuestra Tele
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26492.ts
-#EXTINF:-1,LA: Nuestra Tele Noticias 24
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26552.ts
-#EXTINF:-1,LA: Pasiones
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26493.ts
-#EXTINF:-1,LA: RCN Novelas
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16260.ts
-#EXTINF:-1,LA: Starz Encore Español
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/61313.ts
-#EXTINF:-1,LA: Telemicro International
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/24275.ts
-#EXTINF:-1,LA: Telemundo (East)
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16240.ts
-#EXTINF:-1,LA: Telemundo (West)
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16237.ts
-#EXTINF:-1,LA: TR3S
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16241.ts
-#EXTINF:-1,LA: UniMas
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16239.ts
-#EXTINF:-1,LA: Univision Network
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16238.ts
-#EXTINF:-1,LA: WAPA America
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16258.ts
-#EXTINF:-1,LA: ¡HOLA! TV
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26481.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CBC Calgary
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62491.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CBC Charlottetown
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62492.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CBC Edmonton
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62493.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CBC Fredericton
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62494.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CBC Halifax
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62495.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CBC Montreal
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62496.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CBC Ottawa
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62497.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CBC Regina
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62498.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CBC St Johns
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62499.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CBC Toronto
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62500.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CBC Vancouver
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62501.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CBC Windsor
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62502.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CBC Winnipeg
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62503.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CBC Yellowknife
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62504.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CHCH
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14685.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CITY TV Calgary
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64021.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CITY TV Montreal
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64022.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CITY TV Toronto
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64023.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CITY TV Vancouver
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64024.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CTV Calgary
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64035.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CTV Halifax
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64036.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CTV Montreal
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64038.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CTV Ottawa
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64040.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CTV Toronto
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64041.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CTV Vancouver
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64042.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CTV Winnipeg
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64043.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CTV2 Atlantic
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64032.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CTV2 London
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64044.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CTV2 Ottawa
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64033.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: CTV2 Vancouver
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64034.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: Global
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64056.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: Global Calgary
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64058.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: Global Halifax
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64059.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: Global National
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14717.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: Global News
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64061.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: Global Toronto
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64062.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: Global Vancouver
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64063.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: ICI Tele Acadie
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62505.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: ICI Tele Alberta
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62506.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: ICI Tele CB-Yukon
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62507.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: ICI Tele Est-Quebec
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62508.ts
+#EXTINF:-1  tvg-id="" tvg-name=",CA: ICI Tele Estrie
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62509.ts
