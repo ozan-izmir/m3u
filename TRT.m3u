@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="" tvg-name=" com.xui.1_5_5r2" tvg - logo = "" group-title = "-LIDERKOM-", "BILGILENDIME"
+#EXTINF:-1 tvg-id="" tvg-name=" com.xui.1_5_5r2" tvg - logo = ""-LIDERKOM-", "BILGILENDIME"
 https://raw.githubusercontent.com/liderkom/m3u/lider_main/11.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: TRT 1 HD
 http://aziptv.live:6969/Hdservers/Valendsuk/13139
