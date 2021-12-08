@@ -2091,7 +2091,7 @@ https://b4.ygve.com/storage/media/c3894f40d45c2087771566b0590cd22f-720.mp4/maste
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DİZİ | DİZİ",TR: KATLA 1.S 8.B
 https://b4.ygve.com/storage/media/68b53876701fc166ef2a8c29976ed922-720.mp4/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: TRT COCUK
-http://aziptv.live:6969/Hdservers/Valendsuk/13200
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: SiRiNLER TV
 http://aziptv.live:6969/Hdservers/Valendsuk/13207
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: TOM&JERY HD
@@ -2112,20 +2112,6 @@ http://aziptv.live:6969/Hdservers/Valendsuk/13195
 http://aziptv.live:6969/Hdservers/Valendsuk/13198
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | COCUK",TR: NICKELODEON JR
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/359
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: TRT MUZiK
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8469
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: KRAL TV
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/352
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: POWER TV
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10751
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: POWER TURK TV
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/10752
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: NR1 HD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/354
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: NR1 TURK TV HD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/8464
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | MUZIK",TR: NR1 DANCE
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/355
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F1
 http://afatmus.xyz:6464/live/United4756/8S9C5E31AZ0QPL/2096.ts
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | EXT-CİNEMA",TR: F2
