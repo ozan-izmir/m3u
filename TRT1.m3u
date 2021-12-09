@@ -2508,10 +2508,10 @@ http://iptv.ndasat.com:88/229401692640454/229401692640454/892
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ CanalPlay10
 http://iptv.ndasat.com:88/229401692640454/229401692640454/893
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 1
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/19054
+http://198.144.120.183:2082/atik_315643/U1FcOFS3/157112
 -https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 2
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/19050
+http://198.144.120.183:2082/atik_315643/U1FcOFS3/157111
 -https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 3
 http://megatv.me:5890/vid/vid/1156
@@ -2520,9 +2520,11 @@ http://megatv.me:5890/vid/vid/1156
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16215.m3u8
 -http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/19050
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 5
-https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
+http://198.144.120.183:2082/atik_315643/U1FcOFS3/157114
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 6
-https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
+http://198.144.120.183:2082/atik_315643/U1FcOFS3/10698
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 7
+http://198.144.120.183:2082/atik_315643/U1FcOFS3/10697
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Aile Arasında (2017)
 http://triptv.cndmedia.nl:8080/movie/JZ9QZ8X6AM/Sng8dsH/55475.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Bizim Köyün Şarkısı (2018)
