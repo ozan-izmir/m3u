@@ -2029,7 +2029,7 @@ http://91.236.251.50:8090/play/a012
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",AİLE2
 http://91.236.251.50:8090/play/a013
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",MOVIES PREMIERE
-https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
+http://ultrontv.xyz:80/vincent2021/vincent2021/97191
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",MOVIES PREMIERE 2
 https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",KOMEDİ
@@ -2061,7 +2061,7 @@ http://ultrontv.xyz:80/vincent2021/vincent2021/97171
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",SALON2 FHD
 http://ultrontv.xyz:80/vincent2021/vincent2021/97170
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",SALON3 FHD
-http://ultrontv.xyz:80/vincent2021/vincent2021/97169
+http://ultrontv.xyz:80/vincent2021/vincent2021/97172
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",B PREMIER FHD
 http://ultrontv.xyz:80/vincent2021/vincent2021/99371
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",B PREMIER2 FHD
@@ -2127,11 +2127,11 @@ https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: BELGESEL HD
 https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: NATIONAL GEOGRAPHIC HD
-http://185.191.126.169/live/LfPdKKYE9k/yqCMLZS6h5/39014.m3u8
+http://ultrontv.xyz:80/vincent2021/vincent2021/97181
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: NATIONAL GEOGRAPHIC2 HD
 http://91.236.251.50:8090/play/a01b
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: NATIONAL WILD HD
-http://185.191.126.169/live/LfPdKKYE9k/yqCMLZS6h5/39015.m3u8
+http://ultrontv.xyz:80/vincent2021/vincent2021/97182
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: NATIONAL WILD2 HD
 http://91.236.251.50:8090/play/a01f
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: DISCOVERY CHANEL HD
