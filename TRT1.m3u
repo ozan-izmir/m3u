@@ -1935,11 +1935,11 @@ http://aziptv.live:6969/Hdservers/Valendsuk/13141
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: KANAL D HD2
 http://91.236.251.50:8090/play/a00j
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: ATV HD
-http://aziptv.live:6969/Hdservers/Valendsuk/13147
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: ATV HD2
 http://91.236.251.50:8090/play/a00a
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: SHOW TV HD
-http://aziptv.live:6969/Hdservers/Valendsuk/13145
+http://93.157.62.180/ShowTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: SHOW TV HD2
 http://91.236.251.50:8090/play/a00e
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: TV 8 HD
@@ -1981,7 +1981,7 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/19756
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: KANAL D EU
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/19749
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | HABER",TR: A HABER HD
-http://megatv.me:5890/vid/vid/1141
+https://livex458745.livestreamlive.xyz/ahaber.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | HABER",TR: HABER GLOBAL
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | HABER",TR: NTV HD
