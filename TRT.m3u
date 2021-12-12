@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 xui-id="29607" tvg-id="" tvg-name="24/7 | JURASSIC PARK" tvg-info="" group-title="CANALES 24/7 (ESP)"" group-info="CANALES",JURASSIC PARK
+#EXTINF:-1 xui-id="29607" tvg-id="" tvg-name="24/7 | JURASSIC PARK" tvg-info="" group-title="CANALES 24/7 (ESP)" group-info="CANALES",JURASSIC PARK
 http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOb6vahg9skBCP9rIQKEKpXc/ts
 #EXTINF:-1 xui-id="29607" tvg-id="" tvg-name="24/7 | JURASSIC PARK" tvg-info="" group-title="CANALES 24/7"" group-info="CANALES",saw
 http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOfFtUDMBVbWwIEkIm1UwWLE/ts
-#EXTINF:-1 xui-id="29606" tvg-id="" tvg-name="24/7  |  La Purga" tvg-logo="http://img2.rtve.es/v/4943521?w=1600&preview=1547820875364.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7  |  La Purga
+#EXTINF:-1 xui-id="29606" tvg-id="" tvg-name="24/7  |  La Purga" tvg-logo="" group-title="CANALES",La Purga
 http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOTYYJIiqeIOIuUnviP7gEO4/ts
 #EXTINF:-1 xui-id="29605" tvg-id="" tvg-name="24/7  |  Los originales" tvg-logo="https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/the-originals.png" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7  |  Los originales
 http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOf3k8DlH7atYWp8xCP4oryI/ts
