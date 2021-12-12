@@ -1,32 +1,24 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-EPG="com.xui.1_5_5r2"
-#EXTINF:-1 xui-id="214281" tvg-id="" tvg-name="*--- NETFLIX PREMIUM ---*" tvg-logo="" group-title="NETFLIX/CINEBOX PREMIUM EN-AR",*--- NETFLIX PREMIUM ---*
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBhMakYZwis20rCWu33ITVQgOPa5T9W51rMFbltfwLQD/ts
-#EXTINF:-2 xui-id="297518" tvg-id="" tvg-name="" tvg-info="" group-title="Turkey", group-title="CINEBOX",bilgi2
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA4mQrIg2L6PmxpXdcpdX3fKMdm2QtR_8vOzVAdE3xTF/ts
-#EXTINF:-1 xui-id="297518" tvg-id="" tvg-name="" tvg-info="" group-title="Turkey" ,group-title="CINEBOX",bilgi1
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA4mQrIg2L6PmxpXdcpdX3dUyUpY-GHh1_cbyz3AZ7M3/ts
-#EXTINF:-3 xui-id="297518" tvg-id="" tvg-name="" tvg-info="" group-title="Turkey" ,group-title="CINEBOX",bilgi3
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEfQEshl0jkOqSj2VCQkUcE1PMVJFUN8EMyUZojzttCM/ts
-#EXTINF:-3 xui-id="297518" tvg-id="" tvg-name="" tvg-info="" group-title="Turkey", group-title="CINEBOX",bilgi4
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA4mQrIg2L6PmxpXdcpdX3fKMdm2QtR_8vOzVAdE3xTF/ts
-#EXTINF:-1 xui-id="297519" tvg-id="" tvg-name="" epg-id="" group-title="Turkey","CINEBOX 2 TR",bilgi
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA4mQrIg2L6PmxpXdcpdX3dUyUpY-GHh1_cbyz3AZ7M3/ts
-#EXTINF:-1 xui-id="297520" tvg-id="" tvg-name="" id-epg="" group-title="Turkey","CINEBOX 3 TR",bigi
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEfQEshl0jkOqSj2VCQkUcE1PMVJFUN8EMyUZojzttCM/ts
-#EXTINF:-1 xui-id="297521" tvg-id="" tv-epg-id="bilgi" tvg-name="CINEBOX 4 TR" tvg-logo="" group-title="Turkey",CINEBOX 4 TR,bilgi1
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEfQEshl0jkOqSj2VCQkUcFYgE8NjuSdJYK_-nHVgCqg/ts
-#EXTINF:-1 xui-id="297521" tvg-id="" tv-epg-id="bilgi" tvg-name="CINEBOX 4 TR" tvg-logo="" group-title="Turkey","CINEBOX 5 TR","bilgi1"
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEfQEshl0jkOqSj2VCQkUcHsjxzkA_FTKAMricKnU-ip/ts
-#EXTINF:-1 xui-id="297521" tvg-id="" tv-epgid="bilgi" tvg-name="CINEBOX 4 TR" tvg-logo="" group-title="Turkey",CINEBOX 4 TR,bilgi1
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEfQEshl0jkOqSj2VCQkUcG4xhTPYO0CGeqdpwsk2Vkk/ts
-#EXTINF:-1 xui-id="297524" tvg-id="" tvg-name="CINEBOX 7 TR" tvg-logo="" group-title="Turkey",CINEBOX 7 TR
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEfQEshl0jkOqSj2VCQkUcEnP7pd7oX7ztncS6-IyrDJ/ts
-#EXTINF:-1 xui-id="297525" tvg-id="" tvg-name="CINEBOX 8 TR" tvg-logo="" group-title="Turkey",CINEBOX 8 TR
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEfQEshl0jkOqSj2VCQkUcGyYP41fXT2DTihSDO3p7YK/ts
-#EXTINF:-1 xui-id="297526" tvg-id="" tvg-name="CINEBOX 9 TR" tvg-logo="" group-title="Turkey",CINEBOX 9 TR
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEfQEshl0jkOqSj2VCQkUcG3PZKMJYUcdKGUvm5nmAaI/ts
-#EXTINF:-1 xui-id="297527" tvg-id="" tvg-name="CINEBOX 10 TR" tvg-logo="" group-title="Turkey",CINEBOX 10 TR
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEfQEshl0jkOqSj2VCQkUcH09nA70wU9_Fj0LzAK9CJy/ts
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 xui-id="29607" tvg-id="" tvg-name="24/7 | JURASSIC PARK" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/jurassic-park-logo-historia-parque-jurasico.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | JURASSIC PARK
+http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOb6vahg9skBCP9rIQKEKpXc/ts
+#EXTINF:-1 xui-id="17381" tvg-id="" tvg-name="24/7 | SAW   (ES)" tvg-logo="https://i.imgur.com/vxzkZA9.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | SAW   (ES)
+http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOfFtUDMBVbWwIEkIm1UwWLE/ts
+#EXTINF:-1 xui-id="29606" tvg-id="" tvg-name="24/7  |  La Purga" tvg-logo="http://img2.rtve.es/v/4943521?w=1600&preview=1547820875364.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7  |  La Purga
+http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOTYYJIiqeIOIuUnviP7gEO4/ts
+#EXTINF:-1 xui-id="29605" tvg-id="" tvg-name="24/7  |  Los originales" tvg-logo="https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/the-originals.png" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7  |  Los originales
+http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOf3k8DlH7atYWp8xCP4oryI/ts
+#EXTINF:-1 xui-id="13384" tvg-id="" tvg-name="24/7  |  Teen Titans Go" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81nRWZRLTJL._RI_.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7  |  Teen Titans Go
+http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOd3UvoToKlvKNmtSQl2d_Tg/ts
+#EXTINF:-1 xui-id="13383" tvg-id="" tvg-name="24/7  |  Tom y Jerry" tvg-logo="https://codigoespagueti.com/wp-content/uploads/2019/04/tom-y-jerry-chloe-grace-moretz-live-action-pelicula-1080x600.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7  |  Tom y Jerry
+http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOZkXx83rT9YCNpFbKvOHuVc/ts
+#EXTINF:-1 xui-id="3729" tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="https://i.pinimg.com/564x/a8/7a/3f/a87a3f775e607920bce1e6b48939d5db.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Dragon Ball Super
+http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMORug3g1kM9zcDTP-7OEku2M/ts
+#EXTINF:-1 xui-id="3678" tvg-id="" tvg-name="24/7 Dragon Ball Z" tvg-logo="https://i.pinimg.com/564x/63/d5/41/63d541ead52b7ba6da97dc024a63be6f.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Dragon Ball Z
+http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOXankAKIi4aO3psrs_LexvQ/ts
+#EXTINF:-1 xui-id="4623" tvg-id="" tvg-name="24/7 Los Picapiedra" tvg-logo="https://image.tmdb.org/t/p/w185/ktzefGtGUwMGAmN1Bna1oTeLSnX.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Los Picapiedra
+http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOatIknCK11kFSrmaoLWAxqI/ts
+#EXTINF:-1 xui-id="3786" tvg-id="" tvg-name="24/7 Malcolm in the Middle" tvg-logo="https://i.pinimg.com/564x/90/2f/52/902f529f3fd240c3ad18ab0ba5b6fe3b.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Malcolm in the Middle
+http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOeQmw40cUYjoZNpyOC36rRc/ts
 
 
