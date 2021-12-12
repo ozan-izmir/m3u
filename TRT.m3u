@@ -1,27 +1,83 @@
-#EXTM3U
-#EXTINF:-1 xui-id="29607" tvg-id="" tvg-name="24/7 | JURASSIC PARK" tvg-info="" group-title="CANALES 24/7 (ESP)" group-info="CANALES",JURASSIC PARK
-http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOb6vahg9skBCP9rIQKEKpXc/ts
-#EXTINF:-1 xui-id="29607" tvg-id="" tvg-name="24/7 | JURASSIC PARK" tvg-info="" group-title="CANALES 24/7"" group-info="CANALES",saw
-http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOfFtUDMBVbWwIEkIm1UwWLE/ts
-#EXTINF:-1 xui-id="29606" tvg-id="" tvg-name="24/7  |  La Purga" tvg-logo="" group-title="CANALES",La Purga
-http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOTYYJIiqeIOIuUnviP7gEO4/ts
-#EXTINF:-1 xui-id="29605" tvg-id="" tvg-name="24/7  |  Los originales" tvg-logo="" tvg-info="" group-title="(ESP)" info-title="(Los originales)",bilgi
-http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOf3k8DlH7atYWp8xCP4oryI/ts
-#EXTINF:-1 xui-id="13384" tvg-id="" tvg-name="24/7  |  Teen Titans Go" tvg-logo="" group-title="(ESP)",Teen Titans Go
-http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOd3UvoToKlvKNmtSQl2d_Tg/ts
-#EXTINF:-1 xui-id="29605" tvg-id="" tvg-name="24/7  |  Los originales" tvg-logo="" group-title="(ESP)" info-title="(Los originales)",bilgi2
-http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOf3k8DlH7atYWp8xCP4oryI/ts
-#EXTINF:-1 xui-id="13384" tvg-id="" tvg-name="24/7  |  Teen Titans Go" tvg-logo="" group-title="(ESP) | CARTOONS 24/7 (SPA)",24/7  |  Teen Titans Go1
-http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOd3UvoToKlvKNmtSQl2d_Tg/ts
-#EXTINF:-1 xui-id="13383" tvg-id="" tvg-name="24/7  |  Tom y Jerry" tvg-logo="https://codigoespagueti.com/wp-content/uploads/2019/04/tom-y-jerry-chloe-grace-moretz-live-action-pelicula-1080x600.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7  |  Tom y Jerry
-http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOZkXx83rT9YCNpFbKvOHuVc/ts
-#EXTINF:-1 xui-id="3729" tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="https://i.pinimg.com/564x/a8/7a/3f/a87a3f775e607920bce1e6b48939d5db.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Dragon Ball Super
-http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMORug3g1kM9zcDTP-7OEku2M/ts
-#EXTINF:-1 xui-id="3678" tvg-id="" tvg-name="24/7 Dragon Ball Z" tvg-logo="https://i.pinimg.com/564x/63/d5/41/63d541ead52b7ba6da97dc024a63be6f.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Dragon Ball Z
-http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOXankAKIi4aO3psrs_LexvQ/ts
-#EXTINF:-1 xui-id="4623" tvg-id="" tvg-name="24/7 Los Picapiedra" tvg-logo="https://image.tmdb.org/t/p/w185/ktzefGtGUwMGAmN1Bna1oTeLSnX.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 Los Picapiedra
-http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOatIknCK11kFSrmaoLWAxqI/ts
-#EXTINF:-1 xui-id="3786" tvg-id="" tvg-name="24/7 Malcolm in the Middle" tvg-logo="https://i.pinimg.com/564x/90/2f/52/902f529f3fd240c3ad18ab0ba5b6fe3b.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Malcolm in the Middle
-http://list4k.online:8080/play/mkkdpWUx5nYEUO7p5ygMOeQmw40cUYjoZNpyOC36rRc/ts
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Oynatma Listesi</title>
+	<trackList>
+		<track>
+			<location>http://afatmus.xyz:8080/United4756/8S9C5E31AZ0QPL/2271</location>
+			<title>XXX: XPLUS SHEMALE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://afatmus.xyz:8080/United4756/8S9C5E31AZ0QPL/2264</location>
+			<title>XXX: XPLUS PUBLIC AGENT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://afatmus.xyz:8080/United4756/8S9C5E31AZ0QPL/2270</location>
+			<title>XXX: XPLUS MILF</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://afatmus.xyz:8080/United4756/8S9C5E31AZ0QPL/2268</location>
+			<title>XXX: XPLUS LESBIAN</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://afatmus.xyz:8080/United4756/8S9C5E31AZ0QPL/2265</location>
+			<title>XXX: XPLUS HARDCORE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://afatmus.xyz:8080/United4756/8S9C5E31AZ0QPL/2260</location>
+			<title>XXX: XPLUS GROUP</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://afatmus.xyz:8080/United4756/8S9C5E31AZ0QPL/2269</location>
+			<title>XXX: XPLUS FETISH</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://afatmus.xyz:8080/United4756/8S9C5E31AZ0QPL/2259</location>
+			<title>XXX: XPLUS FEMALE AGENT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://afatmus.xyz:8080/United4756/8S9C5E31AZ0QPL/2267</location>
+			<title>XXX: XPLUS EROTIC</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://afatmus.xyz:8080/United4756/8S9C5E31AZ0QPL/2266</location>
+			<title>XXX: XPLUS CUCKLOD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://afatmus.xyz:8080/United4756/8S9C5E31AZ0QPL/2263</location>
+			<title>XXX: XPLUS BLOWJOB</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
 
 
