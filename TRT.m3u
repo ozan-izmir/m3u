@@ -164,11 +164,11 @@ http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA4mQrIg2L6PmxpXdcpdX3fKM
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA4mQrIg2L6PmxpXdcpdX3dUyUpY-GHh1_cbyz3AZ7M3/ts
 #EXTINF:-1 xui-id="297520" tvg-id="" tvg-name="" id-epg="" group-title="Turkey","CINEBOX 3 TR",bigi
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEfQEshl0jkOqSj2VCQkUcE1PMVJFUN8EMyUZojzttCM/ts
-#EXTINF:-1 xui-id="297521" tvg-id="" tvg-name="CINEBOX 4 TR" tvg-logo="" group-title="Turkey",CINEBOX 4 TR
+#EXTINF:-1 xui-id="297521" tvg-id="" tv-epg-id="bilgi" tvg-name="CINEBOX 4 TR" tvg-logo="" group-title="Turkey",CINEBOX 4 TR,bilgi1
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEfQEshl0jkOqSj2VCQkUcFYgE8NjuSdJYK_-nHVgCqg/ts
-#EXTINF:-1 xui-id="297522" tvg-id="" tvg-name="CINEBOX 5 TR" tvg-logo="" group-title="Turkey",CINEBOX 5 TR
+#EXTINF:-1 xui-id="297521" tvg-id="" tv-epg-id="bilgi" tvg-name="CINEBOX 4 TR" tvg-logo="" group-title="Turkey","CINEBOX 5 TR","bilgi1"
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEfQEshl0jkOqSj2VCQkUcHsjxzkA_FTKAMricKnU-ip/ts
-#EXTINF:-1 xui-id="297523" tvg-id="" tvg-name="CINEBOX 6 TR" tvg-logo="" group-title="Turkey",CINEBOX 6 TR
+#EXTINF:-1 xui-id="297521" tvg-id="" tv-epgid="bilgi" tvg-name="CINEBOX 4 TR" tvg-logo="" group-title="Turkey",CINEBOX 4 TR,bilgi1
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEfQEshl0jkOqSj2VCQkUcG4xhTPYO0CGeqdpwsk2Vkk/ts
 #EXTINF:-1 xui-id="297524" tvg-id="" tvg-name="CINEBOX 7 TR" tvg-logo="" group-title="Turkey",CINEBOX 7 TR
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEfQEshl0jkOqSj2VCQkUcEnP7pd7oX7ztncS6-IyrDJ/ts
