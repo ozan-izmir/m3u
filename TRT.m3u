@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-
- group-title="EDEM" tvg-id="828" tvg-logo="http://epg.it999.ru/img/828.png" tvg-rec="3",BBC World News
+#EXTINF:-1 group-title="EDEM" tvg-id="828" tvg-logo="http://epg.it999.ru/img/828.png" tvg-rec="3",BBC World News
 http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/545/index.m3u8
- group-title="EDEM" tvg-id="2270" tvg-logo="http://epg.it999.ru/img/2270.png" tvg-rec="3",CNN International Europe
+#EXTINF:-1 group-title="EDEM" tvg-id="2270" tvg-logo="http://epg.it999.ru/img/2270.png" tvg-rec="3",CNN International Europe
 http://185.183.34.118/iptv/WPCRZ9TNLSUBDK/842/index.m3u8
