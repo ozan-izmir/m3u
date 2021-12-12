@@ -2,13 +2,13 @@
 #EXT-X-SESSION-DATA:DATA-EPG="com.xui.1_5_5r2"
 #EXTINF:-1 xui-id="214281" tvg-id="" tvg-name="*--- NETFLIX PREMIUM ---*" tvg-logo="" group-title="NETFLIX/CINEBOX PREMIUM EN-AR",*--- NETFLIX PREMIUM ---*
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBhMakYZwis20rCWu33ITVQgOPa5T9W51rMFbltfwLQD/ts
-#EXTINF:-2 xui-id="297518" tvg-id="" tvg-name="" tvg-info="" group-title="Turkey",group-title="CINEBOX",bilgi
+#EXTINF:-2 xui-id="297518" tvg-id="" tvg-name="" tvg-info="" group-title="Turkey", group-title="CINEBOX",bilgi2
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA4mQrIg2L6PmxpXdcpdX3fKMdm2QtR_8vOzVAdE3xTF/ts
-#EXTINF:-1 xui-id="297518" tvg-id="" tvg-name="" tvg-info="" group-title="Turkey",group-title="CINEBOX",bilgi1
+#EXTINF:-1 xui-id="297518" tvg-id="" tvg-name="" tvg-info="" group-title="Turkey" ,group-title="CINEBOX",bilgi1
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA4mQrIg2L6PmxpXdcpdX3dUyUpY-GHh1_cbyz3AZ7M3/ts
-#EXTINF:-1 xui-id="297518" tvg-id="" tvg-name="" tvg-info="bilgiler2" group-title="Turkey" "CINEBOX",bilgi2
+#EXTINF:-3 xui-id="297518" tvg-id="" tvg-name="" tvg-info="" group-title="Turkey" ,group-title="CINEBOX",bilgi3
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEfQEshl0jkOqSj2VCQkUcE1PMVJFUN8EMyUZojzttCM/ts
-#EXTINF:-1 xui-id="297518" tvg-id="" tvg-name="" tvg-info="bilgiler3" group-title="Turkey" , "CINEBOX",bilgi3
+#EXTINF:-3 xui-id="297518" tvg-id="" tvg-name="" tvg-info="" group-title="Turkey", group-title="CINEBOX",bilgi4
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA4mQrIg2L6PmxpXdcpdX3fKMdm2QtR_8vOzVAdE3xTF/ts
 #EXTINF:-1 xui-id="297519" tvg-id="" tvg-name="" epg-id="" group-title="Turkey","CINEBOX 2 TR",bilgi
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA4mQrIg2L6PmxpXdcpdX3dUyUpY-GHh1_cbyz3AZ7M3/ts
