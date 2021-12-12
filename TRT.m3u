@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXT-X-SESSION-DATA:DATA-EPG="com.xui.1_5_5r2"
 #EXTINF:-1 xui-id="214281" tvg-id="" tvg-name="*--- NETFLIX PREMIUM ---*" tvg-logo="" group-title="NETFLIX/CINEBOX PREMIUM EN-AR",*--- NETFLIX PREMIUM ---*
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBhMakYZwis20rCWu33ITVQgOPa5T9W51rMFbltfwLQD/ts
 #EXTINF:-1 xui-id="244049" tvg-id="" tvg-name="Shahid Tv 1" tvg-logo="" group-title="NETFLIX/CINEBOX PREMIUM EN-AR",Shahid Tv 1
