@@ -1969,7 +1969,7 @@ https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: BLOOMBERG HT
 http://ultrontv.xyz:80/vincent2021/vincent2021/97220
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: FX HD
-http://91.236.251.50:8090/play/a01c
+http://91.236.251.50:8090/play/fX-HD
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: FOX CRIME HD
 http://91.236.251.50:8090/play/a01a
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | ULUSAL",TR: SHOW TV EU
@@ -2005,43 +2005,37 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2829
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | HABER",TR: KANAL24
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/350
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ACTION
-http://91.236.251.50:8090/play/a01i
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",SİNEMA 2
-http://91.236.251.50:8090/play/a01l
+http://91.236.251.50:8090/play/SİNEMA-AKSİyON
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",AKSİYON2
+http://91.236.251.50:8090/play/SİnEMA-AKSİyON-2
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",SİNEMA TV
+http://91.236.251.50:8090/play/sİNEMA-tv
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",SİNEMA TV2
+http://91.236.251.50:8090/play/SiNeMa-2
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",AİLE
+http://91.236.251.50:8090/play/SiNeMa-ailE
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",AİLE2
+http://91.236.251.50:8090/play/SiNeMa-ailE-2
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",1001
+http://91.236.251.50:8090/play/SiNeMA-1001
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",1002
+http://91.236.251.50:8090/play/SiNeMA-1002
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",KOMEDİ
+http://91.236.251.50:8090/play/sİNEMA-KOMEDİ
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",KOMEDİ2
+http://91.236.251.50:8090/play/sİNEMA-KOMEDİ-2
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",M CLASSIC
-http://91.236.251.50:8090/play/a02f
+http://91.236.251.50:8090/play/MOVie-CLASSIC
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",M PREMIUM
-http://91.236.251.50:8090/play/a01q
--https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
+http://91.236.251.50:8090/play/MOViE-PRemiUM
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",M PREMIUM 2
-http://91.236.251.50:8090/play/a01r
--https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
+http://91.236.251.50:8090/play/MOViE-PRemiUM-2
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",M TÜRK
-http://91.236.251.50:8090/play/a02g
+http://91.236.251.50:8090/play/MOViE-TuRk
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",M TÜRK
 http://185.191.126.169/live/LfPdKKYE9k/yqCMLZS6h5/38973.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",M PREMIUM
 http://185.191.126.169/live/LfPdKKYE9k/yqCMLZS6h5/38974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",M PREMIUM2
-http://185.191.126.169/live/LfPdKKYE9k/yqCMLZS6h5/38975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",AİLE
-http://91.236.251.50:8090/play/a012
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",AİLE2
-http://91.236.251.50:8090/play/a013
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",MOVIES PREMIERE
-http://ultrontv.xyz:80/vincent2021/vincent2021/97191
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",MOVIES PREMIERE 2
-https://raw.githubusercontent.com/liderkom/m3u/lider_main/ccx.MP4
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",KOMEDİ
-http://91.236.251.50:8090/play/a014
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",KOMEDİ2
-http://91.236.251.50:8090/play/a015
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",SİNEMA TV
-http://91.236.251.50:8090/play/a01k
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",AKSİYON
-http://91.236.251.50:8090/play/a01i
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",AKSİYON2
-http://91.236.251.50:8090/play/a011
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",MiSKET TV
 http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",ANKA TV
@@ -2129,39 +2123,39 @@ https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/in
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: NATIONAL GEOGRAPHIC HD
 http://ultrontv.xyz:80/vincent2021/vincent2021/97181
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: NATIONAL GEOGRAPHIC2 HD
-http://91.236.251.50:8090/play/a01b
+http://91.236.251.50:8090/play/NAT-geo-HD
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: NATIONAL WILD HD
 http://ultrontv.xyz:80/vincent2021/vincent2021/97182
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: NATIONAL WILD2 HD
-http://91.236.251.50:8090/play/a01f
+http://91.236.251.50:8090/play/NAT-geo-wilD-HD
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: DISCOVERY CHANEL HD
 http://185.191.126.169/live/LfPdKKYE9k/yqCMLZS6h5/39018.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: DISCOVERY CHANEL2 HD
-http://91.236.251.50:8090/play/a02a
+http://91.236.251.50:8090/play/DiSCoVeRY-CHaNNeL
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: DISCOVERY SCIENCE HD
 http://185.191.126.169/live/LfPdKKYE9k/yqCMLZS6h5/39019.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: DISCOVERY SCIENCE2 HD
-http://91.236.251.50:8090/play/a02i
+http://91.236.251.50:8090/play/DiSCoVeRY-SCieNCe
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: LOVE NATURE
-http://91.236.251.50:8090/play/a00q
+http://91.236.251.50:8090/play/LoVe-NATURE
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: beIN IZ HD
 http://185.191.126.169/live/LfPdKKYE9k/yqCMLZS6h5/39015.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: HISTORY HD
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/320
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: HISTORY HD2
-http://91.236.251.50:8090/play/a01m
+http://91.236.251.50:8090/play/HiSToRY-CHaNNeL-HD
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: BBC EARTH HD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2290
+http://91.236.251.50:8090/play/BBC-eaRTH
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: BBC EARTH HD2
 http://91.236.251.50:8090/play/a00r
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: VIASAT HISTOY/NATURE HD
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2293
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: DA VINCI KIDS
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2291
+http://91.236.251.50:8090/play/ViASAT-HiSTOrY
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: DA VINCI
+http://91.236.251.50:8090/play/Da-ViNCi
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: YABAN TV
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/344
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | BELGESEL",TR: DMAX
-http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/335
+http://91.236.251.50:8090/play/DMaX-HD
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "ENG | BELGESEL",ENG: Viasat Explore HD
 http://46.149.191.243:8999/play/a00d
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "ENG | BELGESEL",ENG: Viasat History HD
