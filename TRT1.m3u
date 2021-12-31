@@ -2406,8 +2406,8 @@ http://b5.vc:80/Ernando2021/2021Ernando/128608.ts
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_2.stream/chunklist_w876588604.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul Beşiktaş
 http://ibb-media4.ibb.gov.tr:1935/live/43.stream/chunklist_w1708053345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul Bağdat Caddesi
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_2.stream/chunklist_w876588604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul bakırköy
+http://ibb-media2.ibb.gov.tr:1935/live/451.stream/chunklist_w1685289814.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul Kapalı Çarşı
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kapali_carsi.stream/chunklist_w839538272.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul Kız Kulesi
@@ -2422,6 +2422,18 @@ https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_1.stream/chunklis
 https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kadikoy.stream/chunklist_w1796797227.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul Eminönü İskelesi
 http://ibb-media1.ibb.gov.tr:1935/live/181.stream/chunklist_w523264543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul fındıklı maltepe
+http://ibb-media1.ibb.gov.tr:1935/live/186.stream/chunklist_w1376567489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul yıldıztepe bağcılar
+http://ibb-media2.ibb.gov.tr:1935/live/655.stream/chunklist_w2116310871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul cihangir avcılar
+http://ibb-media2.ibb.gov.tr:1935/live/611.stream/chunklist_w2051403127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul iskele eminönü
+http://ibb-media1.ibb.gov.tr:1935/live/181.stream/chunklist_w523264543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul gençlik meydanı marmaris
+https://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/chunklist_w1470721176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: İstanbul bozburun marmaris
+https://cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/chunklist_w1873270958.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",MAX SELECT 1 FHD DE
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82723
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",SELECT 1 FHD DE
