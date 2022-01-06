@@ -2200,8 +2200,8 @@ http://91.236.251.50:8090/play/DMaX-HD
 http://84.84.196.164:9999/play/a008
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "ENG | BELGESEL",ENG:History HD
 http://84.84.196.164:9999/play/a01g
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "ENG | BELGESEL",ENG: Viasat Nature HD
-http://46.149.191.243:8999/play/a00f
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "ENG | BELGESEL",ENG:LOVE NATURE 4k
+http://hostlife.me:8089/play/RVI4JtT6W_p-w53GVuKtT4JX0xZ9rCOoGS7uLWpv43-dgFzUUwEdlS7q3SP6l2Kl/ts
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "ENG | BELGESEL",NL: Love Nature HD
 http://84.84.196.164:9999/play/a03y
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "ENG | BELGESEL",NL: Discovery Science HD
