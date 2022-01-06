@@ -2004,23 +2004,23 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2831
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2829
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | HABER",TR: KANAL24
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/350
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",TORBA TV KIBRIS
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",TORBA TV KIBRIS
 https://59cba4d34b678.streamlock.net/canlitv/torbatv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",MAYIS TV KIBRIS
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",MAYIS TV KIBRIS
 http://mayistv.com:1935/live/mayistv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",KUZEY KIBRIS TURK TV
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",KUZEY KIBRIS TURK TV
 http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA", BRUKSEL TURK TV
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA", BRUKSEL TURK TV
 http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",FTV AZERİ
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",FTV AZERİ
 https://str2.yodacdn.net/publive/ftv/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",LiVE TV AZERİ
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",LiVE TV AZERİ
 https://europe2.livetv.az/azerbaijan/livetv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",AZAD AZERi 1
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",AZAD AZERi 1
 http://85.132.81.184:8080/atv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",AZAD AZERi 2
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",AZAD AZERi 2
 http://85.132.81.184:8080/atv-2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",AZAD AZERi 4
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",AZAD AZERi 4
 http://85.132.81.184:8080/atv-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",B PREMIER FHD
 http://ultrontv.xyz:80/vincent2021/vincent2021/99371
@@ -2456,96 +2456,6 @@ https://cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/chunklist_w1873270958.m3u
 http://212.175.207.19:1935/canliyayin/dbbIncilipinar.stream/chunklist_w1404209625.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | CAM",TR: denizli/CINAR CAD.
 http://212.175.207.19:1935/canliyayin/dbbBelediye2.stream/chunklist_w1145907948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",MAX SELECT 1 FHD DE
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82723
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",SELECT 1 FHD DE
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/12470
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",SELECT 2 FHD DE
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/12469
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",SELECT 3 FHD DE
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1337
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",SELECT 4 FHD DE
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1336
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",SELECT 5 FHD DE
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/12487
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",SELECT 6 FHD DE
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1334
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",OCS Go Cinema 1 HD FR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4131
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",OCS Go Cinema 2 HD FR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4130
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",OCS Go Cinema 3 HD FR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4134
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",OCS Go Cinema 4 HD FR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4128
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",OCS Go Cinema 5 HD FR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4127
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",Digi Gold 1 AL
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/686
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",Digi Gold 2 AL
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/685
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",Digi Gold 3 AL
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/684
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",Digi Gold 4 AL
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/683
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",RED TV AL
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/94111
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",CINEMA 1 AL
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/2315
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE-YBC | CINEMA",CINEMA 2 AL
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/2314
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",B SPORT 1
-http://iptv.ndasat.com:88/229401692640454/229401692640454/7731
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",B SPORT 2
-http://iptv.ndasat.com:88/229401692640454/229401692640454/70
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",B SPORT 3
-http://iptv.ndasat.com:88/229401692640454/229401692640454/71
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",MAX 1
-http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/682953?play_token=4VtFxZ3eMz
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",MAX 2
-http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/682954?play_token=RWWtWjIJ3j
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ SPORT1
-http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/16926?play_token=93QDOSWSlP
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+
-http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/57012?play_token=3L36bJB0nI
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ FAMİLY
-http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/8628?play_token=WlF4v0ZoEn
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ CİNEMA
-http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/5700?play_token=HGJ6HufmUl
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ CLASIC
-http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/7943?play_token=XLG62yUzlr
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ PREMIER
-http://mag.you24.online:8080/endeshawyeshewas/Ha1Ba1zaN/5688?play_token=deH4XLYqPl
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ Decale
-http://iptv.ndasat.com:88/229401692640454/229401692640454/183
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ Cinema
-http://iptv.ndasat.com:88/229401692640454/229401692640454/5191
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ Family
-http://iptv.ndasat.com:88/229401692640454/229401692640454/184
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ Emotion
-http://iptv.ndasat.com:88/229401692640454/229401692640454/186
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ Frisson
-http://iptv.ndasat.com:88/229401692640454/229401692640454/185
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ CanalPlay01
-http://iptv.ndasat.com:88/229401692640454/229401692640454/884
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ CanalPlay02
-http://iptv.ndasat.com:88/229401692640454/229401692640454/885
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ CanalPlay03
-http://iptv.ndasat.com:88/229401692640454/229401692640454/886
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ CanalPlay04
-http://iptv.ndasat.com:88/229401692640454/229401692640454/887
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ CanalPlay05
-http://iptv.ndasat.com:88/229401692640454/229401692640454/888
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ CanalPlay06
-http://iptv.ndasat.com:88/229401692640454/229401692640454/889
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ CanalPlay07
-http://iptv.ndasat.com:88/229401692640454/229401692640454/890
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ CanalPlay08
-http://iptv.ndasat.com:88/229401692640454/229401692640454/891
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ CanalPlay09
-http://iptv.ndasat.com:88/229401692640454/229401692640454/892
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "CSAT | FRANCE",C+ CanalPlay10
-http://iptv.ndasat.com:88/229401692640454/229401692640454/893
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 1
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/682946
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | SİNEMA-TR",TR: Recep İvedik 2
