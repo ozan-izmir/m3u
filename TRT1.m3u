@@ -2004,6 +2004,24 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2831
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/2829
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "TR | HABER",TR: KANAL24
 http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/350
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",TORBA TV KIBRIS
+https://59cba4d34b678.streamlock.net/canlitv/torbatv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",MAYIS TV KIBRIS
+http://mayistv.com:1935/live/mayistv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",KUZEY KIBRIS TURK TV
+http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA", BRUKSEL TURK TV
+http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",FTV AZERİ
+https://str2.yodacdn.net/publive/ftv/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",LiVE TV AZERİ
+https://europe2.livetv.az/azerbaijan/livetv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",AZAD AZERi 1
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",AZAD AZERi 2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "__ | DÜNYA",AZAD AZERi 4
+http://85.132.81.184:8080/atv-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",B PREMIER FHD
 http://ultrontv.xyz:80/vincent2021/vincent2021/99371
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",B PREMIER FHD2
