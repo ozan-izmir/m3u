@@ -2008,6 +2008,22 @@ http://triptv.cndmedia.nl:8080/JZ9QZ8X6AM/Sng8dsH/350
 https://59cba4d34b678.streamlock.net/canlitv/torbatv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",MAYIS TV KIBRIS
 http://mayistv.com:1935/live/mayistv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",CANAL+
+http://41.224.0.27:8877/play/a02x
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",CSTAR
+http://41.224.0.27:8877/play/a0b2
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",CANAL+ CINEMA
+http://41.224.0.27:8877/play/a02z
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",CINE+ PREMIER
+http://41.224.0.27:8877/play/a042
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",CINE+ FRISSON
+http://41.224.0.27:8877/play/a02y
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",CANAL+ FAMILY
+http://41.224.0.27:8877/play/a031
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",CINE+ EMOTION
+http://41.224.0.27:8877/play/a047
+#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",FRANCE 2
+http://41.224.0.27:8877/play/a0am
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",KUZEY KIBRIS TURK TV
 http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA", BRUKSEL TURK TV
@@ -2026,14 +2042,6 @@ https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_42
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",Fashion-LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",CANAL+
-http://41.224.0.27:8877/play/a02x
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",CANAL+ CINEMA
-http://41.224.0.27:8877/play/a02z
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",CINE+ PREMIER
-http://41.224.0.27:8877/play/a042
-#EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "DÜNYA",CSTAR
-http://41.224.0.27:8877/play/a0b2
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",B PREMIER FHD
 http://ultrontv.xyz:80/vincent2021/vincent2021/99371
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "LIVE | SINEMA",B PREMIER FHD2
