@@ -2234,7 +2234,7 @@ http://tv.urllista.com/live/dilltvbox/2nbmdeh4n3/62794.ts
 http://tv.urllista.com/live/dilltvbox/2nbmdeh4n3/50538.ts
 #EXTINF:-1 tvg-id="" tvg-name=" TR: TRT 1" tvg - logo = "" group-title = "ENG | BELGESEL",NL: Nat Geo WILD HD
 http://84.84.196.164:9999/play/a01h
-#EXTINF:-1,[SHOW ] FESTIVAL SERTANEJO - 2 Horas das Melhores do Sertanejo
+#EXTINF:-1,tvg-id="" group-title = "[SHOW ]",FESTIVAL SERTANEJO
 http://tv.urllista.com/live/dilltvbox/2nbmdeh4n3/64448.ts
 #EXTINF:-1,[SHOW ]Festival Sertanejo  - Só As Mais Tocadas
 http://tv.urllista.com/live/dilltvbox/2nbmdeh4n3/64447.ts
